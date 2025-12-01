@@ -1,0 +1,378 @@
+# Pro-IRH Content - Single Source of Truth
+# Author: 3lectrify | Product: HEATSCOPE
+# Last updated: 2024-12-01
+
+brand:
+  author: "3lectrify"
+  product: "HEATSCOPE"
+  tagline: "einfach. schön. warm."
+  logo_url: "/assets/3lectrify-logo.svg"
+
+cta:
+  primary: "Erleben Sie es selbst"
+  secondary: "Besuchen Sie das 3lectrify Kompetenzzentrum"
+  address: "Kramergasse 32, 82054 Sauerlach"
+  phone: "+49 8104 64 70 92 99"
+  email: "mail@heatscope.com"
+  website: "https://projects.heatscope.com"
+  action_text: "Fühlen Sie den Unterschied – vereinbaren Sie Ihren Besuch"
+
+# =============================================================================
+# KEY FACTS
+# =============================================================================
+
+key_facts:
+  investment:
+    value: "ab 39 €/m²"
+    context: "Wohnfläche"
+    source: "HEATSCOPE ROOMS PROJECTS Katalog"
+
+  warranty:
+    value: "30 Jahre"
+    context: "Garantie auf Heizpaneel"
+    source: "HEATSCOPE ROOMS PROJECTS Katalog"
+
+  efficiency:
+    value: "32%"
+    context: "Endenergieeinsparung vs. Gas-Brennwert"
+    source: "Fraunhofer Institut für Bauphysik IBP"
+
+  radiation_efficiency:
+    value: "max. 70%"
+    context: "Strahlungswirkungsgrad"
+    source: "HEATSCOPE ROOMS PROJECTS Katalog"
+
+  autarky:
+    value: "76%"
+    context: "Solarer Deckungsgrad mit PV"
+    source: "Ehingen Referenzprojekt, Spiegel 34/2024"
+
+  heat_up_time:
+    value: "< 5 Minuten"
+    context: "Betriebstemperatur erreicht"
+    source: "DIN-Norm, AUTO BILD Test 2025"
+
+  certifications:
+    value: "VDE, GS, CE, EIHA"
+    context: "Zertifizierte Qualität"
+    source: "HEATSCOPE ROOMS PROJECTS Katalog"
+
+  origin:
+    value: "Made in Germany"
+    context: "Herstellung"
+    source: "HEATSCOPE ROOMS PROJECTS Katalog"
+
+# =============================================================================
+# COMPARISONS
+# =============================================================================
+
+comparisons:
+  wp_amortisation:
+    label: "Amortisation Wärmepumpe"
+    value: "100 Jahre"
+    explanation: "Bei 50.000€ Mehrkosten und 500€/Jahr Einsparung"
+    source: "Spiegel 34/2024"
+
+  temperature_gradient:
+    infrared: "2°C"
+    convection: "4°C"
+    explanation: "Temperaturunterschied Decke zu Boden"
+    source: "IG Infrarot Präsentation"
+
+  fernwaerme_risks:
+    - "Preis pro kWh nicht kalkulierbar"
+    - "Anschlusskosten sehr hoch"
+    - "Abhängigkeit von einem Anbieter"
+    - "CO2-Neutralität bis 2045 → Kostenumlage auf Nutzer"
+
+  waermepumpe_risks:
+    - "Anlagentechnik 3x teurer als IRH"
+    - "Wartung/Instandhaltung teuer (trägt Mieter)"
+    - "Instandsetzung nach ~15 Jahren"
+    - "Leitungsverluste im Gebäude"
+
+# =============================================================================
+# REFERENCE PROJECTS
+# =============================================================================
+
+references:
+  ehingen:
+    name: "Ehingen (Allgäu)"
+    type: "Mehrfamilienhaus"
+    units: 5
+    highlight: "Sparsamste MFH Deutschlands"
+    source: "Der Spiegel 34/2024"
+    pv_peak: "48 kW"
+    total_demand: "33.304 kWh/a"
+    grid_purchase: "7.936 kWh/a"
+    grid_feed: "30.204 kWh/a"
+    autarky: "76%"
+    annual_cost: "50 €/Jahr"
+    annual_cost_note: "für das gesamte Haus"
+
+  aschersleben:
+    name: "Aschersleben"
+    type: "Plattenbau-Sanierung"
+    units: 22
+    solar_coverage: "60%"
+    flatrate_rent: "11,50 €/m²"
+    flatrate_note: "inkl. aller Nebenkosten"
+    monthly_energy: "80 €/WE"
+    source: "IG Infrarot / 3lectrify Pitchdeck"
+
+  bergisch_gladbach:
+    name: "Bergisch Gladbach"
+    type: "Altbau 1969"
+    highlight: "Energieklasse A ohne PV"
+    energy_class: "A"
+    energy_demand: "37,84 kWh/m²a"
+    co2_emissions: "28,61 kg CO₂/(m²·a)"
+    note: "Nur mit Infrarotheizung, OHNE PV-Anlage"
+    source: "IG Infrarot Präsentation"
+
+  cottbus:
+    name: "Cottbus"
+    type: "Mehrfamilienhaus"
+    units: 14
+    year: 2018
+    flatrate_rent: "10,50 €/m²"
+    monitoring: "TU Bergakademie Freiberg"
+    source: "3lectrify Pitchdeck"
+
+  attendorn:
+    name: "Familie R., Attendorn"
+    type: "Einfamilienhaus"
+    highlight: "Vollständig energieautark"
+    pv_peak: "6,5 kW"
+    monthly_total: "< 100 €"
+    monthly_note: "für Heizung + Strom + Mobilität"
+    source: "IG Infrarot Präsentation"
+
+  efh_1970:
+    name: "EFH Baujahr 1970"
+    type: "Einfamilienhaus"
+    area: "120 m²"
+    persons: 3
+    investment: "20.000 €"
+    investment_includes: "10 kWp PV + IR-Paneele + Heizstab"
+    result: "70% weniger Gasverbrauch und CO₂"
+    source: "IG Infrarot Präsentation"
+
+# =============================================================================
+# SCIENTIFIC SOURCES
+# =============================================================================
+
+science:
+  fraunhofer:
+    institution: "Fraunhofer Institut für Bauphysik IBP"
+    finding: "In Zwillingshäusern sparen Infrarotheizungen über 32 Prozent Endenergie gegenüber einer Gas-Brennwert-Heizung."
+    type: "Vergleichsstudie"
+
+  tu_dresden:
+    institution: "TU Dresden"
+    finding: "Anwendung von Infrarotheizungen in Bestandsgebäuden möglich und sinnvoll – auch im Altbestand."
+    type: "Forschungsstudie"
+
+  tu_freiberg:
+    institution: "TU Bergakademie Freiberg"
+    finding: "Langzeit-Monitoring Cottbus Referenzprojekt"
+    type: "Monitoring"
+
+  bfs:
+    institution: "Bundesamt für Strahlenschutz"
+    finding: "IR-C Strahlung wird in der Oberhaut absorbiert. Keine Gefährdung bei normalem Gebrauch."
+    url: "https://www.bfs.de/DE/themen/opt/anwendung-medizin-wellness/infrarot/infrarot_node.html"
+    type: "Offizielle Bewertung"
+
+  fs_ev:
+    institution: "Fachverband für Strahlenschutz e.V."
+    finding: "Leitfaden 'Sichtbare und infrarote Strahlung' (2018)"
+    url: "https://www.fs-ev.org/fileadmin/user_upload/04_Arbeitsgruppen/08_Nichtionisierende_Strahlung/02_Dokumente/Leitfaden-SB-IR-AKNIR_2018.pdf"
+    type: "Fachleitfaden"
+
+# =============================================================================
+# CO2 PRICE FORECASTS
+# =============================================================================
+
+co2_prices:
+  current_2024: "45 €/t"
+  forecast_2027: "~120 €/t"
+  forecast_2035: "200+ €/t"
+  sources:
+    - name: "EWI Köln"
+      url: "https://www.ewi.uni-koeln.de/cms/wp-content/uploads/2024/04/EWI-Kurzstudie_Auswirkungen-und-Preispfade-des-EU-ETS-2.pdf"
+    - name: "Ariadne-Projekt"
+      url: "https://ariadneprojekt.de/publikation/deutschland-auf-dem-weg-zur-klimaneutralitat-2045-szenarien-und-pfade-im-modellvergleich/"
+    - name: "Umweltbundesamt"
+      url: "https://www.umweltbundesamt.de/publikationen/sozio-oekonomische-folgenabschaetzung"
+    - name: "Agora Energiewende"
+      url: "https://www.agora-energiewende.de/veroeffentlichungen/der-co2-preis-fuer-gebaeude-und-verkehr/"
+
+# =============================================================================
+# ELECTRICITY PRICE FORECASTS
+# =============================================================================
+
+electricity_prices:
+  current_new_customer: "22,9 Ct/kWh"
+  current_existing: "33,5 Ct/kWh"
+  forecast_2030: "~30-38 Ct/kWh"
+  trend: "Stabilisierung durch Erneuerbare (80% bis 2030)"
+  sources:
+    - "BMWK"
+    - "Ariadne/Kopernikus-Projekt"
+
+# =============================================================================
+# BENEFITS
+# =============================================================================
+
+benefits:
+  - id: "warranty"
+    title: "30 Jahre Garantie"
+    description: "Echte Garantie, keine Gewährleistung"
+    icon: "shield"
+
+  - id: "maintenance"
+    title: "Wartungsfrei"
+    description: "Keine regelmäßige Wartung nötig"
+    icon: "wrench"
+
+  - id: "simple"
+    title: "Ein System"
+    description: "Wärmeerzeugung, -verteilung und -übergabe in einem"
+    icon: "cube"
+
+  - id: "individual"
+    title: "Individuelle Regelung"
+    description: "Einzelne Räume/Heizzonen separat steuerbar"
+    icon: "sliders"
+
+  - id: "fast"
+    title: "Sofortheizung"
+    description: "Schnelle Wärmeabgabe in unter 5 Minuten"
+    icon: "zap"
+
+  - id: "clean"
+    title: "Sauberkeit"
+    description: "Kaum Staubaufwirbelung"
+    icon: "sparkles"
+
+  - id: "healthy"
+    title: "Gesunde Wärme"
+    description: "Natürliche Strahlungswärme wie Sonnenlicht"
+    icon: "sun"
+
+  - id: "reliable"
+    title: "Zuverlässigkeit"
+    description: "Dezentral – Ausfall eines Geräts ≠ Problem fürs Haus"
+    icon: "check-circle"
+
+  - id: "longevity"
+    title: "Langlebigkeit"
+    description: "Jahrzehntelange Lebensdauer"
+    icon: "clock"
+
+  - id: "grey_energy"
+    title: "Weniger graue Energie"
+    description: "Einfacheres System = weniger Materialaufwand"
+    icon: "leaf"
+
+# =============================================================================
+# FAQ (from Persona Analysis)
+# =============================================================================
+
+faq:
+  comfort:
+    - question: "Wird das warm genug, auch im Winter?"
+      answer: "Ja. Hochwertige Infrarotheizungen erreichen ihre Betriebstemperatur in unter 5 Minuten. Die Strahlungswärme ist sofort auf der Haut spürbar – im Gegensatz zu Konvektionsheizungen, die erst die gesamte Raumluft erwärmen müssen. Die Wärme wird als angenehmer empfunden, da Objekte und Menschen direkt erwärmt werden."
+      sources:
+        - "DIN-Norm (< 5 Min = gut, < 2 Min = ideal)"
+        - "AUTO BILD Test 2025"
+
+    - question: "Wie schnell heizt eine Infrarotheizung auf?"
+      answer: "Stahlpaneele erreichen ihre Betriebstemperatur in etwa 5 Minuten, Naturstein in 10-25 Minuten. Die Strahlungswärme ist bereits nach wenigen Minuten auf der Haut spürbar."
+      sources:
+        - "IG Infrarot Leitfaden"
+
+    - question: "Ist Infrarotstrahlung gesundheitlich unbedenklich?"
+      answer: "Ja. Infrarotheizungen arbeiten mit IR-C Strahlung (langwellig) – nicht zu verwechseln mit UV-Strahlung. Das Bundesamt für Strahlenschutz bestätigt: Bei normalem Gebrauch keine Gesundheitsgefährdung. IR-Wärme wird sogar in der Medizin therapeutisch eingesetzt, z.B. bei Muskelverspannungen."
+      sources:
+        - "Bundesamt für Strahlenschutz"
+        - "Fachverband für Strahlenschutz e.V."
+        - "Nature Scientific Reports"
+
+  costs:
+    - question: "Was kostet eine Infrarotheizung im Betrieb?"
+      answer: "Die Betriebskosten hängen vom Gebäude und der PV-Ausstattung ab. Das 'sparsamste Mehrfamilienhaus Deutschlands' in Ehingen kommt auf nur 50 € Energiekosten pro Jahr – für das gesamte Haus mit 5 Wohneinheiten. In Aschersleben zahlen Mieter eine Flatrate von 11,50 €/m² inkl. aller Nebenkosten."
+      sources:
+        - "Der Spiegel 34/2024"
+        - "IG Infrarot Präsentation"
+
+    - question: "Wie entwickeln sich die Strompreise?"
+      answer: "Während fossile Brennstoffe durch CO2-Bepreisung teurer werden (von 45 €/t heute auf 120 €/t 2027 und 200+ €/t 2035), stabilisieren sich Strompreise durch den Ausbau erneuerbarer Energien. Das BMWK erwartet 2030 Strompreise um 30-38 Ct/kWh. Mit eigener PV-Anlage sinken die Heizkosten auf nahezu Null."
+      sources:
+        - "EWI Köln"
+        - "Ariadne-Projekt"
+        - "BMWK"
+
+    - question: "Rechnet sich die Investition?"
+      answer: "HEATSCOPE Infrarotheizungen kosten ab 39 €/m² Wohnfläche – ein Bruchteil einer Wärmepumpeninstallation. Der Spiegel hat vorgerechnet: Eine Wärmepumpe mit 50.000 € Mehrkosten spart etwa 500 € pro Jahr. Amortisationszeit: 100 Jahre. Die Infrarotheizung rechnet sich vom ersten Tag."
+      sources:
+        - "HEATSCOPE ROOMS PROJECTS Katalog"
+        - "Der Spiegel 34/2024"
+
+  comparison:
+    - question: "Was spricht gegen Fernwärme?"
+      answer: "Fernwärme hat mehrere Nachteile: Der Preis pro kWh ist nicht kalkulierbar und steigt oft überraschend. Anschlusskosten sind sehr hoch. Sie sind von einem einzigen Anbieter abhängig. Und: Die CO2-Neutralität bis 2045 wird enorme Kosten verursachen – die auf die Nutzer umgelegt werden."
+      sources:
+        - "3lectrify Analyse"
+
+    - question: "Warum keine Wärmepumpe?"
+      answer: "Wärmepumpen haben ihre Berechtigung, aber auch Nachteile: Die Anlagentechnik ist 3x teurer als Infrarotheizung. Wartung und Instandhaltung sind teuer und treffen oft den Mieter. Nach etwa 15 Jahren ist eine größere Instandsetzung nötig. Und: Leitungsverluste im Gebäude reduzieren die Effizienz."
+      sources:
+        - "3lectrify Analyse"
+
+    - question: "Ist Infrarotheizung GEG-konform?"
+      answer: "Ja. Das Umweltbundesamt bestätigt: Die Verwendung von Infrarotheizungen ist nach dem Gebäudeenergiegesetz (GEG) in vielen Fällen möglich."
+      sources:
+        - "Umweltbundesamt"
+        - "IG Infrarot"
+
+  trust:
+    - question: "Gibt es Referenzprojekte?"
+      answer: "Ja, zahlreiche. Das bekannteste ist das 'sparsamste Mehrfamilienhaus Deutschlands' in Ehingen (Spiegel 34/2024) mit nur 50 €/Jahr Energiekosten. In Aschersleben wurden 22 Plattenbau-Wohnungen saniert, in Cottbus werden 14 Wohneinheiten seit 2018 von der TU Bergakademie Freiberg wissenschaftlich begleitet."
+      sources:
+        - "Der Spiegel 34/2024"
+        - "TU Bergakademie Freiberg"
+
+    - question: "Was sagt die Wissenschaft?"
+      answer: "Das Fraunhofer Institut für Bauphysik IBP hat in Zwillingshäusern nachgewiesen: Infrarotheizungen sparen über 32% Endenergie gegenüber Gas-Brennwert-Heizungen. Die TU Dresden bestätigt: 'Anwendung von Infrarotheizungen in Bestandsgebäuden möglich und sinnvoll – auch im Altbestand.'"
+      sources:
+        - "Fraunhofer Institut für Bauphysik IBP"
+        - "TU Dresden"
+
+    - question: "Welche Garantie gibt es?"
+      answer: "HEATSCOPE gibt 30 Jahre Garantie auf jedes Heizpaneel – eine echte Garantie, keine Gewährleistung. Das geht weit über den Branchenstandard hinaus. Zusätzlich gibt es 5 Jahre Garantie auf die Regelungstechnik."
+      sources:
+        - "HEATSCOPE ROOMS PROJECTS Katalog"
+
+# =============================================================================
+# HEATSCOPE PRODUCT INFO
+# =============================================================================
+
+heatscope:
+  name: "HEATSCOPE ROOMS PROJECTS"
+  target: "Bauträger und Investoren ab 10 Wohneinheiten"
+  service_packages:
+    basis:
+      name: "Basis-Paket"
+      includes:
+        - "30 Jahre Gerätegarantie"
+    premium:
+      name: "Premium-Paket (Rundum-Sorglos)"
+      includes:
+        - "Alle Basis-Leistungen"
+        - "Servicegarantie: Feinjustierung vor Ort"
+        - "Komfortgarantie: Wohlfühltemperatur nach DIN EN ISO 7730 – bei Nichterreichen kostenlose Nachrüstung"
+        - "Mieter-Support: HEATSCOPE als Ansprechpartner"
+  eu_compliance: "Erfüllt EU-Ökodesign-Richtlinie"
+  thermostat: "Programmierbares Raumthermostat (gesetzlich vorgeschrieben)"

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="21.0">
+	<Story Self="u352" UserText="true" IsEndnoteStory="false" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" HyphenationZone="26.265306122449" RuleAboveLineWeight="0.7295918367346945" RuleBelowLineWeight="0.7295918367346945" SplitColumnInsideGutter="4.377551020408167">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9" KerningMethod="$ID/Optical" StrokeWeight="0.7295918367346945" FillTint="0" MiterLimit="2.918367346938778" RubyFontSize="-0.7295918367346945" KentenFontSize="-0.7295918367346945">
+				<Properties>
+					<AppliedFont type="string">DINPro</AppliedFont>
+				</Properties>
+				<Content>Unser Premiumpaket für maximale Sorgenfreiheit – gegen eine geringe Service-gebühr pro Wohneinheit.</Content>
+				<Br />
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Medium" PointSize="9" KerningMethod="$ID/Optical" StrokeWeight="0.7295918367346945" FillTint="0" MiterLimit="2.918367346938778" RubyFontSize="-0.7295918367346945" KentenFontSize="-0.7295918367346945">
+				<Properties>
+					<AppliedFont type="string">DINPro</AppliedFont>
+				</Properties>
+				<Content>Ihr Vorteil:</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9" KerningMethod="$ID/Optical" StrokeWeight="0.7295918367346945" FillTint="0" MiterLimit="2.918367346938778" RubyFontSize="-0.7295918367346945" KentenFontSize="-0.7295918367346945">
+				<Properties>
+					<AppliedFont type="string">DINPro</AppliedFont>
+				</Properties>
+				<Content> Sie sichern sich nicht nur gegen technische, sondern auch gegen Komfort-Risiken ab und übergeben die Verantwortung für die Mieterzufriedenheit an uns.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

@@ -1,0 +1,30 @@
+{
+  "name": "heatscope-katalog",
+  "version": "1.0.0",
+  "description": "Pro-IRH Content System - Single Source → Multi-Output (Slidev + Typst Whitepaper)",
+  "private": true,
+  "scripts": {
+    "dev": "npm run slidev:dev",
+    "slidev:dev": "cd slidev && npx @slidev/cli --open",
+    "slidev:build": "cd slidev && npx @slidev/cli build --base /heatscope-katalog/",
+    "slidev:export": "cd slidev && npx @slidev/cli export --output ../dist/presentation.pdf",
+    "whitepaper:build": "cd typst && typst compile whitepaper.typ ../dist/whitepaper.pdf",
+    "whitepaper:watch": "cd typst && typst watch whitepaper.typ ../dist/whitepaper.pdf",
+    "build": "npm run build:all",
+    "build:all": "mkdir -p dist && npm run slidev:export && npm run whitepaper:build",
+    "clean": "rm -rf dist slidev/dist"
+  },
+  "keywords": [
+    "heatscope",
+    "infrarotheizung",
+    "3lectrify",
+    "slidev",
+    "typst",
+    "whitepaper"
+  ],
+  "author": "3lectrify",
+  "devDependencies": {
+    "@slidev/cli": "^0.50.0",
+    "@slidev/theme-default": "latest"
+  }
+}

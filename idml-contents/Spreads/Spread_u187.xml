@@ -1,0 +1,1675 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Spread xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="21.0">
+	<Spread Self="u187" PageTransitionType="None" PageTransitionDirection="NotApplicable" PageTransitionDuration="Medium" ShowMasterItems="true" PageCount="1" BindingLocation="0" SpreadHidden="false" AllowPageShuffle="true" ItemTransform="1 0 0 1 0 0" FlattenerOverride="Default">
+		<FlattenerPreference LineArtAndTextResolution="300" GradientAndMeshResolution="150" ClipComplexRegions="false" ConvertAllStrokesToOutlines="false" ConvertAllTextToOutlines="false">
+			<Properties>
+				<RasterVectorBalance type="double">50</RasterVectorBalance>
+			</Properties>
+		</FlattenerPreference>
+		<Page Self="u1a4" TabOrder="" AppliedMaster="ua5" OverrideList="" MasterPageTransform="1 0 0 1 0 0" Name="1" AppliedTrapPreset="TrapPreset/$ID/kDefaultTrapStyleName" GeometricBounds="0 0 419.527559055 595.275590551" ItemTransform="1 0 0 1 0 -209.7637795275" AppliedAlternateLayout="u9b" LayoutRule="Off" SnapshotBlendingMode="IgnoreLayoutSnapshots" OptionalPage="false" GridStartingPoint="TopOutside" UseMasterGrid="true">
+			<Properties>
+				<PageColor type="enumeration">UseMasterColor</PageColor>
+				<Descriptor type="list">
+					<ListItem type="string"></ListItem>
+					<ListItem type="enumeration">Arabic</ListItem>
+					<ListItem type="boolean">true</ListItem>
+					<ListItem type="boolean">false</ListItem>
+					<ListItem type="long">1</ListItem>
+					<ListItem type="long">1</ListItem>
+					<ListItem type="string"></ListItem>
+				</Descriptor>
+			</Properties>
+			<Guide Self="u1286" OverriddenPageItemProps="" Orientation="Vertical" Location="98.50393700787401" FitToPage="true" ViewThreshold="5" Locked="false" ItemLayer="u153" PageIndex="1" GuideType="Ruler" GuideZone="1">
+				<Properties>
+					<GuideColor type="enumeration">Cyan</GuideColor>
+				</Properties>
+			</Guide>
+			<Guide Self="ua23" OverriddenPageItemProps="" Orientation="Horizontal" Location="381.9685039369488" FitToPage="true" ViewThreshold="5" Locked="false" ItemLayer="u153" PageIndex="1" GuideType="Ruler" GuideZone="1">
+				<Properties>
+					<GuideColor type="enumeration">Cyan</GuideColor>
+				</Properties>
+			</Guide>
+			<Guide Self="u8ba" OverriddenPageItemProps="" Orientation="Vertical" Location="411.8287401574804" FitToPage="true" ViewThreshold="5" Locked="false" ItemLayer="u153" PageIndex="1" GuideType="Ruler" GuideZone="1">
+				<Properties>
+					<GuideColor type="enumeration">Cyan</GuideColor>
+				</Properties>
+			</Guide>
+			<Guide Self="u8b9" OverriddenPageItemProps="" Orientation="Vertical" Location="182.22244094488195" FitToPage="true" ViewThreshold="5" Locked="false" ItemLayer="u153" PageIndex="1" GuideType="Ruler" GuideZone="1">
+				<Properties>
+					<GuideColor type="enumeration">Cyan</GuideColor>
+				</Properties>
+			</Guide>
+			<Guide Self="u8b8" OverriddenPageItemProps="" Orientation="Horizontal" Location="249.44881889763784" FitToPage="true" ViewThreshold="5" Locked="false" ItemLayer="u153" PageIndex="1" GuideType="Ruler" GuideZone="1">
+				<Properties>
+					<GuideColor type="enumeration">Cyan</GuideColor>
+				</Properties>
+			</Guide>
+			<Guide Self="u8b7" OverriddenPageItemProps="" Orientation="Horizontal" Location="150.23622047244098" FitToPage="true" ViewThreshold="5" Locked="false" ItemLayer="u153" PageIndex="1" GuideType="Ruler" GuideZone="1">
+				<Properties>
+					<GuideColor type="enumeration">Cyan</GuideColor>
+				</Properties>
+			</Guide>
+			<Guide Self="u67d" OverriddenPageItemProps="" Orientation="Vertical" Location="14.173228346366045" FitToPage="true" ViewThreshold="5" Locked="false" ItemLayer="u153" PageIndex="1" GuideType="Ruler" GuideZone="1">
+				<Properties>
+					<GuideColor type="enumeration">Cyan</GuideColor>
+				</Properties>
+			</Guide>
+			<Guide Self="u1ab" OverriddenPageItemProps="" Orientation="Vertical" Location="445.13525164718055" FitToPage="true" ViewThreshold="5" Locked="false" ItemLayer="u153" PageIndex="1" GuideType="Ruler" GuideZone="0">
+				<Properties>
+					<GuideColor type="enumeration">Cyan</GuideColor>
+				</Properties>
+			</Guide>
+			<Guide Self="u1aa" OverriddenPageItemProps="" Orientation="Vertical" Location="541.4173228346457" FitToPage="true" ViewThreshold="5" Locked="false" ItemLayer="u153" PageIndex="1" GuideType="Ruler" GuideZone="0">
+				<Properties>
+					<GuideColor type="enumeration">Cyan</GuideColor>
+				</Properties>
+			</Guide>
+			<Guide Self="u1a8" OverriddenPageItemProps="" Orientation="Vertical" Location="392.8818897637795" FitToPage="true" ViewThreshold="5" Locked="false" ItemLayer="u153" PageIndex="1" GuideType="Ruler" GuideZone="0">
+				<Properties>
+					<GuideColor type="enumeration">Cyan</GuideColor>
+				</Properties>
+			</Guide>
+			<Guide Self="u1a7" OverriddenPageItemProps="" Orientation="Vertical" Location="297.6377952755" FitToPage="true" ViewThreshold="5" Locked="false" ItemLayer="u153" PageIndex="1" GuideType="Ruler" GuideZone="0">
+				<Properties>
+					<GuideColor type="enumeration">Cyan</GuideColor>
+				</Properties>
+			</Guide>
+			<Guide Self="u1a6" OverriddenPageItemProps="" Orientation="Horizontal" Location="209.76377952755908" FitToPage="true" ViewThreshold="5" Locked="false" ItemLayer="u153" PageIndex="1" GuideType="Ruler" GuideZone="0">
+				<Properties>
+					<GuideColor type="enumeration">Cyan</GuideColor>
+				</Properties>
+			</Guide>
+			<MarginPreference ColumnCount="1" ColumnGutter="141.73228346456693" Top="14.173228346456694" Bottom="14.173228346456694" Left="14.173228346456694" Right="14.173228346456694" ColumnDirection="Horizontal" ColumnsPositions="0 566.9291338580866" />
+			<GridDataInformation FontStyle="Regular" PointSize="12" CharacterAki="0" LineAki="9" HorizontalScale="100" VerticalScale="100" LineAlignment="LeftOrTopLineJustify" GridAlignment="AlignEmCenter" CharacterAlignment="AlignEmCenter">
+				<Properties>
+					<AppliedFont type="string">Minion Pro</AppliedFont>
+				</Properties>
+			</GridDataInformation>
+		</Page>
+		<Rectangle Self="u1b8" ContentType="GraphicType" StoryTitle="$ID/" OverriddenPageItemProps="" FlexItemWidthMode="FlexFixed" FlexItemHeightMode="FlexFixed" Visible="true" Name="$ID/" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" FillColor="Color/Paper" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" ItemLayer="u153" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.5085301837271602 0 0 0.5085301837271602 -242.36220472450026 -359.9999999999999" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="">
+			<Properties>
+				<PathGeometry>
+					<GeometryPathType PathOpen="false">
+						<PathPointArray>
+							<PathPointType Anchor="504.4645161289072 323.3032258063714" LeftDirection="504.4645161289072 323.3032258063714" RightDirection="504.4645161289072 323.3032258063714" />
+							<PathPointType Anchor="504.4645161289072 1092.5419354836" LeftDirection="504.4645161289072 1092.5419354836" RightDirection="504.4645161289072 1092.5419354836" />
+							<PathPointType Anchor="1619.30322580605 1092.5419354836" LeftDirection="1619.30322580605 1092.5419354836" RightDirection="1619.30322580605 1092.5419354836" />
+							<PathPointType Anchor="1619.30322580605 323.3032258063714" LeftDirection="1619.30322580605 323.3032258063714" RightDirection="1619.30322580605 323.3032258063714" />
+						</PathPointArray>
+					</GeometryPathType>
+				</PathGeometry>
+			</Properties>
+			<FrameFittingOption LeftCrop="216.26359189787675" TopCrop="10.273804840714575" RightCrop="452.7842144718286" BottomCrop="426.1691815543821" FittingOnEmptyFrame="FillProportionally" />
+			<ObjectExportOption AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing" EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault" EpubAriaRole="$ID/">
+				<Properties>
+					<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+					<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+				</Properties>
+			</ObjectExportOption>
+			<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
+				<Properties>
+					<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
+				</Properties>
+				<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
+			</TextWrapPreference>
+			<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+			<Image Self="u13b2" Space="$ID/#Links_RGB" ActualPpi="300 300" EffectivePpi="217 217" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/JPEG" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="2.712818490707672 0 0 2.7128184907076713 -82.21935483851071 295.43225806455894" FlexItemWidthMode="FlexFixed" FlexItemHeightMode="FlexFixed" Visible="true" Name="$ID/" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="">
+				<Properties>
+					<Profile type="string">$ID/None</Profile>
+					<GraphicBounds Left="0" Top="0" Right="1080" Bottom="720" />
+				</Properties>
+				<ClippingPathSettings ClippingType="None" InvertPath="false" IncludeInsideEdges="false" RestrictToFrame="false" UseHighResolutionImage="true" Threshold="25" Tolerance="2" InsetFrame="0" AppliedPathName="$ID/" Index="-1" />
+				<ImageIOPreference ApplyPhotoshopClippingPath="true" AllowAutoEmbedding="true" AlphaChannelName="$ID/" />
+				<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
+					<Properties>
+						<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
+					</Properties>
+					<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
+				</TextWrapPreference>
+				<Link Self="u89d" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/guenther/Library/CloudStorage/OneDrive-MOONICHProduktkonzepteund-realisierungGmbH/GRAFIK/HEATSCOPE%20ROOMS%20Indoor/01%29%20in%20Bearbeitung/ROOMS%20PROJECTS%20Prospekt%20-%20Katalog/02%29%20Bildmaterial/Heatscope_ROOMS_LEETS_Paneel_Ambiente_Decke_01.jpg" LinkResourceFormat="$ID/JPEG" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 133455551881743120 1972313" LinkImportModificationTime="2023-11-27T11:39:48" LinkImportTime="2025-11-25T16:07:45" LinkResourceSize="0~1e1859" RenditionData="Actual" PDFIdentifier="0" />
+				<MetadataPacketPreference>
+					<Properties>
+						<Contents><![CDATA[<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 10.0-c000 25.G.ef72e4e, 2025/06/27-18:54:05        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+            xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/"
+            xmlns:GettyImagesGIFT="http://xmp.gettyimages.com/gift/1.0/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+            xmlns:plus="http://ns.useplus.org/ldf/xmp/1.0/">
+         <photoshop:Source>iStockphoto</photoshop:Source>
+         <photoshop:AuthorsPosition>Contributor</photoshop:AuthorsPosition>
+         <photoshop:CopyrightFlag>true</photoshop:CopyrightFlag>
+         <photoshop:Country>Russia</photoshop:Country>
+         <photoshop:DateCreated>2020-06-21</photoshop:DateCreated>
+         <photoshop:Credit>Getty Images/iStockphoto</photoshop:Credit>
+         <photoshop:Headline>White office library corner with table</photoshop:Headline>
+         <photoshop:URL>https://www.istockphoto.com</photoshop:URL>
+         <photoshop:Instructions>Not Released (NR)</photoshop:Instructions>
+         <photoshop:LegacyIPTCDigest>4364FE06ECD7DE0A9600F77D857B768B</photoshop:LegacyIPTCDigest>
+         <photoshop:Urgency>3</photoshop:Urgency>
+         <photoshop:ColorMode>3</photoshop:ColorMode>
+         <photoshop:DocumentAncestors>
+            <rdf:Bag>
+               <rdf:li>xmp.did:0A4B39505784EE11AAB981864AFF3736</rdf:li>
+               <rdf:li>xmp.did:0D4B39505784EE11AAB981864AFF3736</rdf:li>
+               <rdf:li>xmp.did:446C88A1D413ED11826F81E832EBEEBA</rdf:li>
+               <rdf:li>xmp.did:F4C343235E84EE11AAB981864AFF3736</rdf:li>
+            </rdf:Bag>
+         </photoshop:DocumentAncestors>
+         <Iptc4xmpCore:CountryCode>RUS</Iptc4xmpCore:CountryCode>
+         <GettyImagesGIFT:Dlref>D3UN+/tltbC6RIHTIuV0pw==</GettyImagesGIFT:Dlref>
+         <GettyImagesGIFT:ImageRank>3</GettyImagesGIFT:ImageRank>
+         <GettyImagesGIFT:AssetID>1264805580</GettyImagesGIFT:AssetID>
+         <dc:format>image/jpeg</dc:format>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>ismagilov</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">1264805580</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:description>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Corner of loft office library with white walls, concrete floor, white bookcase and long wooden table with comfortable armchairs. 3d rendering</rdf:li>
+            </rdf:Alt>
+         </dc:description>
+         <xmpRights:WebStatement>https://www.istockphoto.com/legal/license-agreement?utm_medium=organic&amp;utm_source=google&amp;utm_campaign=iptcurl</xmpRights:WebStatement>
+         <xmp:ModifyDate>2023-11-27T11:39:43+01:00</xmp:ModifyDate>
+         <xmp:CreatorTool>Adobe Photoshop CS5.1 Windows</xmp:CreatorTool>
+         <xmp:CreateDate>2023-11-24T15:57:07+01:00</xmp:CreateDate>
+         <xmp:MetadataDate>2023-11-27T11:39:43+01:00</xmp:MetadataDate>
+         <crs:AlreadyApplied>True</crs:AlreadyApplied>
+         <xmpMM:InstanceID>xmp.iid:24F0F2000F8DEE118DF5B5CF4DB15AA9</xmpMM:InstanceID>
+         <xmpMM:DocumentID>xmp.did:C3035424D989EE1184C78CF208530135</xmpMM:DocumentID>
+         <xmpMM:OriginalDocumentID>xmp.did:C3035424D989EE1184C78CF208530135</xmpMM:OriginalDocumentID>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:C3035424D989EE1184C78CF208530135</stEvt:instanceID>
+                  <stEvt:when>2023-11-24T16:02:43+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Photoshop CS5.1 Windows</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from image/jpeg to application/vnd.adobe.photoshop</stEvt:parameters>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>derived</stEvt:action>
+                  <stEvt:parameters>converted from image/jpeg to application/vnd.adobe.photoshop</stEvt:parameters>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:C4035424D989EE1184C78CF208530135</stEvt:instanceID>
+                  <stEvt:when>2023-11-24T16:02:43+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Photoshop CS5.1 Windows</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:4101D0E1DA8AEE1184C78CF208530135</stEvt:instanceID>
+                  <stEvt:when>2023-11-24T16:05:19+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Photoshop CS5.1 Windows</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:4201D0E1DA8AEE1184C78CF208530135</stEvt:instanceID>
+                  <stEvt:when>2023-11-24T16:06:15+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Photoshop CS5.1 Windows</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:4301D0E1DA8AEE1184C78CF208530135</stEvt:instanceID>
+                  <stEvt:when>2023-11-24T16:07:05+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Photoshop CS5.1 Windows</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:4401D0E1DA8AEE1184C78CF208530135</stEvt:instanceID>
+                  <stEvt:when>2023-11-24T16:09:03+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Photoshop CS5.1 Windows</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:4501D0E1DA8AEE1184C78CF208530135</stEvt:instanceID>
+                  <stEvt:when>2023-11-24T16:09:34+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Photoshop CS5.1 Windows</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:4601D0E1DA8AEE1184C78CF208530135</stEvt:instanceID>
+                  <stEvt:when>2023-11-24T16:12:03+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Photoshop CS5.1 Windows</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:4701D0E1DA8AEE1184C78CF208530135</stEvt:instanceID>
+                  <stEvt:when>2023-11-24T16:12:41+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Photoshop CS5.1 Windows</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:4801D0E1DA8AEE1184C78CF208530135</stEvt:instanceID>
+                  <stEvt:when>2023-11-24T16:15:55+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Photoshop CS5.1 Windows</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:4901D0E1DA8AEE1184C78CF208530135</stEvt:instanceID>
+                  <stEvt:when>2023-11-24T16:17:10+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Photoshop CS5.1 Windows</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:4A01D0E1DA8AEE1184C78CF208530135</stEvt:instanceID>
+                  <stEvt:when>2023-11-24T16:18:03+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Photoshop CS5.1 Windows</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:4B01D0E1DA8AEE1184C78CF208530135</stEvt:instanceID>
+                  <stEvt:when>2023-11-24T16:33:08+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Photoshop CS5.1 Windows</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:10F992E0DE8AEE1184C78CF208530135</stEvt:instanceID>
+                  <stEvt:when>2023-11-24T16:33:55+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Photoshop CS5.1 Windows</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:CD3427E1FB8CEE118DF5B5CF4DB15AA9</stEvt:instanceID>
+                  <stEvt:when>2023-11-27T09:06:33+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Photoshop CS5.1 Windows</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:CE3427E1FB8CEE118DF5B5CF4DB15AA9</stEvt:instanceID>
+                  <stEvt:when>2023-11-27T09:49:27+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Photoshop CS5.1 Windows</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:CF3427E1FB8CEE118DF5B5CF4DB15AA9</stEvt:instanceID>
+                  <stEvt:when>2023-11-27T09:57:09+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Photoshop CS5.1 Windows</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:D03427E1FB8CEE118DF5B5CF4DB15AA9</stEvt:instanceID>
+                  <stEvt:when>2023-11-27T09:58+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Photoshop CS5.1 Windows</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:D13427E1FB8CEE118DF5B5CF4DB15AA9</stEvt:instanceID>
+                  <stEvt:when>2023-11-27T09:58:52+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Photoshop CS5.1 Windows</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:D23427E1FB8CEE118DF5B5CF4DB15AA9</stEvt:instanceID>
+                  <stEvt:when>2023-11-27T10:01:40+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Photoshop CS5.1 Windows</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:D33427E1FB8CEE118DF5B5CF4DB15AA9</stEvt:instanceID>
+                  <stEvt:when>2023-11-27T10:05:22+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Photoshop CS5.1 Windows</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:D43427E1FB8CEE118DF5B5CF4DB15AA9</stEvt:instanceID>
+                  <stEvt:when>2023-11-27T10:15:01+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Photoshop CS5.1 Windows</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:23F0F2000F8DEE118DF5B5CF4DB15AA9</stEvt:instanceID>
+                  <stEvt:when>2023-11-27T11:39:43+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Photoshop CS5.1 Windows</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/vnd.adobe.photoshop to image/jpeg</stEvt:parameters>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>derived</stEvt:action>
+                  <stEvt:parameters>converted from application/vnd.adobe.photoshop to image/jpeg</stEvt:parameters>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:24F0F2000F8DEE118DF5B5CF4DB15AA9</stEvt:instanceID>
+                  <stEvt:when>2023-11-27T11:39:43+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Photoshop CS5.1 Windows</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <xmpMM:DerivedFrom rdf:parseType="Resource">
+            <stRef:instanceID>xmp.iid:23F0F2000F8DEE118DF5B5CF4DB15AA9</stRef:instanceID>
+            <stRef:documentID>xmp.did:C3035424D989EE1184C78CF208530135</stRef:documentID>
+            <stRef:originalDocumentID>xmp.did:C3035424D989EE1184C78CF208530135</stRef:originalDocumentID>
+         </xmpMM:DerivedFrom>
+         <plus:Licensor>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <plus:LicensorURL>https://www.istockphoto.com/photo/license-gm1264805580-?utm_medium=organic&amp;utm_source=google&amp;utm_campaign=iptcurl</plus:LicensorURL>
+               </rdf:li>
+            </rdf:Seq>
+         </plus:Licensor>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="r"?>]]></Contents>
+					</Properties>
+				</MetadataPacketPreference>
+			</Image>
+		</Rectangle>
+		<Rectangle Self="u1e9" ContentType="GraphicType" StoryTitle="$ID/" OverriddenPageItemProps="" FlexItemWidthMode="FlexFixed" FlexItemHeightMode="FlexFixed" Visible="true" Name="$ID/" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" ItemLayer="u153" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.9999999999999999 0 0 0.9999999999999999 284.68287604630893 -31.59625072465262" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="">
+			<Properties>
+				<PathGeometry>
+					<GeometryPathType PathOpen="false">
+						<PathPointArray>
+							<PathPointType Anchor="-80.53036410994497 -9.676784203781862" LeftDirection="-80.53036410994497 -9.676784203781862" RightDirection="-80.53036410994497 -9.676784203781862" />
+							<PathPointType Anchor="-80.53036410994497 7.785227102605377" LeftDirection="-80.53036410994497 7.785227102605377" RightDirection="-80.53036410994497 7.785227102605377" />
+							<PathPointType Anchor="113.52681674155555 7.785227102605377" LeftDirection="113.52681674155555 7.785227102605377" RightDirection="113.52681674155555 7.785227102605377" />
+							<PathPointType Anchor="113.52681674155555 -9.676784203781862" LeftDirection="113.52681674155555 -9.676784203781862" RightDirection="113.52681674155555 -9.676784203781862" />
+						</PathPointArray>
+					</GeometryPathType>
+				</PathGeometry>
+			</Properties>
+			<FrameFittingOption RightCrop="0.042247429196095254" BottomCrop="-0.3406760809994296" FittingOnEmptyFrame="FillProportionally" />
+			<ObjectExportOption AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing" EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault" EpubAriaRole="$ID/">
+				<Properties>
+					<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+					<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+				</Properties>
+			</ObjectExportOption>
+			<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
+				<Properties>
+					<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
+				</Properties>
+				<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
+			</TextWrapPreference>
+			<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+			<EPS Self="u1394" GrayVectorPolicy="IgnoreAll" RGBVectorPolicy="HonorAllProfiles" CMYKVectorPolicy="IgnoreAll" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/EPS" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.6034017929007502 0 0 0.6034017929007502 -80.53036410994497 -9.676784203781862" FlexItemWidthMode="FlexFixed" FlexItemHeightMode="FlexFixed" Visible="true" Name="$ID/" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="">
+				<Properties>
+					<GraphicBounds Left="0" Top="0" Right="321.6474914550781" Bottom="28.598600387573242" />
+				</Properties>
+				<ClippingPathSettings ClippingType="None" InvertPath="false" IncludeInsideEdges="false" RestrictToFrame="false" UseHighResolutionImage="true" Threshold="25" Tolerance="2" InsetFrame="0" AppliedPathName="$ID/" Index="-1" />
+				<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
+					<Properties>
+						<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
+					</Properties>
+					<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
+				</TextWrapPreference>
+				<Link Self="u1ec" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/guenther/Library/CloudStorage/OneDrive-MOONICHProduktkonzepteund-realisierungGmbH/GRAFIK/HEATSCOPE%20ROOMS%20Indoor/01%29%20in%20Bearbeitung/ROOMS%20PROJECTS%20Prospekt%20-%20Katalog/02%29%20Bildmaterial/Heatscope_black.eps" LinkResourceFormat="$ID/EPS" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 133207554620000000 1054746" LinkImportModificationTime="2023-02-13T10:51:02" LinkImportTime="2025-11-25T16:07:45" LinkResourceSize="0~10181a" RenditionData="Actual" PDFIdentifier="0" />
+				<MetadataPacketPreference>
+					<Properties>
+						<Contents><![CDATA[<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 10.0-c000 25.G.ef72e4e, 2025/06/27-18:54:05        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:illustrator="http://ns.adobe.com/illustrator/1.0/"
+            xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"
+            xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
+            xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <dc:format>application/postscript</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Einfaches CMYK</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>(Bjoern Blisse)</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <xmp:MetadataDate>2022-12-22T12:54:54+01:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2022-12-22T12:54:54+01:00</xmp:ModifyDate>
+         <xmp:CreateDate>2022-12-22T12:54:54+01:00</xmp:CreateDate>
+         <xmp:CreatorTool>Adobe Illustrator 27.1 (Macintosh)</xmp:CreatorTool>
+         <xmp:Thumbnails>
+            <rdf:Alt>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpGImg:width>256</xmpGImg:width>
+                  <xmpGImg:height>24</xmpGImg:height>
+                  <xmpGImg:format>JPEG</xmpGImg:format>
+                  <xmpGImg:image>/9j/4AAQSkZJRgABAgEASABIAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAASAAAAAEA&#xA;AQBIAAAAAQAB/+4ADkFkb2JlAGTAAAAAAf/bAIQABgQEBAUEBgUFBgkGBQYJCwgGBggLDAoKCwoK&#xA;DBAMDAwMDAwQDA4PEA8ODBMTFBQTExwbGxscHx8fHx8fHx8fHwEHBwcNDA0YEBAYGhURFRofHx8f&#xA;Hx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8f/8AAEQgAGAEAAwER&#xA;AAIRAQMRAf/EAaIAAAAHAQEBAQEAAAAAAAAAAAQFAwIGAQAHCAkKCwEAAgIDAQEBAQEAAAAAAAAA&#xA;AQACAwQFBgcICQoLEAACAQMDAgQCBgcDBAIGAnMBAgMRBAAFIRIxQVEGE2EicYEUMpGhBxWxQiPB&#xA;UtHhMxZi8CRygvElQzRTkqKyY3PCNUQnk6OzNhdUZHTD0uIIJoMJChgZhJRFRqS0VtNVKBry4/PE&#xA;1OT0ZXWFlaW1xdXl9WZ2hpamtsbW5vY3R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo+Ck5SVlpeYmZ&#xA;qbnJ2en5KjpKWmp6ipqqusra6voRAAICAQIDBQUEBQYECAMDbQEAAhEDBCESMUEFURNhIgZxgZEy&#xA;obHwFMHR4SNCFVJicvEzJDRDghaSUyWiY7LCB3PSNeJEgxdUkwgJChgZJjZFGidkdFU38qOzwygp&#xA;0+PzhJSktMTU5PRldYWVpbXF1eX1RlZmdoaWprbG1ub2R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo&#xA;+DlJWWl5iZmpucnZ6fkqOkpaanqKmqq6ytrq+v/aAAwDAQACEQMRAD8AlH/OIuqanqGleZGv7ue7&#xA;aOe2EZnkeQqCklacyaYq+gcVeH/85Z6lqNh5J0iWxuprSRtSVWeCRo2K+hKaEqRttirNbjyvfea/&#xA;y48u2cWqy6bOtvZXMl2qtI70teJU0eI7mSta9spz4fEjV05/Z2tjp8hkY8diq+XkWOf8qJ1v/qcr&#xA;n/kRJ/2U5ifkP6X2ftd1/oix/wCox+Y/4l3/AConW/8Aqcrn/kRJ/wBlOP5D+l9n7V/0RY/9Rj8x&#xA;/wASmi6feflZ5I8x65danJrjwwiaBJkaMCRQURd5JjRnkWuZGnweHe926ntLtCOpMTGAhw/b9geS&#xA;eRfy6/M381tLk836v53udMiupZEtIohJICI24vxijlt44lDCgC+GZDrGSf8AQr3mr/y5N9/0jzf9&#xA;lmKpP5Y1zz5+Vf5u6Z5G13WpNd0PWzCtu0zOxH1pzDDKgkMjxFZkKsgbiRv7hVkut/8AON3mbUtZ&#xA;v9Ri/MK9tY7y5luEtVt5SsSyuXEYIu1qFrToMKvLPPX5e+avKvn/AMt+Uv8AGd9ef4hkt4/rv76L&#xA;0frFz9Xr6f1h+fH7X2hXpgV6N/0K95q/8uTff9I83/ZZiqE/Ofzj5s8n2HlX8tNH1VoLu6tII77z&#xA;HIWhdwX+rg+pVzFVkLyEMWApv4lUXbf84kaReQi41vzTfahfyLU3MaoFqd/92mZmG/8ANviqGuf+&#xA;cd/zI8rEXn5f+cpucXxLYXDPbhgP2dmkhk+ToBir3Cxvb7RfKKXvmy9hku7C1M+rXsKelFWNSzsq&#xA;VPQDt17AVpir53tvM/5sfnh5gvbTy9fP5a8o2bASSIzIwRqhRK8VHllcb+mGCD8SFZB/0J9oEkZa&#xA;58yX0t2325/Sj4lvHiSzf8NhVLU8mfn/APllrdkvlq+l83aHcyiP6o5YxjYmkscrt9XBA/vEenie&#xA;gIV6h+bf5sDyD5Ot9RltFOvaiBHY6c7h0SbgGkMjLTkkNd+P2jQbVqCryXyv+UX5j/mrYx+ZfPPm&#xA;W5tNMvv3tnp6gszRk/C6w1SGFDsV+Elhv74FTq+/5xNSwQ3flHzTe2GqRisTT0AZh29W39J0+dG+&#xA;WFXflB+cfm6x86Sflz+YTepqKym2s9QkFJfXAqkUjAASJKu8b9TUdeWyrGfzZtte17/nIZPK9nrd&#xA;1pUGoLaxCSF5CkZNuGLekskQPTxGBWU/9Cveav8Ay5N9/wBI83/ZZiqnP/zjF5zjheS1/Me8e5QE&#xA;wo8U8alx0Bdbtyu/cKcKrv8AnH78yfNmo3PmDyR5nuJLzUNHt5pYLuVucyi3cQSxPJ1ejupVmNev&#xA;0KvO/wAm/wAvfNX5k2mp3H+M77Sv0bJFHx/fXPP1VY1r9Yh404e+BXo3/Qr3mr/y5N9/0jzf9lmK&#xA;sg8g/kPr/lbzbYa9d+d7vV7ez9Xnp0sMiJJ6sLxCrNcygcS/L7J6YVYXrHmvz7D51u7satci7hvJ&#xA;LaLTBLKqrcencyWtmlgCEkimMMCGUoxIflXcFVWB/kbe/nPbWWrD8u9Pt723aSH9IGdrdSrhW9On&#xA;ryw9RXpXAr1D9M/85gf9WGx/4Ow/7KcVedfndf8A553Pl6xT8wdNt7LSxdg2skDWzMbj0noD6M0r&#xA;U4cuopir6M+s+crf8tvLb+U7SK81E2tkssUxQKIPqtWYc3iFeYXvlWYzr0c3O7Php5TIzkxhXTv2&#xA;8j5pF+mP+chP+rFY/wDBwf8AZTmLxaju+53Hgdlf6pL7f+Jd+mP+chP+rFY/8HB/2U48Wo7vuXwO&#xA;yv8AVJfb/wASl35hXfn65/JvzifN9lDZSLDB9TEBRuSmZedeEkvTbwzIwHIb4w6vtGGliR4EjLvv&#xA;+wPPfyj1n/nIa18iWMPk3QbG+8vq8/1a5uHgWRmMzGSoe6hbZ6j7OXutZj/iP/nLn/qVtL/5GW3/&#xA;AGW4VeaeY738xbz89vJEvn7T4NO1gXWlrBBbNGyG2GoMUcmOWcVMhcfa7dMCvsTCr50/PT/yfv5b&#xA;/wDMRYf91EYq+i8VYP8Amh+UXln8w7O3j1NpbW/s+X1O/tyOaK32kZWBV0JANOvgRviry+P/AJxk&#xA;886Ygi0L8w7q2t1I9OJVuLcKB0/urhht8sVQOveUv+ckfImlXGu2vm86zYaejT3UUkz3EghjqzuU&#xA;vEYFQu54vXwwKm+o/mFqn5j/APONvmTURCtvrFnxt9RSKojZYJYZ5ZEB5EK1uxqD3r2wqnP/ADil&#xA;f6TN+WP1S1ZPr1reTfpGMEc+Uh5Ruw60aMAA/wCSfDFXs2KrJJoYuPqyKnNgiciByY9FFepPhir5&#xA;i/5zIguv0l5YuCGNoYbqNG/ZEgaMsPYlaYCr6U0a+03UNJs73TJEl064hSS0eP7JiZQUp9GFUZir&#xA;5T/Oqa31T/nI3y7baKwkv7d9Nt7potytyt00lWIrukTJy8Kb9MCob83L7zBYf85Jx3nl20S/1uEW&#xA;jWNpICySSfVgOJCtGelf2hirNP8AlZP/ADlL/wBSNY/8iJv+yzFVO5/ML/nKmeCSGPybaW0kilVu&#xA;I4H5oTtyX1Lp0qP8pSMKpt+R/wCT2ueUbbWvMvmh1/xDqtvJH9XVxIYonPqyGR1qpkkkUVCkgU67&#xA;7KvHfyNvfzntrLVh+Xen297btJD+kDO1upVwrenT15Yeor0rgV6h+mf+cwP+rDY/8HYf9lOKvfoD&#xA;KYIzMKS8R6gH81N+nvhVo2tsbgXJhQ3CrxWYqOYU9g3WmKvF/wDnGTyH5t8o6br0XmPTm0+S7mt3&#xA;t1d435qiuGP7tn6ch1xV7ZiryH/nJXyX5n82+UtMsfL1i1/dQX4nliR40KxiGReVZGQfaYYqyfUG&#xA;88aP5A0GDy9YJcazBDaW95bS8WCIlsRJ+2gqJFUbHKM8piPo5uf2djwTyEZzwxr7dvI+bGf8R/n/&#xA;AP8AVhtf+BT/AKr5ieJqO53P5Xsv/VJfj/Nd/iP8/wD/AKsNr/wKf9V8fE1Hcv5Xsv8A1SX4/wA1&#xA;3mK0/NHzT+WHmnStY0lI9VuI4U0u2hKIZf3oaTcyOu3HuRmTp5ZDfGHVdpYtNAx8CRl3/ignv5D+&#xA;W9b8t/lnpuka3amz1GCS5aW3ZkYgSTu67oWXdSD1zJdY9AxV4V+a35e+cda/PPyd5i0zTXudF039&#xA;G/XrwPEqx+hqEk0tVZlc8Y2DbDFXuuKvE/za8h+bdb/OHyPrul6c1zpOlTWb6hdB41ESxXvquSrM&#xA;rGib7A4q9sxV5L+bvkT819U1yy8x+R/MRtZtPhMUekM3ooank7BjyilMhC1WVabDfFWMWf5lf85M&#xA;aVS21fyQmpsmxmgjbm1BuS9vJJF4dFH9FUv8war/AM5Lef7GfQo/Lcfl/SrxTDeSP+5YxNsyu87l&#xA;+JGx9NKnFXrH5U/lfY+RvJZ8vyyLfzXjPNqshX93JJKgjZFVv91hFC79evfFXler/kh+Y3kLzJP5&#xA;i/Ki8EtpPX1dHlZQ4jry9I+sfTmQfsksHHap3wKjB+cP/OQ0UYtpvy7Ml7v+/S3uvR+HY1AZh8v3&#xA;m/bCqUSflj+eH5p6vbXXn24XQdDtnEkdnGVBXxMMCNJRyNucrVHv0wK9q85/ll5f81+S08rXzS+h&#xA;bpGLG9djNcQyRLxSXnISztTZuR+IE4VeL6N5d/5yO/KxX03QbeDzN5dV2aCHaVFBNTxjLxTxlupV&#xA;SVr4nAqYXfn3/nKHXomsdL8pR6M8g4teNH6brXaqtdS+mKf6pOFWR/k3+QreU9Tk80eZ7tdU81T8&#xA;2R1LPHA01fVf1Ho0kr8iCxHc9a1xVKvMP5eec7r/AJyR0/zXBpjv5fhe3Ml+HiCgJb8G+Evz2bb7&#xA;OKveMVdiqjeo8lnOiCrvG6qPElSBir5U/Lny7/zkb+X9vfQaH5XidL943n+tNBIQYwQvHjcR0+1g&#xA;VmP+Mf8AnLL/AKlOw+6P/srwqmnlXzT/AM5K3PmPTYNf8t2droslwi6hcRiPkkJPxsKXL7gf5JxV&#xA;7Zir/9k=</xmpGImg:image>
+               </rdf:li>
+            </rdf:Alt>
+         </xmp:Thumbnails>
+         <xmpMM:InstanceID>xmp.iid:a59d31d7-57ed-4b02-9b74-3d77fa4b69f2</xmpMM:InstanceID>
+         <xmpMM:DocumentID>xmp.did:940f979d-ac32-4909-87cf-da8f45bcec55</xmpMM:DocumentID>
+         <xmpMM:OriginalDocumentID>uuid:5B20892493BFDB11914A8590D31508C8</xmpMM:OriginalDocumentID>
+         <xmpMM:RenditionClass>proof:pdf</xmpMM:RenditionClass>
+         <xmpMM:DerivedFrom rdf:parseType="Resource">
+            <stRef:instanceID>xmp.iid:9946C49283DDE211A8B1F53969997460</stRef:instanceID>
+            <stRef:documentID>xmp.did:9946C49283DDE211A8B1F53969997460</stRef:documentID>
+            <stRef:originalDocumentID>uuid:5B20892493BFDB11914A8590D31508C8</stRef:originalDocumentID>
+            <stRef:renditionClass>proof:pdf</stRef:renditionClass>
+         </xmpMM:DerivedFrom>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:params>from application/pdf to &lt;unknown&gt;</stEvt:params>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:CF7F11740720681191099C3B601C4548</stEvt:instanceID>
+                  <stEvt:when>2008-04-17T14:19:07+05:30</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:params>from application/pdf to &lt;unknown&gt;</stEvt:params>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:params>from application/pdf to &lt;unknown&gt;</stEvt:params>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:0080117407206811BDDDFD38D0CF24DD</stEvt:instanceID>
+                  <stEvt:when>2008-05-16T12:18:29-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:params>from application/vnd.adobe.illustrator to application/vnd.adobe.illustrator</stEvt:params>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:F87F117407206811B628E3BF27C8C41B</stEvt:instanceID>
+                  <stEvt:when>2008-05-22T12:59:33-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:params>from application/vnd.adobe.illustrator to application/vnd.adobe.illustrator</stEvt:params>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:0BC3BD25102DDD1181B594070CEB88D9</stEvt:instanceID>
+                  <stEvt:when>2008-05-28T17:02:32-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:F87F117407206811BB1DBF8F242B6F84</stEvt:instanceID>
+                  <stEvt:when>2008-06-09T15:05:10-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:F97F117407206811BB1DBF8F242B6F84</stEvt:instanceID>
+                  <stEvt:when>2008-06-09T15:05:47-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:F77F117407206811ACAFB8DA80854E76</stEvt:instanceID>
+                  <stEvt:when>2008-06-11T14:30:01-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:FEE440664A3DDD11BD33D3EB8D3A1068</stEvt:instanceID>
+                  <stEvt:when>2008-06-18T22:22:44+07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:2F85BBCD703EDD11A8D1DFE8FDCD79D1</stEvt:instanceID>
+                  <stEvt:when>2008-06-19T19:30:09-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:676AE2A5723EDD11A6F1BABF7C5A7A51</stEvt:instanceID>
+                  <stEvt:when>2008-06-19T19:43:22-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:3D92E9E2EA41DD1182ECEC1AE8587645</stEvt:instanceID>
+                  <stEvt:when>2008-06-24T16:05:57+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:74117F92200711689FE8CB9EA85C5459</stEvt:instanceID>
+                  <stEvt:when>2008-06-26T05:49:27-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:F39456976A48DD1194DA8463B7D22218</stEvt:instanceID>
+                  <stEvt:when>2008-07-02T12:11:45-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:F77F117407206811B1A49BC4792F6CFA</stEvt:instanceID>
+                  <stEvt:when>2008-07-21T18:23:31+05:30</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:42EEB2F2CF5CDD11805FF6297D832673</stEvt:instanceID>
+                  <stEvt:when>2008-07-28T11:06:49-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:43EEB2F2CF5CDD11805FF6297D832673</stEvt:instanceID>
+                  <stEvt:when>2008-07-28T11:06:58-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:FB7F1174072068118DBB8F5DDEBEE9D6</stEvt:instanceID>
+                  <stEvt:when>2008-09-29T21:09:43-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:FC7F1174072068118DBB8F5DDEBEE9D6</stEvt:instanceID>
+                  <stEvt:when>2008-09-29T21:10:16-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:FC7F11740720681197A5B6321CD7D92D</stEvt:instanceID>
+                  <stEvt:when>2008-09-29T21:28:39-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:CF07664B0C206811B1BE94AF60EC0B71</stEvt:instanceID>
+                  <stEvt:when>2008-08-04T11:02:36+07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:D007664B0C206811B1BE94AF60EC0B71</stEvt:instanceID>
+                  <stEvt:when>2008-08-04T11:03+07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:0280117407206811A64AB9219C9D2920</stEvt:instanceID>
+                  <stEvt:when>2011-07-12T09:19:02+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:0380117407206811A64AB9219C9D2920</stEvt:instanceID>
+                  <stEvt:when>2011-07-12T09:23:18+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/postscript to application/vnd.adobe.illustrator</stEvt:parameters>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:74117FE320071168B2DA8BDBEE376ACD</stEvt:instanceID>
+                  <stEvt:when>2011-08-09T15:57:44+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/postscript to application/vnd.adobe.illustrator</stEvt:parameters>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/postscript to application/vnd.adobe.illustrator</stEvt:parameters>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:9846C49283DDE211A8B1F53969997460</stEvt:instanceID>
+                  <stEvt:when>2013-06-25T12:39:54+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS5.1</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:9946C49283DDE211A8B1F53969997460</stEvt:instanceID>
+                  <stEvt:when>2013-06-25T12:40:30+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS5.1</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/postscript to application/vnd.adobe.illustrator</stEvt:parameters>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:940f979d-ac32-4909-87cf-da8f45bcec55</stEvt:instanceID>
+                  <stEvt:when>2022-12-22T12:54:54+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator 27.1 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <illustrator:StartupProfile>Basic CMYK</illustrator:StartupProfile>
+         <xmpTPg:HasVisibleOverprint>False</xmpTPg:HasVisibleOverprint>
+         <xmpTPg:HasVisibleTransparency>False</xmpTPg:HasVisibleTransparency>
+         <xmpTPg:NPages>1</xmpTPg:NPages>
+         <xmpTPg:MaxPageSize rdf:parseType="Resource">
+            <stDim:w>130.171539</stDim:w>
+            <stDim:h>26.458650</stDim:h>
+            <stDim:unit>Millimeters</stDim:unit>
+         </xmpTPg:MaxPageSize>
+         <xmpTPg:PlateNames>
+            <rdf:Seq>
+               <rdf:li>Magenta</rdf:li>
+               <rdf:li>Yellow</rdf:li>
+               <rdf:li>Black</rdf:li>
+            </rdf:Seq>
+         </xmpTPg:PlateNames>
+         <xmpTPg:SwatchGroups>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>Standard-Farbfeldgruppe</xmpG:groupName>
+                  <xmpG:groupType>0</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>Weiß</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>Schwarz</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>100.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>CMYK Rot</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>CMYK Gelb</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>CMYK Grün</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>100.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=5 Y=5 K=80 1</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>5.000000</xmpG:magenta>
+                           <xmpG:yellow>5.000000</xmpG:yellow>
+                           <xmpG:black>80.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>CMYK Cyan</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>100.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>CMYK Blau</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>100.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>CMYK Magenta</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=15 M=100 Y=90 K=10</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>15.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>90.000000</xmpG:yellow>
+                           <xmpG:black>10.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=90 Y=85 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>90.000000</xmpG:magenta>
+                           <xmpG:yellow>85.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=80 Y=95 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>80.000000</xmpG:magenta>
+                           <xmpG:yellow>95.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=50 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>50.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=35 Y=85 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>35.000000</xmpG:magenta>
+                           <xmpG:yellow>85.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=5 M=0 Y=90 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>5.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>90.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=20 M=0 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>20.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=50 M=0 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>50.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=75 M=0 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>75.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=85 M=10 Y=100 K=10</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>85.000000</xmpG:cyan>
+                           <xmpG:magenta>10.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>10.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=90 M=30 Y=95 K=30</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>90.000000</xmpG:cyan>
+                           <xmpG:magenta>30.000000</xmpG:magenta>
+                           <xmpG:yellow>95.000000</xmpG:yellow>
+                           <xmpG:black>30.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=75 M=0 Y=75 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>75.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>75.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=80 M=10 Y=45 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>80.000000</xmpG:cyan>
+                           <xmpG:magenta>10.000000</xmpG:magenta>
+                           <xmpG:yellow>45.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=70 M=15 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>70.000000</xmpG:cyan>
+                           <xmpG:magenta>15.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=85 M=50 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>85.000000</xmpG:cyan>
+                           <xmpG:magenta>50.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=100 M=95 Y=5 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>100.000000</xmpG:cyan>
+                           <xmpG:magenta>95.000000</xmpG:magenta>
+                           <xmpG:yellow>5.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=100 M=100 Y=25 K=25</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>100.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>25.000000</xmpG:yellow>
+                           <xmpG:black>25.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=75 M=100 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>75.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=50 M=100 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>50.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=35 M=100 Y=35 K=10</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>35.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>35.000000</xmpG:yellow>
+                           <xmpG:black>10.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=10 M=100 Y=50 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>10.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>50.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=95 Y=20 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>95.000000</xmpG:magenta>
+                           <xmpG:yellow>20.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=25 M=25 Y=40 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>25.000000</xmpG:cyan>
+                           <xmpG:magenta>25.000000</xmpG:magenta>
+                           <xmpG:yellow>40.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=40 M=45 Y=50 K=5</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>40.000000</xmpG:cyan>
+                           <xmpG:magenta>45.000000</xmpG:magenta>
+                           <xmpG:yellow>50.000000</xmpG:yellow>
+                           <xmpG:black>5.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=50 M=50 Y=60 K=25</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>50.000000</xmpG:cyan>
+                           <xmpG:magenta>50.000000</xmpG:magenta>
+                           <xmpG:yellow>60.000000</xmpG:yellow>
+                           <xmpG:black>25.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=55 M=60 Y=65 K=40</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>55.000000</xmpG:cyan>
+                           <xmpG:magenta>60.000000</xmpG:magenta>
+                           <xmpG:yellow>65.000000</xmpG:yellow>
+                           <xmpG:black>40.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=25 M=40 Y=65 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>25.000000</xmpG:cyan>
+                           <xmpG:magenta>40.000000</xmpG:magenta>
+                           <xmpG:yellow>65.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=30 M=50 Y=75 K=10</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>30.000000</xmpG:cyan>
+                           <xmpG:magenta>50.000000</xmpG:magenta>
+                           <xmpG:yellow>75.000000</xmpG:yellow>
+                           <xmpG:black>10.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=35 M=60 Y=80 K=25</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>35.000000</xmpG:cyan>
+                           <xmpG:magenta>60.000000</xmpG:magenta>
+                           <xmpG:yellow>80.000000</xmpG:yellow>
+                           <xmpG:black>25.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=40 M=65 Y=90 K=35</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>40.000000</xmpG:cyan>
+                           <xmpG:magenta>65.000000</xmpG:magenta>
+                           <xmpG:yellow>90.000000</xmpG:yellow>
+                           <xmpG:black>35.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=40 M=70 Y=100 K=50</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>40.000000</xmpG:cyan>
+                           <xmpG:magenta>70.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>50.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=50 M=70 Y=80 K=70</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>50.000000</xmpG:cyan>
+                           <xmpG:magenta>70.000000</xmpG:magenta>
+                           <xmpG:yellow>80.000000</xmpG:yellow>
+                           <xmpG:black>70.000000</xmpG:black>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>Kreuzfarbgruppe</xmpG:groupName>
+                  <xmpG:groupType>1</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=10 M=70 Y=80 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>10.000000</xmpG:cyan>
+                           <xmpG:magenta>70.000000</xmpG:magenta>
+                           <xmpG:yellow>80.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=10 M=50 Y=80 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>10.000000</xmpG:cyan>
+                           <xmpG:magenta>50.000000</xmpG:magenta>
+                           <xmpG:yellow>80.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=65 M=10 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>65.000000</xmpG:cyan>
+                           <xmpG:magenta>10.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=50 M=90 Y=10 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>50.000000</xmpG:cyan>
+                           <xmpG:magenta>90.000000</xmpG:magenta>
+                           <xmpG:yellow>10.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=25 M=85 Y=60 K=10</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>25.000000</xmpG:cyan>
+                           <xmpG:magenta>85.000000</xmpG:magenta>
+                           <xmpG:yellow>60.000000</xmpG:yellow>
+                           <xmpG:black>10.000000</xmpG:black>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>Grautöne</xmpG:groupName>
+                  <xmpG:groupType>1</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=100</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>100.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=90</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>89.999400</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=80</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>79.998800</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=70</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>69.999700</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=60</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>59.999100</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=50</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>50.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=40</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>39.999400</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=30</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>29.998800</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=20</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>19.999700</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=10</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>9.999100</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=5</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>4.998800</xmpG:black>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpTPg:SwatchGroups>
+         <pdf:Producer>Adobe PDF library 9.00</pdf:Producer>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="r"?>]]></Contents>
+					</Properties>
+				</MetadataPacketPreference>
+			</EPS>
+		</Rectangle>
+		<TextFrame Self="u208" ParentStory="u1f6" PreviousTextFrame="n" NextTextFrame="n" ContentType="TextType" OverriddenPageItemProps="" FlexItemWidthMode="FlexFixed" FlexItemHeightMode="FlexFixed" Visible="true" Name="$ID/" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" ItemLayer="u153" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Text Frame]" ItemTransform="1 0 0 1 319.2903800816985 15.98455954724404" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="">
+			<Properties>
+				<PathGeometry>
+					<GeometryPathType PathOpen="false">
+						<PathPointArray>
+							<PathPointType Anchor="-305.1171517353325 -23.543614665354333" LeftDirection="-305.1171517353325 -23.543614665354333" RightDirection="-305.1171517353325 -23.543614665354333" />
+							<PathPointType Anchor="-305.1171517353325 17.086306594429086" LeftDirection="-305.1171517353325 17.086306594429086" RightDirection="-305.1171517353325 17.086306594429086" />
+							<PathPointType Anchor="261.81198212293515 17.086306594429086" LeftDirection="261.81198212293515 17.086306594429086" RightDirection="261.81198212293515 17.086306594429086" />
+							<PathPointType Anchor="261.81198212293515 -23.543614665354333" LeftDirection="261.81198212293515 -23.543614665354333" RightDirection="261.81198212293515 -23.543614665354333" />
+						</PathPointArray>
+					</GeometryPathType>
+				</PathGeometry>
+			</Properties>
+			<ObjectExportOption AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing" EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault" EpubAriaRole="$ID/">
+				<Properties>
+					<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+					<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+				</Properties>
+			</ObjectExportOption>
+			<TextFramePreference FootnotesEnableOverrides="false" FootnotesSpanAcrossColumns="false" FootnotesMinimumSpacing="12" FootnotesSpaceBetween="6" TextColumnCount="1" TextColumnGutter="7.59375" TextColumnFixedWidth="566.9291338582677" TextColumnMaxWidth="0" AutoSizingType="Off" AutoSizingReferencePoint="CenterPoint" UseMinimumHeightForAutoSizing="false" MinimumHeightForAutoSizing="0" UseMinimumWidthForAutoSizing="false" MinimumWidthForAutoSizing="0" UseNoLineBreaksForAutoSizing="false" ColumnRuleOverride="false" ColumnRuleOffset="0" ColumnRuleTopInset="0" ColumnRuleInsetChainOverride="true" ColumnRuleBottomInset="0" ColumnRuleStrokeWidth="1" ColumnRuleStrokeColor="Color/Black" ColumnRuleStrokeType="StrokeStyle/$ID/Solid" ColumnRuleStrokeTint="100" ColumnRuleOverprintOverride="false">
+				<Properties>
+					<InsetSpacing type="list">
+						<ListItem type="unit">0</ListItem>
+						<ListItem type="unit">0</ListItem>
+						<ListItem type="unit">0</ListItem>
+						<ListItem type="unit">0</ListItem>
+					</InsetSpacing>
+				</Properties>
+			</TextFramePreference>
+			<TextFrameFootnoteOptionsObject EnableOverrides="false" SpanFootnotesAcross="false" MinimumSpacingOption="12" SpaceBetweenFootnotes="6" />
+			<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
+				<Properties>
+					<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
+				</Properties>
+			</TextWrapPreference>
+		</TextFrame>
+		<Group Self="u131a" OverriddenPageItemProps="" FlexItemWidthMode="FlexFixed" FlexItemHeightMode="FlexFixed" Visible="true" Name="$ID/" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" ItemLayer="u153" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="1 0 0 1 526.062992126075 0" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="">
+			<ObjectExportOption AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing" EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault" EpubAriaRole="$ID/">
+				<Properties>
+					<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+					<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+				</Properties>
+			</ObjectExportOption>
+			<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
+				<Properties>
+					<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
+				</Properties>
+			</TextWrapPreference>
+			<Rectangle Self="ua09" ContentType="Unassigned" StoryTitle="$ID/" OverriddenPageItemProps="" FlexItemWidthMode="FlexFixed" FlexItemHeightMode="FlexFixed" Visible="true" Name="$ID/" TopLeftCornerOption="RoundedCorner" TopRightCornerOption="RoundedCorner" BottomLeftCornerOption="RoundedCorner" BottomRightCornerOption="RoundedCorner" TopLeftCornerRadius="3.6850393700787407" TopRightCornerRadius="3.6850393700787407" BottomLeftCornerRadius="3.6850393700787407" BottomRightCornerRadius="3.6850393700787407" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" FillColor="Color/Paper" CornerRadius="3.6850393700787407" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" CornerOption="RoundedCorner" ItemTransform="1 0 0 1 -216.0000000000906 24.23622047250001" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="">
+				<Properties>
+					<PathGeometry>
+						<GeometryPathType PathOpen="false">
+							<PathPointArray>
+								<PathPointType Anchor="467.5748031496064 147.96850393700788" LeftDirection="467.5748031496064 147.96850393700788" RightDirection="467.5748031496064 147.96850393700788" />
+								<PathPointType Anchor="467.5748031496064 194.03149606287397" LeftDirection="467.5748031496064 194.03149606287397" RightDirection="467.5748031496064 194.03149606287397" />
+								<PathPointType Anchor="559.7007874015749 194.03149606287397" LeftDirection="559.7007874015749 194.03149606287397" RightDirection="559.7007874015749 194.03149606287397" />
+								<PathPointType Anchor="559.7007874015749 147.96850393700788" LeftDirection="559.7007874015749 147.96850393700788" RightDirection="559.7007874015749 147.96850393700788" />
+							</PathPointArray>
+						</GeometryPathType>
+					</PathGeometry>
+				</Properties>
+				<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="0" RightCrop="0" BottomCrop="0" FittingOnEmptyFrame="None" FittingAlignment="TopLeftAnchor" />
+				<ObjectExportOption AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing" EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault" EpubAriaRole="$ID/">
+					<Properties>
+						<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+						<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+					</Properties>
+				</ObjectExportOption>
+				<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
+					<Properties>
+						<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
+					</Properties>
+				</TextWrapPreference>
+				<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+			</Rectangle>
+			<TextFrame Self="ua0a" ParentStory="ua0d" PreviousTextFrame="n" NextTextFrame="n" ContentType="TextType" OverriddenPageItemProps="" FlexItemWidthMode="FlexFixed" FlexItemHeightMode="FlexFixed" Visible="true" Name="$ID/" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Text Frame]" ItemTransform="1 0 0 1 297.8149606298307 191.87007874018704" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="">
+				<Properties>
+					<PathGeometry>
+						<GeometryPathType PathOpen="false">
+							<PathPointArray>
+								<PathPointType Anchor="-46.24015748031496 -14.704724409419299" LeftDirection="-46.24015748031496 -14.704724409419299" RightDirection="-46.24015748031496 -14.704724409419299" />
+								<PathPointType Anchor="-46.24015748031496 3.7204724408562413" LeftDirection="-46.24015748031496 3.7204724408562413" RightDirection="-46.24015748031496 3.7204724408562413" />
+								<PathPointType Anchor="45.88582677165354 3.7204724408562413" LeftDirection="45.88582677165354 3.7204724408562413" RightDirection="45.88582677165354 3.7204724408562413" />
+								<PathPointType Anchor="45.88582677165354 -14.704724409419299" LeftDirection="45.88582677165354 -14.704724409419299" RightDirection="45.88582677165354 -14.704724409419299" />
+							</PathPointArray>
+						</GeometryPathType>
+					</PathGeometry>
+				</Properties>
+				<ObjectExportOption AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing" EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault" EpubAriaRole="$ID/">
+					<Properties>
+						<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+						<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+					</Properties>
+				</ObjectExportOption>
+				<TextFramePreference FootnotesEnableOverrides="false" FootnotesSpanAcrossColumns="false" FootnotesMinimumSpacing="12" FootnotesSpaceBetween="6" TextColumnCount="1" TextColumnFixedWidth="92.1259842519685" TextColumnMaxWidth="0" AutoSizingType="Off" AutoSizingReferencePoint="CenterPoint" UseMinimumHeightForAutoSizing="false" MinimumHeightForAutoSizing="0" UseMinimumWidthForAutoSizing="false" MinimumWidthForAutoSizing="0" UseNoLineBreaksForAutoSizing="false" ColumnRuleOverride="false" ColumnRuleOffset="0" ColumnRuleTopInset="0" ColumnRuleInsetChainOverride="true" ColumnRuleBottomInset="0" ColumnRuleStrokeWidth="1" ColumnRuleStrokeColor="Color/Black" ColumnRuleStrokeType="StrokeStyle/$ID/Solid" ColumnRuleStrokeTint="100" ColumnRuleOverprintOverride="false">
+					<Properties>
+						<InsetSpacing type="list">
+							<ListItem type="unit">0</ListItem>
+							<ListItem type="unit">0</ListItem>
+							<ListItem type="unit">0</ListItem>
+							<ListItem type="unit">0</ListItem>
+						</InsetSpacing>
+					</Properties>
+				</TextFramePreference>
+				<TextFrameFootnoteOptionsObject EnableOverrides="false" SpanFootnotesAcross="false" MinimumSpacingOption="12" SpaceBetweenFootnotes="6" />
+				<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
+					<Properties>
+						<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
+					</Properties>
+				</TextWrapPreference>
+			</TextFrame>
+		</Group>
+		<Rectangle Self="ua55" ContentType="GraphicType" StoryTitle="$ID/" OverriddenPageItemProps="" FlexItemWidthMode="FlexFixed" FlexItemHeightMode="FlexFixed" Visible="true" Name="$ID/" TopLeftCornerOption="RoundedCorner" TopRightCornerOption="RoundedCorner" BottomLeftCornerOption="RoundedCorner" BottomRightCornerOption="RoundedCorner" TopLeftCornerRadius="3.6850393700787407" TopRightCornerRadius="3.6850393700787407" BottomLeftCornerRadius="3.6850393700787407" BottomRightCornerRadius="3.6850393700787407" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" FillColor="Color/C=59 M=37 Y=33 K=14" CornerRadius="3.6850393700787407" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" ItemLayer="u153" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[None]" CornerOption="RoundedCorner" ItemTransform="1 0 0 1 294.8031496051559 72.28346456698824" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="">
+			<Properties>
+				<PathGeometry>
+					<GeometryPathType PathOpen="false">
+						<PathPointArray>
+							<PathPointType Anchor="-138.89763779527573 -282.0472440944882" LeftDirection="-138.89763779527573 -282.0472440944882" RightDirection="-138.89763779527573 -282.0472440944882" />
+							<PathPointType Anchor="-138.89763779527573 -242.3622047244094" LeftDirection="-138.89763779527573 -242.3622047244094" RightDirection="-138.89763779527573 -242.3622047244094" />
+							<PathPointType Anchor="144.56692913385808 -242.3622047244094" LeftDirection="144.56692913385808 -242.3622047244094" RightDirection="144.56692913385808 -242.3622047244094" />
+							<PathPointType Anchor="144.56692913385808 -282.0472440944882" LeftDirection="144.56692913385808 -282.0472440944882" RightDirection="144.56692913385808 -282.0472440944882" />
+						</PathPointArray>
+					</GeometryPathType>
+				</PathGeometry>
+			</Properties>
+			<FrameFittingOption LeftCrop="-871.454629629164" TopCrop="186.0071240817715" RightCrop="-267.9983511323244" BottomCrop="594.6754160799264" FittingOnEmptyFrame="FillProportionally" />
+			<ObjectExportOption AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing" EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault" EpubAriaRole="$ID/">
+				<Properties>
+					<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+					<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+				</Properties>
+			</ObjectExportOption>
+			<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
+				<Properties>
+					<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
+				</Properties>
+			</TextWrapPreference>
+			<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		</Rectangle>
+		<Rectangle Self="ua58" ContentType="GraphicType" StoryTitle="$ID/" OverriddenPageItemProps="" FlexItemWidthMode="FlexFixed" FlexItemHeightMode="FlexFixed" Visible="true" Name="$ID/" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" FillColor="Color/Paper" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" ItemLayer="u153" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="1 0 0 1 43.2283464566929 39.685039370078755" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="">
+			<Properties>
+				<PathGeometry>
+					<GeometryPathType PathOpen="false">
+						<PathPointArray>
+							<PathPointType Anchor="-29.055118110236247 -249.44881889757875" LeftDirection="-29.055118110236247 -249.44881889757875" RightDirection="-29.055118110236247 -249.44881889757875" />
+							<PathPointType Anchor="-29.055118110236247 -235.27559055112204" LeftDirection="-29.055118110236247 -235.27559055112204" RightDirection="-29.055118110236247 -235.27559055112204" />
+							<PathPointType Anchor="537.8740157480315 -235.27559055112204" LeftDirection="537.8740157480315 -235.27559055112204" RightDirection="537.8740157480315 -235.27559055112204" />
+							<PathPointType Anchor="537.8740157480315 -249.44881889757875" LeftDirection="537.8740157480315 -249.44881889757875" RightDirection="537.8740157480315 -249.44881889757875" />
+						</PathPointArray>
+					</GeometryPathType>
+				</PathGeometry>
+			</Properties>
+			<FrameFittingOption LeftCrop="-871.454629629164" TopCrop="186.0071240817715" RightCrop="-267.9983511323244" BottomCrop="594.6754160799264" FittingOnEmptyFrame="FillProportionally" />
+			<ObjectExportOption AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing" EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault" EpubAriaRole="$ID/">
+				<Properties>
+					<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+					<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+				</Properties>
+			</ObjectExportOption>
+			<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
+				<Properties>
+					<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
+				</Properties>
+			</TextWrapPreference>
+			<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		</Rectangle>
+		<TextFrame Self="u11f9" ParentStory="u11fc" PreviousTextFrame="n" NextTextFrame="n" ContentType="TextType" OverriddenPageItemProps="" FlexItemWidthMode="FlexFixed" FlexItemHeightMode="FlexFixed" Visible="true" Name="$ID/" TopLeftCornerOption="RoundedCorner" TopRightCornerOption="RoundedCorner" BottomLeftCornerOption="RoundedCorner" BottomRightCornerOption="RoundedCorner" TopLeftCornerRadius="3.6850393700787407" TopRightCornerRadius="3.6850393700787407" BottomLeftCornerRadius="3.6850393700787407" BottomRightCornerRadius="3.6850393700787407" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" CornerRadius="3.6850393700787407" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" ItemLayer="u153" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Text Frame]" CornerOption="RoundedCorner" ItemTransform="1 0 0 1 871.8897637795276 -97.08661417313974" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="">
+			<Properties>
+				<PathGeometry>
+					<GeometryPathType PathOpen="false">
+						<PathPointArray>
+							<PathPointType Anchor="-218.9763779527559 -16.299212598454744" LeftDirection="-218.9763779527559 -16.299212598454744" RightDirection="-218.9763779527559 -16.299212598454744" />
+							<PathPointType Anchor="-218.9763779527559 9.212598425167299" LeftDirection="-218.9763779527559 9.212598425167299" RightDirection="-218.9763779527559 9.212598425167299" />
+							<PathPointType Anchor="175.0393700787404 9.212598425167299" LeftDirection="175.0393700787404 9.212598425167299" RightDirection="175.0393700787404 9.212598425167299" />
+							<PathPointType Anchor="175.0393700787404 -16.299212598454744" LeftDirection="175.0393700787404 -16.299212598454744" RightDirection="175.0393700787404 -16.299212598454744" />
+						</PathPointArray>
+					</GeometryPathType>
+				</PathGeometry>
+			</Properties>
+			<ObjectExportOption AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing" EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault" EpubAriaRole="$ID/">
+				<Properties>
+					<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+					<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+				</Properties>
+			</ObjectExportOption>
+			<TextFramePreference FootnotesEnableOverrides="false" FootnotesSpanAcrossColumns="false" FootnotesMinimumSpacing="12" FootnotesSpaceBetween="6" TextColumnCount="1" TextColumnFixedWidth="394.0157480314963" FirstBaselineOffset="CapHeight" VerticalJustification="CenterAlign" TextColumnMaxWidth="0" AutoSizingType="Off" AutoSizingReferencePoint="CenterPoint" UseMinimumHeightForAutoSizing="false" MinimumHeightForAutoSizing="0" UseMinimumWidthForAutoSizing="false" MinimumWidthForAutoSizing="0" UseNoLineBreaksForAutoSizing="false" ColumnRuleOverride="false" ColumnRuleOffset="0" ColumnRuleTopInset="0" ColumnRuleInsetChainOverride="true" ColumnRuleBottomInset="0" ColumnRuleStrokeWidth="1" ColumnRuleStrokeColor="Color/Black" ColumnRuleStrokeType="StrokeStyle/$ID/Solid" ColumnRuleStrokeTint="100" ColumnRuleOverprintOverride="false">
+				<Properties>
+					<InsetSpacing type="unit">0</InsetSpacing>
+				</Properties>
+			</TextFramePreference>
+			<TextFrameFootnoteOptionsObject EnableOverrides="false" SpanFootnotesAcross="false" MinimumSpacingOption="12" SpaceBetweenFootnotes="6" />
+			<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
+				<Properties>
+					<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
+				</Properties>
+			</TextWrapPreference>
+		</TextFrame>
+		<TextFrame Self="u1290" ParentStory="u1293" PreviousTextFrame="n" NextTextFrame="n" ContentType="TextType" OverriddenPageItemProps="" FlexItemWidthMode="FlexFixed" FlexItemHeightMode="FlexFixed" Visible="true" Name="$ID/" TopLeftCornerOption="RoundedCorner" TopRightCornerOption="RoundedCorner" BottomLeftCornerOption="RoundedCorner" BottomRightCornerOption="RoundedCorner" TopLeftCornerRadius="3.6850393700787407" TopRightCornerRadius="3.6850393700787407" BottomLeftCornerRadius="3.6850393700787407" BottomRightCornerRadius="3.6850393700787407" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" CornerRadius="3.6850393700787407" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" ItemLayer="u153" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Text Frame]" CornerOption="RoundedCorner" ItemTransform="1 0 0 1 319.60629921250785 -179.29133858258857" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="">
+			<Properties>
+				<PathGeometry>
+					<GeometryPathType PathOpen="false">
+						<PathPointArray>
+							<PathPointType Anchor="-149.52755905511796 -16.299212598454744" LeftDirection="-149.52755905511796 -16.299212598454744" RightDirection="-149.52755905511796 -16.299212598454744" />
+							<PathPointType Anchor="-149.52755905511796 9.212598425167299" LeftDirection="-149.52755905511796 9.212598425167299" RightDirection="-149.52755905511796 9.212598425167299" />
+							<PathPointType Anchor="105.59055118110251 9.212598425167299" LeftDirection="105.59055118110251 9.212598425167299" RightDirection="105.59055118110251 9.212598425167299" />
+							<PathPointType Anchor="105.59055118110251 -16.299212598454744" LeftDirection="105.59055118110251 -16.299212598454744" RightDirection="105.59055118110251 -16.299212598454744" />
+						</PathPointArray>
+					</GeometryPathType>
+				</PathGeometry>
+			</Properties>
+			<ObjectExportOption AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing" EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault" EpubAriaRole="$ID/">
+				<Properties>
+					<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+					<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+				</Properties>
+			</ObjectExportOption>
+			<TextFramePreference FootnotesEnableOverrides="false" FootnotesSpanAcrossColumns="false" FootnotesMinimumSpacing="12" FootnotesSpaceBetween="6" TextColumnCount="1" TextColumnFixedWidth="255.11811023622047" FirstBaselineOffset="CapHeight" VerticalJustification="CenterAlign" TextColumnMaxWidth="0" AutoSizingType="Off" AutoSizingReferencePoint="CenterPoint" UseMinimumHeightForAutoSizing="false" MinimumHeightForAutoSizing="0" UseMinimumWidthForAutoSizing="false" MinimumWidthForAutoSizing="0" UseNoLineBreaksForAutoSizing="false" ColumnRuleOverride="false" ColumnRuleOffset="0" ColumnRuleTopInset="0" ColumnRuleInsetChainOverride="true" ColumnRuleBottomInset="0" ColumnRuleStrokeWidth="1" ColumnRuleStrokeColor="Color/Black" ColumnRuleStrokeType="StrokeStyle/$ID/Solid" ColumnRuleStrokeTint="100" ColumnRuleOverprintOverride="false">
+				<Properties>
+					<InsetSpacing type="unit">0</InsetSpacing>
+				</Properties>
+			</TextFramePreference>
+			<TextFrameFootnoteOptionsObject EnableOverrides="false" SpanFootnotesAcross="false" MinimumSpacingOption="12" SpaceBetweenFootnotes="6" />
+			<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
+				<Properties>
+					<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
+				</Properties>
+			</TextWrapPreference>
+		</TextFrame>
+		<Rectangle Self="u12a8" ContentType="GraphicType" StoryTitle="$ID/" OverriddenPageItemProps="" FlexItemWidthMode="FlexFixed" FlexItemHeightMode="FlexFixed" Visible="true" Name="$ID/" TopLeftCornerOption="RoundedCorner" TopRightCornerOption="RoundedCorner" BottomLeftCornerOption="RoundedCorner" BottomRightCornerOption="RoundedCorner" TopLeftCornerRadius="3.6850393700787407" TopRightCornerRadius="3.6850393700787407" BottomLeftCornerRadius="3.6850393700787407" BottomRightCornerRadius="3.6850393700787407" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" FillColor="Color/R=155 G=155 B=163" CornerRadius="3.6850393700787407" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" ItemLayer="u153" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[None]" CornerOption="RoundedCorner" ItemTransform="1 0 0 1 861.732283464567 218.74015748031502" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="">
+			<Properties>
+				<PathGeometry>
+					<GeometryPathType PathOpen="false">
+						<PathPointArray>
+							<PathPointType Anchor="-201.2598425196851 -282.04724409448824" LeftDirection="-201.2598425196851 -282.04724409448824" RightDirection="-201.2598425196851 -282.04724409448824" />
+							<PathPointType Anchor="-201.2598425196851 -242.36220472440948" LeftDirection="-201.2598425196851 -242.36220472440948" RightDirection="-201.2598425196851 -242.36220472440948" />
+							<PathPointType Anchor="206.9291338582677 -242.36220472440948" LeftDirection="206.9291338582677 -242.36220472440948" RightDirection="206.9291338582677 -242.36220472440948" />
+							<PathPointType Anchor="206.9291338582677 -282.04724409448824" LeftDirection="206.9291338582677 -282.04724409448824" RightDirection="206.9291338582677 -282.04724409448824" />
+						</PathPointArray>
+					</GeometryPathType>
+				</PathGeometry>
+			</Properties>
+			<FrameFittingOption LeftCrop="-871.454629629164" TopCrop="186.0071240817715" RightCrop="-267.9983511323244" BottomCrop="594.6754160799264" FittingOnEmptyFrame="FillProportionally" />
+			<ObjectExportOption AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing" EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault" EpubAriaRole="$ID/">
+				<Properties>
+					<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+					<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+				</Properties>
+			</ObjectExportOption>
+			<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
+				<Properties>
+					<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
+				</Properties>
+			</TextWrapPreference>
+			<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+			<TransparencySetting>
+				<BlendingSetting BlendMode="Multiply" />
+			</TransparencySetting>
+		</Rectangle>
+		<TextFrame Self="u12e9" ParentStory="u12ed" PreviousTextFrame="n" NextTextFrame="n" ContentType="TextType" OverriddenPageItemProps="" FlexItemWidthMode="FlexFixed" FlexItemHeightMode="FlexFixed" Visible="true" Name="$ID/" TopLeftCornerOption="RoundedCorner" TopRightCornerOption="RoundedCorner" BottomLeftCornerOption="RoundedCorner" BottomRightCornerOption="RoundedCorner" TopLeftCornerRadius="3.6850393700787407" TopRightCornerRadius="3.6850393700787407" BottomLeftCornerRadius="3.6850393700787407" BottomRightCornerRadius="3.6850393700787407" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" CornerRadius="3.6850393700787407" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" ItemLayer="u153" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Text Frame]" CornerOption="RoundedCorner" ItemTransform="1 0 0 1 319.60629921250774 41.10236220475397" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="">
+			<Properties>
+				<PathGeometry>
+					<GeometryPathType PathOpen="false">
+						<PathPointArray>
+							<PathPointType Anchor="-213.30708661417322 -16.299212598454744" LeftDirection="-213.30708661417322 -16.299212598454744" RightDirection="-213.30708661417322 -16.299212598454744" />
+							<PathPointType Anchor="-213.30708661417322 9.212598425167299" LeftDirection="-213.30708661417322 9.212598425167299" RightDirection="-213.30708661417322 9.212598425167299" />
+							<PathPointType Anchor="169.37007874015777 9.212598425167299" LeftDirection="169.37007874015777 9.212598425167299" RightDirection="169.37007874015777 9.212598425167299" />
+							<PathPointType Anchor="169.37007874015777 -16.299212598454744" LeftDirection="169.37007874015777 -16.299212598454744" RightDirection="169.37007874015777 -16.299212598454744" />
+						</PathPointArray>
+					</GeometryPathType>
+				</PathGeometry>
+			</Properties>
+			<ObjectExportOption AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing" EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault" EpubAriaRole="$ID/">
+				<Properties>
+					<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+					<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+				</Properties>
+			</ObjectExportOption>
+			<TextFramePreference FootnotesEnableOverrides="false" FootnotesSpanAcrossColumns="false" FootnotesMinimumSpacing="12" FootnotesSpaceBetween="6" TextColumnCount="1" TextColumnFixedWidth="382.677165354331" FirstBaselineOffset="CapHeight" VerticalJustification="CenterAlign" TextColumnMaxWidth="0" AutoSizingType="Off" AutoSizingReferencePoint="CenterPoint" UseMinimumHeightForAutoSizing="false" MinimumHeightForAutoSizing="0" UseMinimumWidthForAutoSizing="false" MinimumWidthForAutoSizing="0" UseNoLineBreaksForAutoSizing="false" ColumnRuleOverride="false" ColumnRuleOffset="0" ColumnRuleTopInset="0" ColumnRuleInsetChainOverride="true" ColumnRuleBottomInset="0" ColumnRuleStrokeWidth="1" ColumnRuleStrokeColor="Color/Black" ColumnRuleStrokeType="StrokeStyle/$ID/Solid" ColumnRuleStrokeTint="100" ColumnRuleOverprintOverride="false">
+				<Properties>
+					<InsetSpacing type="unit">0</InsetSpacing>
+				</Properties>
+			</TextFramePreference>
+			<TextFrameFootnoteOptionsObject EnableOverrides="false" SpanFootnotesAcross="false" MinimumSpacingOption="12" SpaceBetweenFootnotes="6" />
+			<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
+				<Properties>
+					<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
+				</Properties>
+			</TextWrapPreference>
+		</TextFrame>
+		<TextFrame Self="u1301" ParentStory="u1304" PreviousTextFrame="n" NextTextFrame="n" ContentType="TextType" OverriddenPageItemProps="" FlexItemWidthMode="FlexFixed" FlexItemHeightMode="FlexFixed" Visible="true" Name="$ID/" TopLeftCornerOption="RoundedCorner" TopRightCornerOption="RoundedCorner" BottomLeftCornerOption="RoundedCorner" BottomRightCornerOption="RoundedCorner" TopLeftCornerRadius="3.6850393700787407" TopRightCornerRadius="3.6850393700787407" BottomLeftCornerRadius="3.6850393700787407" BottomRightCornerRadius="3.6850393700787407" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" CornerRadius="3.6850393700787407" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" ItemLayer="u153" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Text Frame]" CornerOption="RoundedCorner" ItemTransform="1 0 0 1 865.2755905511804 -124.01574803146653" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="">
+			<Properties>
+				<PathGeometry>
+					<GeometryPathType PathOpen="false">
+						<PathPointArray>
+							<PathPointType Anchor="-213.30708661417322 -16.299212598454744" LeftDirection="-213.30708661417322 -16.299212598454744" RightDirection="-213.30708661417322 -16.299212598454744" />
+							<PathPointType Anchor="-213.30708661417322 9.212598425167299" LeftDirection="-213.30708661417322 9.212598425167299" RightDirection="-213.30708661417322 9.212598425167299" />
+							<PathPointType Anchor="169.37007874015777 9.212598425167299" LeftDirection="169.37007874015777 9.212598425167299" RightDirection="169.37007874015777 9.212598425167299" />
+							<PathPointType Anchor="169.37007874015777 -16.299212598454744" LeftDirection="169.37007874015777 -16.299212598454744" RightDirection="169.37007874015777 -16.299212598454744" />
+						</PathPointArray>
+					</GeometryPathType>
+				</PathGeometry>
+			</Properties>
+			<ObjectExportOption AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing" EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault" EpubAriaRole="$ID/">
+				<Properties>
+					<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+					<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+				</Properties>
+			</ObjectExportOption>
+			<TextFramePreference FootnotesEnableOverrides="false" FootnotesSpanAcrossColumns="false" FootnotesMinimumSpacing="12" FootnotesSpaceBetween="6" TextColumnCount="1" TextColumnFixedWidth="382.677165354331" FirstBaselineOffset="CapHeight" VerticalJustification="CenterAlign" TextColumnMaxWidth="0" AutoSizingType="Off" AutoSizingReferencePoint="CenterPoint" UseMinimumHeightForAutoSizing="false" MinimumHeightForAutoSizing="0" UseMinimumWidthForAutoSizing="false" MinimumWidthForAutoSizing="0" UseNoLineBreaksForAutoSizing="false" ColumnRuleOverride="false" ColumnRuleOffset="0" ColumnRuleTopInset="0" ColumnRuleInsetChainOverride="true" ColumnRuleBottomInset="0" ColumnRuleStrokeWidth="1" ColumnRuleStrokeColor="Color/Black" ColumnRuleStrokeType="StrokeStyle/$ID/Solid" ColumnRuleStrokeTint="100" ColumnRuleOverprintOverride="false">
+				<Properties>
+					<InsetSpacing type="unit">0</InsetSpacing>
+				</Properties>
+			</TextFramePreference>
+			<TextFrameFootnoteOptionsObject EnableOverrides="false" SpanFootnotesAcross="false" MinimumSpacingOption="12" SpaceBetweenFootnotes="6" />
+			<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
+				<Properties>
+					<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
+				</Properties>
+			</TextWrapPreference>
+		</TextFrame>
+	</Spread>
+</idPkg:Spread>

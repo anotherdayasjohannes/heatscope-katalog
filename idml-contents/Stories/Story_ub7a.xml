@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="21.0">
+	<Story Self="ub7a" UserText="true" IsEndnoteStory="false" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" OTFContextualAlternate="false">
+				<Table Self="ub7aib8f" HeaderRowCount="1" FooterRowCount="0" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" BodyRowCount="4" ColumnCount="2" AppliedTableStyle="TableStyle/$ID/[Basic Table]" TableDirection="LeftToRightDirection" LeftBorderStrokeWeight="0" RightBorderStrokeWeight="0" TopBorderStrokeWeight="0" BottomBorderStrokeWeight="0">
+					<Row Self="ub7aib8fRow0" Name="0" TextTopInset="4" TextLeftInset="8.503937007874017" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="17.007874015333982" MinimumHeight="17.007874015333982" />
+					<Row Self="ub7aib8fRow1" Name="1" TextTopInset="4" TextLeftInset="8.503937007874017" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="28.34645669291339" MinimumHeight="28.34645669291339" />
+					<Row Self="ub7aib8fRow2" Name="2" TextTopInset="4" TextLeftInset="8.503937007874017" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="36.47593078613281" MinimumHeight="28.34645669291339" />
+					<Row Self="ub7aib8fRow3" Name="3" TextTopInset="4" TextLeftInset="8.503937007874017" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="36.47593078613281" MinimumHeight="28.34645669291339" />
+					<Row Self="ub7aib8fRow4" Name="4" TextTopInset="4" TextLeftInset="8.503937007874017" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="36.47593078613281" MinimumHeight="28.34645669291339" />
+					<Column Self="ub7aib8fColumn0" Name="0" TextTopInset="4" TextLeftInset="8.503937007874017" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleColumnWidth="129.25984251950388" />
+					<Column Self="ub7aib8fColumn1" Name="1" TextTopInset="4" TextLeftInset="8.503937007874017" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleColumnWidth="347.90551181102364" />
+					<Cell Self="ub7aib8fi0" Name="0:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="8.503937007874017" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" LeftInset="8.503937007874017" TopInset="4" FillColor="Color/C=59 M=37 Y=33 K=14" LeftEdgeStrokeWeight="0" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" LeftEdgeStrokeType="StrokeStyle/$ID/Solid" RightEdgeStrokeType="StrokeStyle/$ID/Solid" TopEdgeStrokeType="StrokeStyle/$ID/Solid" BottomEdgeStrokeType="StrokeStyle/$ID/Solid" VerticalJustification="CenterAlign" LeftEdgeStrokeTint="100" RightEdgeStrokeTint="100" TopEdgeStrokeTint="100" BottomEdgeStrokeTint="100" LeftEdgeStrokeOverprint="false" RightEdgeStrokeOverprint="false" TopEdgeStrokeOverprint="false" BottomEdgeStrokeOverprint="false" DiagonalLineStrokeWeight="0.5" LeftEdgeStrokePriority="7" RightEdgeStrokePriority="7" TopEdgeStrokePriority="7" BottomEdgeStrokePriority="7" LeftEdgeStrokeGapTint="100" RightEdgeStrokeGapTint="100" TopEdgeStrokeGapTint="100" BottomEdgeStrokeGapTint="100" LeftEdgeStrokeGapColor="Color/Paper" RightEdgeStrokeGapColor="Color/Paper" TopEdgeStrokeGapColor="Color/Paper" BottomEdgeStrokeGapColor="Color/Paper" GraphicLeftInset="8.503937007874017" GraphicTopInset="2.834645669291339" GraphicRightInset="2.834645669291339" GraphicBottomInset="2.834645669291339">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" HyphenationZone="26.265306122449" RuleAboveLineWeight="0.7295918367346945" RuleBelowLineWeight="0.7295918367346945" SplitColumnInsideGutter="4.377551020408167">
+							<Properties>
+								<TabList type="list">
+									<ListItem type="record">
+										<Alignment type="enumeration">LeftAlign</Alignment>
+										<AlignmentCharacter type="string">.</AlignmentCharacter>
+										<Leader type="string"></Leader>
+										<Position type="unit">8.503937007874017</Position>
+									</ListItem>
+								</TabList>
+							</Properties>
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" FontStyle="Medium" PointSize="9" KerningMethod="$ID/Optical" StrokeWeight="0.7295918367346945" MiterLimit="2.918367346938778" RubyFontSize="-0.7295918367346945" KentenFontSize="-0.7295918367346945">
+								<Properties>
+									<AppliedFont type="string">DINPro</AppliedFont>
+								</Properties>
+								<Content>Premium-Leistung</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="ub7aib8fi1" Name="1:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="8.503937007874017" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" LeftInset="8.503937007874017" TopInset="4" FillColor="Color/C=59 M=37 Y=33 K=14" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0" TopEdgeStrokeWeight="0" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" LeftEdgeStrokeType="StrokeStyle/$ID/Solid" RightEdgeStrokeType="StrokeStyle/$ID/Solid" TopEdgeStrokeType="StrokeStyle/$ID/Solid" BottomEdgeStrokeType="StrokeStyle/$ID/Solid" VerticalJustification="CenterAlign" LeftEdgeStrokeTint="100" RightEdgeStrokeTint="100" TopEdgeStrokeTint="100" BottomEdgeStrokeTint="100" LeftEdgeStrokeOverprint="false" RightEdgeStrokeOverprint="false" TopEdgeStrokeOverprint="false" BottomEdgeStrokeOverprint="false" DiagonalLineStrokeWeight="0.5" LeftEdgeStrokePriority="7" RightEdgeStrokePriority="7" TopEdgeStrokePriority="7" BottomEdgeStrokePriority="7" LeftEdgeStrokeGapTint="100" RightEdgeStrokeGapTint="100" TopEdgeStrokeGapTint="100" BottomEdgeStrokeGapTint="100" LeftEdgeStrokeGapColor="Color/Paper" RightEdgeStrokeGapColor="Color/Paper" TopEdgeStrokeGapColor="Color/Paper" BottomEdgeStrokeGapColor="Color/Paper" GraphicLeftInset="8.503937007874017" GraphicTopInset="2.834645669291339" GraphicRightInset="2.834645669291339" GraphicBottomInset="2.834645669291339">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" HyphenationZone="26.265306122449" RuleAboveLineWeight="0.7295918367346945" RuleBelowLineWeight="0.7295918367346945" SplitColumnInsideGutter="4.377551020408167">
+							<Properties>
+								<TabList type="list">
+									<ListItem type="record">
+										<Alignment type="enumeration">LeftAlign</Alignment>
+										<AlignmentCharacter type="string">.</AlignmentCharacter>
+										<Leader type="string"></Leader>
+										<Position type="unit">8.503937007874017</Position>
+									</ListItem>
+								</TabList>
+							</Properties>
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" FontStyle="Medium" PointSize="9" KerningMethod="$ID/Optical" StrokeWeight="0.7295918367346945" MiterLimit="2.918367346938778" RubyFontSize="-0.7295918367346945" KentenFontSize="-0.7295918367346945">
+								<Properties>
+									<AppliedFont type="string">DINPro</AppliedFont>
+								</Properties>
+								<Content>Ihr garantierter Nutzen</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="ub7aib8fi2" Name="0:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="8.503937007874017" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" LeftInset="8.503937007874017" TopInset="4" FillColor="Color/R=155 G=155 B=163" FillTint="-1" LeftEdgeStrokeWeight="0" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" LeftEdgeStrokeType="StrokeStyle/$ID/Solid" RightEdgeStrokeType="StrokeStyle/$ID/Solid" TopEdgeStrokeType="StrokeStyle/$ID/Solid" BottomEdgeStrokeType="StrokeStyle/$ID/Solid" VerticalJustification="CenterAlign" LeftEdgeStrokeTint="100" RightEdgeStrokeTint="100" TopEdgeStrokeTint="100" BottomEdgeStrokeTint="100" LeftEdgeStrokeOverprint="false" RightEdgeStrokeOverprint="false" TopEdgeStrokeOverprint="false" BottomEdgeStrokeOverprint="false" LeftEdgeStrokePriority="7" RightEdgeStrokePriority="7" TopEdgeStrokePriority="7" BottomEdgeStrokePriority="7" LeftEdgeStrokeGapTint="100" RightEdgeStrokeGapTint="100" TopEdgeStrokeGapTint="100" BottomEdgeStrokeGapTint="100" LeftEdgeStrokeGapColor="Color/Paper" RightEdgeStrokeGapColor="Color/Paper" TopEdgeStrokeGapColor="Color/Paper" BottomEdgeStrokeGapColor="Color/Paper" GraphicLeftInset="8.503937007874017" GraphicTopInset="2.834645669291339" GraphicRightInset="2.834645669291339" GraphicBottomInset="2.834645669291339">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Medium" PointSize="9" OTFContextualAlternate="false">
+								<Properties>
+									<AppliedFont type="string">DINPro</AppliedFont>
+								</Properties>
+								<Content>Alle Leistungen des  Basis-Pakets</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="ub7aib8fi3" Name="1:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="8.503937007874017" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" LeftInset="8.503937007874017" TopInset="4" FillColor="Color/R=155 G=155 B=163" FillTint="-1" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" LeftEdgeStrokeType="StrokeStyle/$ID/Solid" RightEdgeStrokeType="StrokeStyle/$ID/Solid" TopEdgeStrokeType="StrokeStyle/$ID/Solid" BottomEdgeStrokeType="StrokeStyle/$ID/Solid" VerticalJustification="CenterAlign" LeftEdgeStrokeTint="100" RightEdgeStrokeTint="100" TopEdgeStrokeTint="100" BottomEdgeStrokeTint="100" LeftEdgeStrokeOverprint="false" RightEdgeStrokeOverprint="false" TopEdgeStrokeOverprint="false" BottomEdgeStrokeOverprint="false" LeftEdgeStrokePriority="7" RightEdgeStrokePriority="7" TopEdgeStrokePriority="7" BottomEdgeStrokePriority="7" LeftEdgeStrokeGapTint="100" RightEdgeStrokeGapTint="100" TopEdgeStrokeGapTint="100" BottomEdgeStrokeGapTint="100" LeftEdgeStrokeGapColor="Color/Paper" RightEdgeStrokeGapColor="Color/Paper" TopEdgeStrokeGapColor="Color/Paper" BottomEdgeStrokeGapColor="Color/Paper" GraphicLeftInset="8.503937007874017" GraphicTopInset="2.834645669291339" GraphicRightInset="2.834645669291339" GraphicBottomInset="2.834645669291339">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Medium" PointSize="9" OTFContextualAlternate="false">
+								<Properties>
+									<AppliedFont type="string">DINPro</AppliedFont>
+								</Properties>
+								<Content>Solide Basis:</Content>
+							</CharacterStyleRange>
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9" OTFContextualAlternate="false">
+								<Properties>
+									<AppliedFont type="string">DINPro</AppliedFont>
+								</Properties>
+								<Content> Sie profitieren  von allen Garantien und Services des Basis-Pakets.</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="ub7aib8fi5" Name="0:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="8.503937007874017" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" LeftInset="8.503937007874017" TopInset="4" FillColor="Color/R=155 G=155 B=163" FillTint="-1" LeftEdgeStrokeWeight="0" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" LeftEdgeStrokeType="StrokeStyle/$ID/Solid" RightEdgeStrokeType="StrokeStyle/$ID/Solid" TopEdgeStrokeType="StrokeStyle/$ID/Solid" BottomEdgeStrokeType="StrokeStyle/$ID/Solid" VerticalJustification="CenterAlign" LeftEdgeStrokeTint="100" RightEdgeStrokeTint="100" TopEdgeStrokeTint="100" BottomEdgeStrokeTint="100" LeftEdgeStrokeOverprint="false" RightEdgeStrokeOverprint="false" TopEdgeStrokeOverprint="false" BottomEdgeStrokeOverprint="false" LeftEdgeStrokePriority="7" RightEdgeStrokePriority="7" TopEdgeStrokePriority="7" BottomEdgeStrokePriority="7" LeftEdgeStrokeGapTint="100" RightEdgeStrokeGapTint="100" TopEdgeStrokeGapTint="100" BottomEdgeStrokeGapTint="100" LeftEdgeStrokeGapColor="Color/Paper" RightEdgeStrokeGapColor="Color/Paper" TopEdgeStrokeGapColor="Color/Paper" BottomEdgeStrokeGapColor="Color/Paper" GraphicLeftInset="8.503937007874017" GraphicTopInset="2.834645669291339" GraphicRightInset="2.834645669291339" GraphicBottomInset="2.834645669291339">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Medium" PointSize="9">
+								<Properties>
+									<AppliedFont type="string">DINPro</AppliedFont>
+								</Properties>
+								<Content>PLUS: Professionelle  Servicegarantie</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="ub7aib8fi4" Name="1:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="8.503937007874017" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" LeftInset="8.503937007874017" TopInset="4" FillColor="Color/R=155 G=155 B=163" FillTint="-1" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" LeftEdgeStrokeType="StrokeStyle/$ID/Solid" RightEdgeStrokeType="StrokeStyle/$ID/Solid" TopEdgeStrokeType="StrokeStyle/$ID/Solid" BottomEdgeStrokeType="StrokeStyle/$ID/Solid" VerticalJustification="CenterAlign" LeftEdgeStrokeTint="100" RightEdgeStrokeTint="100" TopEdgeStrokeTint="100" BottomEdgeStrokeTint="100" LeftEdgeStrokeOverprint="false" RightEdgeStrokeOverprint="false" TopEdgeStrokeOverprint="false" BottomEdgeStrokeOverprint="false" LeftEdgeStrokePriority="7" RightEdgeStrokePriority="7" TopEdgeStrokePriority="7" BottomEdgeStrokePriority="7" LeftEdgeStrokeGapTint="100" RightEdgeStrokeGapTint="100" TopEdgeStrokeGapTint="100" BottomEdgeStrokeGapTint="100" LeftEdgeStrokeGapColor="Color/Paper" RightEdgeStrokeGapColor="Color/Paper" TopEdgeStrokeGapColor="Color/Paper" BottomEdgeStrokeGapColor="Color/Paper" GraphicLeftInset="8.503937007874017" GraphicTopInset="2.834645669291339" GraphicRightInset="2.834645669291339" GraphicBottomInset="2.834645669291339">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Medium" PointSize="9">
+								<Properties>
+									<AppliedFont type="string">DINPro</AppliedFont>
+								</Properties>
+								<Content>Optimale Performance von Tag 1:</Content>
+							</CharacterStyleRange>
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9">
+								<Properties>
+									<AppliedFont type="string">DINPro</AppliedFont>
+								</Properties>
+								<Content> Wir übernehmen die Feinjustierung der Thermostate und Boiler vor Ort beim Mieter und stellen so die maximale Effizienz und den Komfort sicher.</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="ub7aib8fi6" Name="0:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="8.503937007874017" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" LeftInset="8.503937007874017" TopInset="4" FillColor="Color/R=155 G=155 B=163" FillTint="-1" LeftEdgeStrokeWeight="0" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" LeftEdgeStrokeType="StrokeStyle/$ID/Solid" RightEdgeStrokeType="StrokeStyle/$ID/Solid" TopEdgeStrokeType="StrokeStyle/$ID/Solid" BottomEdgeStrokeType="StrokeStyle/$ID/Solid" VerticalJustification="CenterAlign" LeftEdgeStrokeTint="100" RightEdgeStrokeTint="100" TopEdgeStrokeTint="100" BottomEdgeStrokeTint="100" LeftEdgeStrokeOverprint="false" RightEdgeStrokeOverprint="false" TopEdgeStrokeOverprint="false" BottomEdgeStrokeOverprint="false" LeftEdgeStrokePriority="7" RightEdgeStrokePriority="7" TopEdgeStrokePriority="7" BottomEdgeStrokePriority="7" LeftEdgeStrokeGapTint="100" RightEdgeStrokeGapTint="100" TopEdgeStrokeGapTint="100" BottomEdgeStrokeGapTint="100" LeftEdgeStrokeGapColor="Color/Paper" RightEdgeStrokeGapColor="Color/Paper" TopEdgeStrokeGapColor="Color/Paper" BottomEdgeStrokeGapColor="Color/Paper" GraphicLeftInset="8.503937007874017" GraphicTopInset="2.834645669291339" GraphicRightInset="2.834645669291339" GraphicBottomInset="2.834645669291339">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Medium" PointSize="9">
+								<Properties>
+									<AppliedFont type="string">DINPro</AppliedFont>
+								</Properties>
+								<Content>PLUS: Die revolutionäre Komfortgarantie</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="ub7aib8fi7" Name="1:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="8.503937007874017" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" LeftInset="8.503937007874017" TopInset="4" FillColor="Color/R=155 G=155 B=163" FillTint="-1" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" LeftEdgeStrokeType="StrokeStyle/$ID/Solid" RightEdgeStrokeType="StrokeStyle/$ID/Solid" TopEdgeStrokeType="StrokeStyle/$ID/Solid" BottomEdgeStrokeType="StrokeStyle/$ID/Solid" VerticalJustification="CenterAlign" LeftEdgeStrokeTint="100" RightEdgeStrokeTint="100" TopEdgeStrokeTint="100" BottomEdgeStrokeTint="100" LeftEdgeStrokeOverprint="false" RightEdgeStrokeOverprint="false" TopEdgeStrokeOverprint="false" BottomEdgeStrokeOverprint="false" LeftEdgeStrokePriority="7" RightEdgeStrokePriority="7" TopEdgeStrokePriority="7" BottomEdgeStrokePriority="7" LeftEdgeStrokeGapTint="100" RightEdgeStrokeGapTint="100" TopEdgeStrokeGapTint="100" BottomEdgeStrokeGapTint="100" LeftEdgeStrokeGapColor="Color/Paper" RightEdgeStrokeGapColor="Color/Paper" TopEdgeStrokeGapColor="Color/Paper" BottomEdgeStrokeGapColor="Color/Paper" GraphicLeftInset="8.503937007874017" GraphicTopInset="2.834645669291339" GraphicRightInset="2.834645669291339" GraphicBottomInset="2.834645669291339">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Medium" PointSize="9">
+								<Properties>
+									<AppliedFont type="string">DINPro</AppliedFont>
+								</Properties>
+								<Content>Absolute Sorgenfreiheit:</Content>
+							</CharacterStyleRange>
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9">
+								<Properties>
+									<AppliedFont type="string">DINPro</AppliedFont>
+								</Properties>
+								<Content> Wir garantieren die vereinbarte Wohlfühltemperatur  (gemäß DIN EN ISO 7730) in jeder Wohnung. Sollte diese nachweislich nicht erreicht werden, rüsten wir die Heizung auf unsere Kosten nach.</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="ub7aib8fi8" Name="0:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="8.503937007874017" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" LeftInset="8.503937007874017" TopInset="4" FillColor="Color/R=155 G=155 B=163" FillTint="-1" LeftEdgeStrokeWeight="0" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" LeftEdgeStrokeType="StrokeStyle/$ID/Solid" RightEdgeStrokeType="StrokeStyle/$ID/Solid" TopEdgeStrokeType="StrokeStyle/$ID/Solid" BottomEdgeStrokeType="StrokeStyle/$ID/Solid" VerticalJustification="CenterAlign" LeftEdgeStrokeTint="100" RightEdgeStrokeTint="100" TopEdgeStrokeTint="100" BottomEdgeStrokeTint="100" LeftEdgeStrokeOverprint="false" RightEdgeStrokeOverprint="false" TopEdgeStrokeOverprint="false" BottomEdgeStrokeOverprint="false" LeftEdgeStrokePriority="7" RightEdgeStrokePriority="7" TopEdgeStrokePriority="7" BottomEdgeStrokePriority="7" LeftEdgeStrokeGapTint="100" RightEdgeStrokeGapTint="100" TopEdgeStrokeGapTint="100" BottomEdgeStrokeGapTint="100" LeftEdgeStrokeGapColor="Color/Paper" RightEdgeStrokeGapColor="Color/Paper" TopEdgeStrokeGapColor="Color/Paper" BottomEdgeStrokeGapColor="Color/Paper" GraphicLeftInset="8.503937007874017" GraphicTopInset="2.834645669291339" GraphicRightInset="2.834645669291339" GraphicBottomInset="2.834645669291339">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Medium" PointSize="9">
+								<Properties>
+									<AppliedFont type="string">DINPro</AppliedFont>
+								</Properties>
+								<Content>PLUS: Direkter  Mieter-Support</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="ub7aib8fi9" Name="1:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="8.503937007874017" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" LeftInset="8.503937007874017" TopInset="4" FillColor="Color/R=155 G=155 B=163" FillTint="-1" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" LeftEdgeStrokeType="StrokeStyle/$ID/Solid" RightEdgeStrokeType="StrokeStyle/$ID/Solid" TopEdgeStrokeType="StrokeStyle/$ID/Solid" BottomEdgeStrokeType="StrokeStyle/$ID/Solid" VerticalJustification="CenterAlign" LeftEdgeStrokeTint="100" RightEdgeStrokeTint="100" TopEdgeStrokeTint="100" BottomEdgeStrokeTint="100" LeftEdgeStrokeOverprint="false" RightEdgeStrokeOverprint="false" TopEdgeStrokeOverprint="false" BottomEdgeStrokeOverprint="false" LeftEdgeStrokePriority="7" RightEdgeStrokePriority="7" TopEdgeStrokePriority="7" BottomEdgeStrokePriority="7" LeftEdgeStrokeGapTint="100" RightEdgeStrokeGapTint="100" TopEdgeStrokeGapTint="100" BottomEdgeStrokeGapTint="100" LeftEdgeStrokeGapColor="Color/Paper" RightEdgeStrokeGapColor="Color/Paper" TopEdgeStrokeGapColor="Color/Paper" BottomEdgeStrokeGapColor="Color/Paper" GraphicLeftInset="8.503937007874017" GraphicTopInset="2.834645669291339" GraphicRightInset="2.834645669291339" GraphicBottomInset="2.834645669291339">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Medium" PointSize="9">
+								<Properties>
+									<AppliedFont type="string">DINPro</AppliedFont>
+								</Properties>
+								<Content>Minimierter Verwaltungsaufwand beim Erstbezug:</Content>
+							</CharacterStyleRange>
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9">
+								<Properties>
+									<AppliedFont type="string">DINPro</AppliedFont>
+								</Properties>
+								<Content> Wir sind der initiale Ansprechpartner für Ihre Mieter bei Fragen zur Heizungsbedienung und sorgen für eine reibungslose Einweisung.</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+				</Table>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="21.0">
+	<Story Self="u490" UserText="true" IsEndnoteStory="false" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" HyphenationZone="29.807999999999996" SpaceAfter="5.669291338582678" RuleAboveLineWeight="0.828" RuleBelowLineWeight="0.828" SplitColumnInsideGutter="4.968">
+			<Properties>
+				<TabList type="list">
+					<ListItem type="record">
+						<Alignment type="enumeration">LeftAlign</Alignment>
+						<AlignmentCharacter type="string">.</AlignmentCharacter>
+						<Leader type="string"></Leader>
+						<Position type="unit">8.503937007874017</Position>
+					</ListItem>
+				</TabList>
+			</Properties>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Character Style12" FillColor="Tint/[Schwarz] 85%25" FontStyle="Medium" KerningMethod="$ID/Optical" Capitalization="AllCaps">
+				<Properties>
+					<AppliedFont type="string">DINPro</AppliedFont>
+				</Properties>
+				<Content>Ihre nächsten Schritte:</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" HyphenationZone="29.807999999999996" RuleAboveLineWeight="0.828" RuleBelowLineWeight="0.828" SplitColumnInsideGutter="4.968">
+			<Properties>
+				<TabList type="list">
+					<ListItem type="record">
+						<Alignment type="enumeration">LeftAlign</Alignment>
+						<AlignmentCharacter type="string">.</AlignmentCharacter>
+						<Leader type="string"></Leader>
+						<Position type="unit">8.503937007874017</Position>
+					</ListItem>
+				</TabList>
+			</Properties>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Character Style12" FillColor="Tint/[Schwarz] 85%25" FontStyle="Regular" KerningMethod="$ID/Optical">
+				<Properties>
+					<AppliedFont type="string">DINPro</AppliedFont>
+				</Properties>
+				<Content>Kommen Sie gerne auf uns zu – wir entwickeln  ein individuelles Angebot, das exakt zu Ihrem  Bauvorhaben passt.</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="21.0">
+	<Story Self="ub23" UserText="true" IsEndnoteStory="false" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" HyphenationZone="26.265306122449" RuleAboveLineWeight="0.7295918367346945" RuleBelowLineWeight="0.7295918367346945" SplitColumnInsideGutter="4.377551020408167">
+			<Properties>
+				<TabList type="list">
+					<ListItem type="record">
+						<Alignment type="enumeration">LeftAlign</Alignment>
+						<AlignmentCharacter type="string">.</AlignmentCharacter>
+						<Leader type="string"></Leader>
+						<Position type="unit">8.503937007874017</Position>
+					</ListItem>
+				</TabList>
+			</Properties>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/C=0 M=0 Y=0 K=85" FontStyle="Medium" PointSize="14" KerningMethod="$ID/Optical" StrokeWeight="0.7295918367346945" MiterLimit="2.918367346938778" RubyFontSize="-0.7295918367346945" KentenFontSize="-0.7295918367346945">
+				<Properties>
+					<AppliedFont type="string">DINPro</AppliedFont>
+				</Properties>
+				<Content>UNSER QUALITÄTSVERSPRECHEN</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/C=0 M=0 Y=0 K=85" FontStyle="Medium" PointSize="9" KerningMethod="$ID/Optical" StrokeWeight="0.7295918367346945" MiterLimit="2.918367346938778" RubyFontSize="-0.7295918367346945" KentenFontSize="-0.7295918367346945">
+				<Properties>
+					<AppliedFont type="string">DINPro</AppliedFont>
+				</Properties>
+				<Br />
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/C=0 M=0 Y=0 K=85" PointSize="9" KerningMethod="$ID/Optical" StrokeWeight="0.7295918367346945" MiterLimit="2.918367346938778" RubyFontSize="-0.7295918367346945" KentenFontSize="-0.7295918367346945">
+				<Properties>
+					<AppliedFont type="string">DINPro</AppliedFont>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/C=0 M=0 Y=0 K=85" FontStyle="Medium" PointSize="9" KerningMethod="$ID/Optical" StrokeWeight="0.7295918367346945" MiterLimit="2.918367346938778" RubyFontSize="-0.7295918367346945" KentenFontSize="-0.7295918367346945">
+				<Properties>
+					<AppliedFont type="string">DINPro</AppliedFont>
+				</Properties>
+				<Content>Ihr Vorteil:</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/C=0 M=0 Y=0 K=85" PointSize="9" KerningMethod="$ID/Optical" StrokeWeight="0.7295918367346945" MiterLimit="2.918367346938778" RubyFontSize="-0.7295918367346945" KentenFontSize="-0.7295918367346945">
+				<Properties>
+					<AppliedFont type="string">DINPro</AppliedFont>
+				</Properties>
+				<Content> Sie erhalten ein technisch perfektes System mit einer unübertroffenen Lebensdauer und minimalen Lebenszykluskosten.</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

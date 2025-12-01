@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="21.0">
+	<Story Self="u13fa" UserText="true" IsEndnoteStory="false" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" HyphenationZone="26.265306122449" RuleAboveLineWeight="0.7295918367346945" RuleBelowLineWeight="0.7295918367346945" SplitColumnInsideGutter="4.377551020408167">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" PointSize="9" KerningMethod="$ID/Optical" StrokeWeight="0.7295918367346945" MiterLimit="2.918367346938778" RubyFontSize="-0.7295918367346945" KentenFontSize="-0.7295918367346945">
+				<Properties>
+					<AppliedFont type="string">DINPro</AppliedFont>
+				</Properties>
+				<Content>HEATSCOPE</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" PointSize="7.5" KerningMethod="$ID/Optical" StrokeWeight="0.7295918367346945" BaselineShift="3" MiterLimit="2.918367346938778" RubyFontSize="-0.7295918367346945" KentenFontSize="-0.7295918367346945">
+				<Properties>
+					<AppliedFont type="string">DINPro</AppliedFont>
+				</Properties>
+				<Content>®</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" PointSize="9" KerningMethod="$ID/Optical" StrokeWeight="0.7295918367346945" MiterLimit="2.918367346938778" RubyFontSize="-0.7295918367346945" KentenFontSize="-0.7295918367346945">
+				<Properties>
+					<AppliedFont type="string">DINPro</AppliedFont>
+				</Properties>
+				<Content>. Das Infrarot-Heizerlebnis, das hochwertige Materialien, zeitloses Design und Effizienz auf einen Nenner bringt. Mit HEATSCOPE</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" PointSize="7.5" KerningMethod="$ID/Optical" StrokeWeight="0.7295918367346945" BaselineShift="3" MiterLimit="2.918367346938778" RubyFontSize="-0.7295918367346945" KentenFontSize="-0.7295918367346945">
+				<Properties>
+					<AppliedFont type="string">DINPro</AppliedFont>
+				</Properties>
+				<Content>®</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" PointSize="9" KerningMethod="$ID/Optical" StrokeWeight="0.7295918367346945" MiterLimit="2.918367346938778" RubyFontSize="-0.7295918367346945" KentenFontSize="-0.7295918367346945">
+				<Properties>
+					<AppliedFont type="string">DINPro</AppliedFont>
+				</Properties>
+				<Content> ROOMS PROJECTS erweitern wir unser Portfolio um eine Lösung, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" FontStyle="Medium" PointSize="9" KerningMethod="$ID/Optical" StrokeWeight="0.7295918367346945" MiterLimit="2.918367346938778" RubyFontSize="-0.7295918367346945" KentenFontSize="-0.7295918367346945">
+				<Properties>
+					<AppliedFont type="string">DINPro</AppliedFont>
+				</Properties>
+				<Content>die speziell für den objektbasierten Einsatz im Wohnungsbau</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" PointSize="9" KerningMethod="$ID/Optical" StrokeWeight="0.7295918367346945" MiterLimit="2.918367346938778" RubyFontSize="-0.7295918367346945" KentenFontSize="-0.7295918367346945">
+				<Properties>
+					<AppliedFont type="string">DINPro</AppliedFont>
+				</Properties>
+				<Content> entwickelt wurde: leistungsstark, langlebig und wirtschaftlich. </Content>
+				<Br />
+				<Br />
+				<Content>Die Produktreihe steht </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" FontStyle="Medium" PointSize="9" KerningMethod="$ID/Optical" StrokeWeight="0.7295918367346945" MiterLimit="2.918367346938778" RubyFontSize="-0.7295918367346945" KentenFontSize="-0.7295918367346945">
+				<Properties>
+					<AppliedFont type="string">DINPro</AppliedFont>
+				</Properties>
+				<Content>exklusiv Bauträgern und Investoren ab zehn Wohneinheiten</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" PointSize="9" KerningMethod="$ID/Optical" StrokeWeight="0.7295918367346945" MiterLimit="2.918367346938778" RubyFontSize="-0.7295918367346945" KentenFontSize="-0.7295918367346945">
+				<Properties>
+					<AppliedFont type="string">DINPro</AppliedFont>
+				</Properties>
+				<Content> zur Verfügung. Die Geräte überzeugen nicht nur durch ihre hochwertige Verarbeitung „Made in Germany“, sondern auch durch ihren hohen Strahlungswirkungsgrad und ein kompromisslos sicheres Systemdesign.</Content>
+				<Br />
+				<Br />
+				<Content>Für Investoren entscheidend: Auf jedes Heizpaneel geben wir 30 Jahre Garantie – ein Versprechen, das weit über Branchenstandard hinausgeht. Damit bieten wir Ihnen nicht nur technische Qualität, sondern auch die langfristige Sicherheit, die Sie für Ihre Projekte brauchen.</Content>
+				<Br />
+				<Br />
+				<Content>Was zählt, ist die langfristige Zuverlässigkeit. </Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

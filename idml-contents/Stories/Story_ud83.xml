@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="21.0">
+	<Story Self="ud83" UserText="true" IsEndnoteStory="false" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" HyphenationZone="44.12170537937602" RuleAboveLineWeight="1.2256029272048896" RuleBelowLineWeight="1.2256029272048896" Justification="CenterAlign" SplitColumnInsideGutter="7.353617563229336" ParagraphBorderTopLeftCornerRadius="0.5" ParagraphBorderTopRightCornerRadius="0.5" ParagraphBorderBottomLeftCornerRadius="0.5" ParagraphBorderBottomRightCornerRadius="0.5" ParagraphShadingTopLeftCornerRadius="0.5" ParagraphShadingTopRightCornerRadius="0.5" ParagraphShadingBottomLeftCornerRadius="0.5" ParagraphShadingBottomRightCornerRadius="0.5" ParagraphBorderTopLineWeight="0.5" ParagraphBorderBottomLineWeight="0.5" ParagraphBorderLeftLineWeight="0.5" ParagraphBorderRightLineWeight="0.5">
+			<Properties>
+				<SameParaStyleSpacing type="unit">-0.5</SameParaStyleSpacing>
+			</Properties>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Medium" PointSize="20" KerningMethod="$ID/Optical" StrokeWeight="1.2256029272048896" Capitalization="AllCaps" FillTint="0" OTFContextualAlternate="false" MiterLimit="4.9024117088195585" RubyFontSize="-1.2256029272048896" KentenFontSize="-1.2256029272048896">
+				<Properties>
+					<AppliedFont type="string">DINPro</AppliedFont>
+				</Properties>
+				<Content>6</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

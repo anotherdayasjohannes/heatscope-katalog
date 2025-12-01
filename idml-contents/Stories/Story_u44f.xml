@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="21.0">
+	<Story Self="u44f" UserText="true" IsEndnoteStory="false" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" HyphenationZone="25.229594409039237" RuleAboveLineWeight="0.7008220669177566" RuleBelowLineWeight="0.7008220669177566" SplitColumnInsideGutter="4.204932401506541">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="10.302084383691014" StrokeWeight="0.7008220669177566" FillTint="85" MiterLimit="2.8032882676710265" RubyFontSize="-0.7008220669177566" KentenFontSize="-0.7008220669177566">
+				<Properties>
+					<AppliedFont type="string">Century Gothic</AppliedFont>
+				</Properties>
+				<Content>ambient heating</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

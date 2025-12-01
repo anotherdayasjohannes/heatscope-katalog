@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:MasterSpread xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="21.0">
+	<MasterSpread Self="ua5" Name="A-Mustervorlage" NamePrefix="A" BaseName="Mustervorlage" ShowMasterItems="true" PageCount="2" OverriddenPageItemProps="" PrimaryTextFrame="n" ItemTransform="1 0 0 1 0 0">
+		<Properties>
+			<PageColor type="enumeration">UseMasterColor</PageColor>
+		</Properties>
+		<Page Self="uaa" TabOrder="" AppliedMaster="n" OverrideList="" MasterPageTransform="1 0 0 1 0 0" Name="A" AppliedTrapPreset="TrapPreset/$ID/kDefaultTrapStyleName" GeometricBounds="0 0 419.527559055 595.275590551" ItemTransform="1 0 0 1 -595.275590551 -209.7637795275" AppliedAlternateLayout="n" LayoutRule="Off" SnapshotBlendingMode="IgnoreLayoutSnapshots" OptionalPage="false" GridStartingPoint="TopOutside" UseMasterGrid="true">
+			<Properties>
+				<PageColor type="enumeration">UseMasterColor</PageColor>
+			</Properties>
+			<Guide Self="u6be" OverriddenPageItemProps="" Orientation="Horizontal" Location="56.692913385826785" FitToPage="true" ViewThreshold="5" Locked="false" ItemLayer="u153" PageIndex="1" GuideType="Ruler" GuideZone="1">
+				<Properties>
+					<GuideColor type="enumeration">Cyan</GuideColor>
+				</Properties>
+			</Guide>
+			<Guide Self="u6bd" OverriddenPageItemProps="" Orientation="Vertical" Location="56.69291338564574" FitToPage="true" ViewThreshold="5" Locked="false" ItemLayer="u153" PageIndex="1" GuideType="Ruler" GuideZone="1">
+				<Properties>
+					<GuideColor type="enumeration">Cyan</GuideColor>
+				</Properties>
+			</Guide>
+			<MarginPreference ColumnCount="1" ColumnGutter="141.73228346456693" Top="14.173228346456694" Bottom="14.173228346456694" Left="14.173228346456694" Right="14.173228346456694" ColumnDirection="Horizontal" ColumnsPositions="0 566.9291338580866" />
+			<GridDataInformation FontStyle="Regular" PointSize="12" CharacterAki="0" LineAki="9" HorizontalScale="100" VerticalScale="100" LineAlignment="LeftOrTopLineJustify" GridAlignment="AlignEmCenter" CharacterAlignment="AlignEmCenter">
+				<Properties>
+					<AppliedFont type="string">Minion Pro</AppliedFont>
+				</Properties>
+			</GridDataInformation>
+		</Page>
+		<Page Self="uab" TabOrder="" AppliedMaster="n" OverrideList="" MasterPageTransform="1 0 0 1 0 0" Name="A" AppliedTrapPreset="TrapPreset/$ID/kDefaultTrapStyleName" GeometricBounds="0 0 419.527559055 595.275590551" ItemTransform="1 0 0 1 0 -209.7637795275" AppliedAlternateLayout="n" LayoutRule="Off" SnapshotBlendingMode="IgnoreLayoutSnapshots" OptionalPage="false" GridStartingPoint="TopOutside" UseMasterGrid="true">
+			<Properties>
+				<PageColor type="enumeration">UseMasterColor</PageColor>
+			</Properties>
+			<Guide Self="u6bf" OverriddenPageItemProps="" Orientation="Horizontal" Location="56.692913385826785" FitToPage="true" ViewThreshold="5" Locked="false" ItemLayer="u153" PageIndex="2" GuideType="Ruler" GuideZone="1">
+				<Properties>
+					<GuideColor type="enumeration">Cyan</GuideColor>
+				</Properties>
+			</Guide>
+			<MarginPreference ColumnCount="1" ColumnGutter="141.73228346456693" Top="14.173228346456694" Bottom="14.173228346456694" Left="14.173228346456694" Right="14.173228346456694" ColumnDirection="Horizontal" ColumnsPositions="0 566.9291338580866" />
+			<GridDataInformation FontStyle="Regular" PointSize="12" CharacterAki="0" LineAki="9" HorizontalScale="100" VerticalScale="100" LineAlignment="LeftOrTopLineJustify" GridAlignment="AlignEmCenter" CharacterAlignment="AlignEmCenter">
+				<Properties>
+					<AppliedFont type="string">Minion Pro</AppliedFont>
+				</Properties>
+			</GridDataInformation>
+		</Page>
+	</MasterSpread>
+</idPkg:MasterSpread>

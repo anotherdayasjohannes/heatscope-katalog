@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="21.0">
+	<Story Self="u11e5" UserText="true" IsEndnoteStory="false" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph Style2" SpaceAfter="5.669291338582678">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Character Style11" FillColor="Tint/[Schwarz] 85%25" FontStyle="Medium" PointSize="8" KerningMethod="$ID/Optical" Capitalization="AllCaps">
+				<Properties>
+					<Leading type="unit">9.6</Leading>
+					<AppliedFont type="string">DINPro</AppliedFont>
+				</Properties>
+				<Content>HEATSCOPE Showroom  im 3lectrify Kompetenzzentrum</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Character Style11" FillColor="Tint/[Schwarz] 85%25" PointSize="8" KerningMethod="$ID/Optical" Tracking="5">
+				<Properties>
+					<Leading type="unit">9.6</Leading>
+					<AppliedFont type="string">DINPro</AppliedFont>
+				</Properties>
+				<Br />
+				<Content>Kramergasse 32 D-82054 Sauerlach</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph Style2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Character Style12" FillColor="Tint/[Schwarz] 85%25" FontStyle="Regular" KerningMethod="$ID/Optical">
+				<Properties>
+					<Leading type="unit">9.6</Leading>
+					<AppliedFont type="string">DINPro</AppliedFont>
+				</Properties>
+				<Content>Tel.: +49</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Character Style12" FillColor="Tint/[Schwarz] 85%25" FontStyle="Regular" KerningMethod="$ID/Optical" Tracking="50">
+				<Properties>
+					<Leading type="unit">9.6</Leading>
+					<AppliedFont type="string">DINPro</AppliedFont>
+				</Properties>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Character Style12" FillColor="Tint/[Schwarz] 85%25" FontStyle="Regular" KerningMethod="$ID/Optical">
+				<Properties>
+					<Leading type="unit">9.6</Leading>
+					<AppliedFont type="string">DINPro</AppliedFont>
+				</Properties>
+				<Content>8104</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Character Style12" FillColor="Tint/[Schwarz] 85%25" FontStyle="Regular" KerningMethod="$ID/Optical" Tracking="50">
+				<Properties>
+					<Leading type="unit">9.6</Leading>
+					<AppliedFont type="string">DINPro</AppliedFont>
+				</Properties>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Character Style12" FillColor="Tint/[Schwarz] 85%25" FontStyle="Regular" KerningMethod="$ID/Optical">
+				<Properties>
+					<Leading type="unit">9.6</Leading>
+					<AppliedFont type="string">DINPro</AppliedFont>
+				</Properties>
+				<Content>64</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Character Style12" FillColor="Tint/[Schwarz] 85%25" FontStyle="Regular" KerningMethod="$ID/Optical" Tracking="-50">
+				<Properties>
+					<Leading type="unit">9.6</Leading>
+					<AppliedFont type="string">DINPro</AppliedFont>
+				</Properties>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Character Style12" FillColor="Tint/[Schwarz] 85%25" FontStyle="Regular" KerningMethod="$ID/Optical">
+				<Properties>
+					<Leading type="unit">9.6</Leading>
+					<AppliedFont type="string">DINPro</AppliedFont>
+				</Properties>
+				<Content>70</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Character Style12" FillColor="Tint/[Schwarz] 85%25" FontStyle="Regular" KerningMethod="$ID/Optical" Tracking="-50">
+				<Properties>
+					<Leading type="unit">9.6</Leading>
+					<AppliedFont type="string">DINPro</AppliedFont>
+				</Properties>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Character Style12" FillColor="Tint/[Schwarz] 85%25" FontStyle="Regular" KerningMethod="$ID/Optical">
+				<Properties>
+					<Leading type="unit">9.6</Leading>
+					<AppliedFont type="string">DINPro</AppliedFont>
+				</Properties>
+				<Content>92 99</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Character Style12" FillColor="Tint/[Schwarz] 85%25" FontStyle="Regular" KerningMethod="$ID/Optical">
+				<Properties>
+					<Leading type="unit">5</Leading>
+					<AppliedFont type="string">DINPro</AppliedFont>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Character Style12" FillColor="Tint/[Schwarz] 85%25" FontStyle="Regular" KerningMethod="$ID/Optical">
+				<Properties>
+					<Leading type="unit">9.6</Leading>
+					<AppliedFont type="string">DINPro</AppliedFont>
+				</Properties>
+				<Content>mail@heatscope.com www.heatscope.com</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>
