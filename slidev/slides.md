@@ -14,12 +14,20 @@ mdc: true
 layout: cover
 ---
 
+<div class="absolute inset-0 z-0">
+  <img src="/images/hero-mfh.jpg" class="w-full h-full object-cover opacity-30" />
+</div>
+
+<div class="relative z-10">
+
 # Infrarotheizung
 
 Die kluge Wahl für moderne Immobilien
 
 <div class="mt-xl">
   <span class="text-green">einfach. schön. warm.</span>
+</div>
+
 </div>
 
 ---
@@ -133,32 +141,29 @@ transition: view-transition
 
 # "Aber ist das auch gesund?"
 
-<div class="mt-lg text-lg leading-relaxed">
-  <p class="mb-lg">Eine berechtigte Frage. Die kurze Antwort: <strong class="text-green">Ja, absolut.</strong></p>
+<div class="mt-md text-lg leading-relaxed">
+  <p class="mb-md">Eine berechtigte Frage. Die kurze Antwort: <strong class="text-green">Ja, absolut.</strong></p>
 
-  <p class="mb-lg">Infrarotheizungen arbeiten mit <strong>IR-C Strahlung</strong> – das ist langwellige Wärmestrahlung, wie sie auch von einem Kachelofen ausgeht.</p>
+  <p class="mb-md">Infrarotheizungen arbeiten mit <strong>IR-C Strahlung</strong> – langwellige Wärmestrahlung, wie von einem Kachelofen.</p>
 
-  <p>Diese Wärme wird sogar <strong>therapeutisch</strong> eingesetzt: bei Muskelverspannungen, Rheuma und zur Entspannung.</p>
+  <p class="text-sm opacity-80">Wird sogar therapeutisch eingesetzt: bei Muskelverspannungen und zur Entspannung.</p>
 </div>
 
 ::right::
 
-<div class="flex flex-col gap-md h-full justify-center items-stretch">
-  <div class="bg-card p-5 w-full">
-    <div class="flex items-start gap-4">
-      <img src="/quote-icon.svg" alt="" width="32" height="28" class="flex-shrink-0 mt-1" />
+<div class="flex flex-col gap-md h-full justify-center">
+  <img src="/images/ir-panel-towel.jpg" class="rounded-lg w-full object-cover" style="max-height: 160px;" />
+  <div class="bg-card p-4">
+    <div class="flex items-start gap-3">
+      <img src="/quote-icon.svg" alt="" width="24" height="21" class="flex-shrink-0 mt-1" />
       <div>
-        <p class="text-base italic leading-relaxed mb-sm">
-          Bei normalem Gebrauch keine Gesundheitsgefährdung.
-        </p>
-        <p class="text-sm opacity-70">— Bundesamt für Strahlenschutz</p>
+        <p class="text-sm italic leading-relaxed mb-sm">Bei normalem Gebrauch keine Gesundheitsgefährdung.</p>
+        <p class="text-xs opacity-70">— Bundesamt für Strahlenschutz</p>
       </div>
     </div>
   </div>
-  <div class="bg-card p-5 w-full">
-    <p class="text-sm opacity-70 mb-sm">Nicht verwechseln mit:</p>
-    <p class="text-base"><span class="text-orange">✗ UV-Strahlung</span> (das ist etwas völlig anderes)</p>
-    <p class="text-base mt-sm"><span class="text-green">✓ IR-C</span> = natürliche Wärmestrahlung</p>
+  <div class="bg-card p-3">
+    <p class="text-sm"><span class="text-orange">✗ UV-Strahlung</span> ≠ <span class="text-green">✓ IR-C</span> (natürliche Wärme)</p>
   </div>
 </div>
 
@@ -179,22 +184,23 @@ transition: view-transition
   <p class="text-green text-xl font-bold">Die Energiekosten für das gesamte Haus: 50 € pro Jahr.</p>
 </div>
 
+<div class="text-xs opacity-50 mt-md">Quelle: Der Spiegel 34/2024</div>
+
 ::right::
 
-<div class="flex flex-col gap-md h-full justify-center items-stretch">
-  <div class="bg-card p-5 w-full">
-    <p class="text-sm opacity-70 mb-sm">Eigenversorgung durch PV</p>
-    <div class="text-5xl font-bold text-green">76%</div>
-    <p class="text-sm mt-sm">Der Strom kommt vom eigenen Dach</p>
-  </div>
-  <div class="bg-card p-5 w-full">
-    <p class="text-sm opacity-70 mb-sm">Was sie sogar verdienen</p>
-    <p class="text-base">30.204 kWh Einspeisung pro Jahr</p>
-    <p class="text-sm mt-sm opacity-70">Die Anlage macht mehr Strom als sie braucht</p>
+<div class="flex flex-col gap-md h-full justify-center">
+  <img src="/images/ehingen.jpg" class="rounded-lg w-full object-cover" style="max-height: 200px;" />
+  <div class="grid grid-cols-2 gap-md">
+    <div class="bg-card p-4">
+      <p class="text-xs opacity-70 mb-sm">Eigenversorgung</p>
+      <div class="text-3xl font-bold text-green">76%</div>
+    </div>
+    <div class="bg-card p-4">
+      <p class="text-xs opacity-70 mb-sm">Einspeisung/Jahr</p>
+      <div class="text-lg font-bold">30.204 kWh</div>
+    </div>
   </div>
 </div>
-
-<div class="text-xs opacity-50 mt-md">Quelle: Der Spiegel 34/2024</div>
 
 ---
 layout: default
@@ -386,33 +392,41 @@ transition: view-transition
 
 # Weitere Erfolgsgeschichten
 
-<div class="grid grid-cols-2 gap-lg mt-lg">
-  <div class="bg-card p-6 stagger">
-    <h4 class="text-green font-bold text-lg mb-sm">Aschersleben – 22 Wohnungen</h4>
-    <p class="text-sm opacity-80 mb-md">Plattenbau-Sanierung – das zeigt: Es funktioniert auch im Bestand!</p>
-    <p class="text-base mb-sm">Die Mieter zahlen eine <strong>Flatrate von 11,50 €/m²</strong> – inklusive aller Nebenkosten.</p>
-    <p class="text-sm opacity-70">5 Jahre Preisgarantie. Keine bösen Überraschungen.</p>
+<div class="grid grid-cols-2 gap-md mt-md">
+  <div class="bg-card p-4 stagger flex gap-4">
+    <img src="/images/aschersleben.jpg" class="w-24 h-24 object-cover rounded flex-shrink-0" />
+    <div>
+      <h4 class="text-green font-bold mb-sm">Aschersleben – 22 WE</h4>
+      <p class="text-sm mb-sm">Flatrate <strong>11,50 €/m²</strong> inkl. aller NK</p>
+      <p class="text-xs opacity-70">5 Jahre Preisgarantie</p>
+    </div>
   </div>
 
-  <div class="bg-card p-6 stagger">
-    <h4 class="text-green font-bold text-lg mb-sm">Bergisch Gladbach – Altbau 1969</h4>
-    <p class="text-sm opacity-80 mb-md">Ein 55 Jahre altes Haus – heute mit Energieklasse A.</p>
-    <p class="text-base mb-sm">Nur mit Infrarotheizung erreicht: <strong>37,84 kWh/m²a</strong>.</p>
-    <p class="text-sm opacity-70">Ganz ohne PV-Anlage. Das Haus selbst ist effizient genug.</p>
+  <div class="bg-card p-4 stagger flex gap-4">
+    <img src="/images/facade-pv.jpg" class="w-24 h-24 object-cover rounded flex-shrink-0" />
+    <div>
+      <h4 class="text-green font-bold mb-sm">Cottbus – 14 WE</h4>
+      <p class="text-sm mb-sm">Flatrate <strong>10,50 €/m²</strong> seit 6 Jahren</p>
+      <p class="text-xs opacity-70">TU Freiberg begleitet</p>
+    </div>
   </div>
 
-  <div class="bg-card p-6 stagger">
-    <h4 class="text-green font-bold text-lg mb-sm">Cottbus – 14 Wohnungen seit 2018</h4>
-    <p class="text-sm opacity-80 mb-md">Wissenschaftlich begleitet von der TU Bergakademie Freiberg.</p>
-    <p class="text-base mb-sm">Flatrate: <strong>10,50 €/m²</strong> – seit über 6 Jahren stabil.</p>
-    <p class="text-sm opacity-70">Die Langzeitdaten bestätigen: Es funktioniert.</p>
+  <div class="bg-card p-4 stagger flex gap-4">
+    <img src="/images/plattenbau.jpg" class="w-24 h-24 object-cover rounded flex-shrink-0" />
+    <div>
+      <h4 class="text-green font-bold mb-sm">Bergisch Gladbach</h4>
+      <p class="text-sm mb-sm">Altbau 1969 → <strong>Energieklasse A</strong></p>
+      <p class="text-xs opacity-70">37,84 kWh/m²a ohne PV</p>
+    </div>
   </div>
 
-  <div class="bg-card p-6 stagger">
-    <h4 class="text-green font-bold text-lg mb-sm">Familie R., Attendorn</h4>
-    <p class="text-sm opacity-80 mb-md">Ein Einfamilienhaus, komplett energieautark.</p>
-    <p class="text-base mb-sm">Monatliche Kosten: <strong>unter 100 €</strong> – für Heizung, Strom und E-Auto zusammen.</p>
-    <p class="text-sm opacity-70">Mit nur 6,5 kWp PV-Leistung.</p>
+  <div class="bg-card p-4 stagger flex gap-4">
+    <img src="/images/aerial-houses.jpg" class="w-24 h-24 object-cover rounded flex-shrink-0" />
+    <div>
+      <h4 class="text-green font-bold mb-sm">Familie R., Attendorn</h4>
+      <p class="text-sm mb-sm">Komplett autark: <strong>unter 100 €/Monat</strong></p>
+      <p class="text-xs opacity-70">Heizung + Strom + E-Auto</p>
+    </div>
   </div>
 </div>
 
@@ -425,28 +439,27 @@ transition: view-transition
 
 # Sicherheit für Ihre Investition
 
-<div class="mt-lg text-lg leading-relaxed">
-  <p class="mb-lg">Eine Heizung soll jahrzehntelang funktionieren. Deshalb geben wir Ihnen eine Garantie, die in der Branche einzigartig ist:</p>
+<div class="mt-md text-lg leading-relaxed">
+  <p class="mb-md">Eine Heizung soll jahrzehntelang funktionieren. Deshalb geben wir Ihnen eine Garantie, die in der Branche einzigartig ist:</p>
 
   <p class="text-green text-3xl font-bold mb-md">30 Jahre auf das Heizpaneel</p>
 
-  <p class="mb-lg">Das ist keine Gewährleistung – das ist eine echte Garantie. Made in Germany, VDE/GS/CE zertifiziert.</p>
-
-  <p class="text-sm opacity-70">Die Regelungstechnik (Thermostate) hat 5 Jahre Garantie.</p>
+  <p class="text-sm opacity-70">Made in Germany, VDE/GS/CE zertifiziert.</p>
 </div>
 
 ::right::
 
-<div class="flex flex-col gap-md h-full justify-center items-stretch">
-  <div class="bg-card p-5 w-full">
-    <p class="text-sm opacity-70 mb-sm">Zum Vergleich: Wärmepumpe</p>
-    <div class="text-3xl font-bold">15-20 Jahre</div>
-    <p class="text-sm mt-sm">typische Lebensdauer</p>
-  </div>
-  <div class="bg-card p-5 w-full">
-    <p class="text-sm opacity-70 mb-sm">HEATSCOPE Garantie</p>
-    <div class="text-4xl font-bold text-green">30 Jahre</div>
-    <p class="text-sm mt-sm">echte Herstellergarantie</p>
+<div class="flex flex-col gap-md h-full justify-center">
+  <img src="/images/interior-living.jpg" class="rounded-lg w-full object-cover" style="max-height: 180px;" />
+  <div class="grid grid-cols-2 gap-md">
+    <div class="bg-card p-4">
+      <p class="text-xs opacity-70 mb-sm">Wärmepumpe</p>
+      <div class="text-2xl font-bold">15-20 J.</div>
+    </div>
+    <div class="bg-card p-4">
+      <p class="text-xs opacity-70 mb-sm">HEATSCOPE</p>
+      <div class="text-2xl font-bold text-green">30 Jahre</div>
+    </div>
   </div>
 </div>
 
@@ -530,37 +543,35 @@ transition: view-transition
 
 # Erleben ist besser als Lesen
 
-<div class="mt-lg text-lg leading-relaxed">
-  <p class="mb-lg">Zahlen und Fakten sind wichtig. Aber nichts ersetzt das Gefühl, wenn Sie in einen Raum mit Infrarotheizung treten.</p>
+<div class="mt-md text-lg leading-relaxed">
+  <p class="mb-md">Zahlen und Fakten sind wichtig. Aber nichts ersetzt das Gefühl, wenn Sie in einen Raum mit Infrarotheizung treten.</p>
 
-  <p class="mb-lg"><strong class="text-green">Unser Tipp:</strong> Vereinbaren Sie einen Termin in einem beheizten Raum. Schalten Sie die Heizung ein, warten Sie 5 Minuten – und spüren Sie selbst, wie gleichmäßig die Wärme ist.</p>
-
-  <p>Oder besuchen Sie unser <strong class="text-green">Kompetenzzentrum in Sauerlach</strong> – dort können Sie alle Varianten direkt vergleichen.</p>
+  <p class="mb-md"><strong class="text-green">Unser Tipp:</strong> Vereinbaren Sie einen Probetermin. Schalten Sie die Heizung ein, warten Sie 5 Minuten – und spüren Sie selbst.</p>
 </div>
 
-<div class="mt-lg">
-  <p class="font-bold text-lg">Kramergasse 32</p>
-  <p class="text-lg mb-md">82054 Sauerlach</p>
-  <p class="text-green text-xl font-bold">+49 8104 64 70 92 99</p>
+<div class="mt-md bg-card p-4">
+  <p class="font-bold">Kompetenzzentrum Sauerlach</p>
+  <p class="text-sm opacity-80">Kramergasse 32, 82054 Sauerlach</p>
+  <p class="text-green font-bold mt-sm">+49 8104 64 70 92 99</p>
 </div>
 
 ::right::
 
-<div class="flex flex-col gap-md h-full justify-center items-stretch">
-  <div class="bg-card p-5 w-full">
-    <div class="text-4xl mb-md">🌡️</div>
-    <p class="text-lg text-green font-bold">Probetermin</p>
-    <p class="text-sm opacity-80 mt-sm">Wärme selbst erleben – vor Ort oder im Showroom</p>
-  </div>
-  <div class="bg-card p-5 w-full">
-    <div class="text-4xl mb-md">📊</div>
-    <p class="text-lg text-green font-bold">Verbrauchsdaten</p>
-    <p class="text-sm opacity-80 mt-sm">Echte Zahlen aus vergleichbaren Projekten</p>
-  </div>
-  <div class="bg-card p-5 w-full">
-    <div class="text-4xl mb-md">💰</div>
-    <p class="text-lg text-green font-bold">Kostenrechnung</p>
-    <p class="text-sm opacity-80 mt-sm">Investition & Betrieb für Ihr Projekt</p>
+<div class="flex flex-col gap-md h-full justify-center">
+  <img src="/images/bathroom-install.jpg" class="rounded-lg w-full object-cover" style="max-height: 200px;" />
+  <div class="grid grid-cols-3 gap-sm">
+    <div class="bg-card p-3 text-center">
+      <div class="text-2xl mb-sm">🌡️</div>
+      <p class="text-xs text-green font-bold">Probetermin</p>
+    </div>
+    <div class="bg-card p-3 text-center">
+      <div class="text-2xl mb-sm">📊</div>
+      <p class="text-xs text-green font-bold">Daten</p>
+    </div>
+    <div class="bg-card p-3 text-center">
+      <div class="text-2xl mb-sm">💰</div>
+      <p class="text-xs text-green font-bold">Kosten</p>
+    </div>
   </div>
 </div>
 
