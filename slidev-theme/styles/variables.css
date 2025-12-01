@@ -1,0 +1,70 @@
+/* 3lectrify Design System - Design Tokens */
+/* Source: Marion's Figma design system - website aligned */
+
+:root {
+  /* Primary Brand Colors */
+  --3l-middle-green: #88C0B1;    /* PRIMARY brand color */
+  --3l-light-green: #C5E0D7;     /* Secondary accent */
+  --3l-green: #78B5A1;           /* Alternative green */
+  --3l-orange: #D04227;          /* CTA color */
+
+  /* Blues (Backgrounds) */
+  --3l-deep-blue: #293645;       /* Main background */
+  --3l-dark-blue: #3C5067;       /* Card backgrounds */
+  --3l-blue-grey: #5F8299;       /* Borders, subtle */
+  --3l-light-blue: #CDE6EE;      /* Light backgrounds */
+
+  /* Neutrals */
+  --3l-white: #FFFFFF;
+  --3l-light-grey: #C2C2C2;      /* Secondary text */
+  --3l-middle-grey: #666666;     /* Tertiary text */
+  --3l-dark-grey: #333333;       /* Dark text */
+
+  /* Warm Accents (Optional) */
+  --3l-curry: #EAB257;
+  --3l-beige: #DEA363;
+  --3l-yellow-light: #F5CC7E;
+  --3l-puder: #FDE8D6;
+
+  /* Slidev Theme Variables */
+  --slidev-theme-primary: var(--3l-middle-green);
+  --slidev-theme-accents-orange: var(--3l-orange);
+
+  /* Typography (Lato) */
+  --font-sans: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  --font-size-h1: 3rem;        /* 48px */
+  --font-size-h2: 2.25rem;     /* 36px */
+  --font-size-h3: 1.25rem;     /* 20px */
+  --font-size-body: 1.125rem;  /* 18px */
+  --font-size-small: 1rem;     /* 16px */
+  --font-size-numbers: 2.25rem; /* 36px */
+
+  /* Font Weights */
+  --font-weight-light: 300;
+  --font-weight-regular: 400;
+  --font-weight-bold: 700;
+
+  /* Spacing (from web design system) */
+  --space-xs: 0.5rem;   /* 8px */
+  --space-sm: 1rem;     /* 16px */
+  --space-md: 2rem;     /* 32px */
+  --space-lg: 3rem;     /* 48px */
+  --space-xl: 3.125rem; /* 50px - matches website section spacing */
+
+  /* Effects */
+  --border-radius: 20px;  /* Matches website cards */
+  --border-radius-lg: 24px;
+  --transition: all 0.3s ease;
+
+  /* Presentation-Specific Overrides (for Slidev) */
+  /* Optimized for slide readability and space efficiency */
+  --slide-header-height: 50px;        /* Compact header (was 60px) */
+  --slide-h1: 2.25rem;                /* 36px (was 48px) */
+  --slide-h2: 1.875rem;               /* 30px (was 36px) */
+  --slide-spacing-top: 2rem;          /* 32px (was 48-50px) */
+  --slide-spacing-bottom: 2rem;       /* 32px (was 48-50px) */
+  --slide-spacing-horizontal: 2.5rem; /* 40px (slightly less than 50px) */
+  --slide-h1-margin: 2rem;            /* 32px (was 48px) */
+}
+
+

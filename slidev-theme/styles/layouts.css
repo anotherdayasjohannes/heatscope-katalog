@@ -1,0 +1,45 @@
+/* Layout Utilities */
+
+.two-cols-custom {
+  display: grid;
+  grid-template-columns: 60% 40%;
+  gap: var(--space-lg);
+  height: 100%;
+  align-items: center;
+}
+
+.image-right {
+  display: grid;
+  grid-template-columns: 55% 45%;
+  gap: var(--space-md);
+  height: 100%;
+}
+
+.centered-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100%;
+  padding: var(--space-xl);
+}
+
+.diagonal-accent {
+  position: relative;
+  overflow: hidden;
+}
+
+.diagonal-accent::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: -20%;
+  width: 40%;
+  height: 100%;
+  background: linear-gradient(var(--diagonal-angle, 135deg), transparent, var(--3l-dark-blue));
+  transform: skewX(-15deg);
+  z-index: 0;
+}
+
+

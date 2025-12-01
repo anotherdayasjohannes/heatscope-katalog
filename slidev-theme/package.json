@@ -1,0 +1,31 @@
+{
+  "name": "slidev-theme-3lectrify",
+  "version": "1.0.0",
+  "description": "3lectrify branded Slidev theme",
+  "main": "index.js",
+  "scripts": {
+    "dev": "slidev project-awesome.md",
+    "dev:demo": "slidev slides.md",
+    "dev:awesome": "slidev project-awesome.md",
+    "build": "slidev build project-awesome.md",
+    "export": "slidev export project-awesome.md"
+  },
+  "keywords": [
+    "slidev-theme",
+    "slidev",
+    "3lectrify"
+  ],
+  "exports": {
+    ".": "./index.ts",
+    "./layouts/*": "./layouts/*",
+    "./components/*": "./components/*"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@slidev/cli": "^52.9.1",
+    "@slidev/theme-default": "^0.25.0",
+    "vite": "^7.2.4"
+  }
+}

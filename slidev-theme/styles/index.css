@@ -1,0 +1,507 @@
+/* 3lectrify Slidev Theme - Main Styles */
+/* Aligned with website design system (Marion's Figma) */
+
+@import './variables.css';
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+
+/* Override Slidev default decorative elements */
+.slidev-layout::before,
+.slidev-layout::after,
+.slidev-page::before,
+.slidev-page::after,
+#slide-content::before,
+#slide-content::after,
+#slideshow::before,
+#slideshow::after {
+  content: none !important;
+  display: none !important;
+}
+
+/* Specifically target any large decorative text */
+.slidev-layout h1.cover-title::before,
+.slidev-layout h1.cover-title::after {
+  content: none !important;
+  display: none !important;
+}
+
+/* Hide any absolutely positioned decorative elements */
+.slidev-layout > *[style*="position: absolute"]::before,
+.slidev-layout > *[style*="position: absolute"]::after {
+  content: none !important;
+  display: none !important;
+}
+
+/* Hide pseudo-elements only on Slidev's default layout classes */
+.slidev-layout.default::before,
+.slidev-layout.default::after {
+  content: none !important;
+  display: none !important;
+}
+
+/* Override any default Slidev theme title decorations */
+.slidev-layout.cover h1,
+.slidev-layout[class*="cover"] h1 {
+  text-shadow: none !important;
+  transform: none !important;
+  filter: none !important;
+}
+
+/* Hide default theme decorative pseudo-elements (but keep content visible) */
+.slidev-layout.default::before,
+.slidev-layout.default::after,
+.slidev-layout.cover::before,
+.slidev-layout.cover::after {
+  opacity: 0 !important;
+  visibility: hidden !important;
+}
+
+/* Base Styles */
+.slidev-layout {
+  font-family: var(--font-sans);
+  background: var(--3l-deep-blue) !important;
+  color: var(--3l-white);
+  font-size: var(--font-size-body);
+  line-height: 1.44; /* 26px / 18px */
+  font-weight: var(--font-weight-regular);
+}
+
+/* Remove all padding/margin from image-right layout containers */
+.image-right-layout,
+.image-right-layout > .slidev-page,
+.image-right-layout #slide-content,
+body .slidev-layout.image-right-layout {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+/* Remove any Slidev default bars/decorations */
+.slidev-page,
+#slide-content,
+.slidev-layout.cover {
+  background: var(--3l-deep-blue) !important;
+}
+
+/* Only hide empty sections */
+.slidev-page > section:empty {
+  display: none !important;
+}
+
+/* Keep navigation toolbar visible for development */
+
+/* Fix incorrect bright green (should be our brand green) */
+[style*="rgb(74, 222, 128)"],
+.text-green-400,
+.bg-green-400 {
+  color: #88C0B1 !important;
+  background-color: #88C0B1 !important;
+}
+
+/* Typography */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: var(--font-weight-light);
+  line-height: 1.2;
+  color: var(--3l-white) !important;
+  letter-spacing: 0.01em;
+}
+
+h1 {
+  font-size: var(--font-size-h1);
+  line-height: 1.21; /* 58px / 48px */
+}
+
+h2 {
+  font-size: var(--font-size-h2);
+  line-height: 1.28; /* 46px / 36px */
+}
+
+h3 {
+  font-size: var(--font-size-h3);
+  font-weight: var(--font-weight-regular);
+  line-height: 1.7; /* 34px / 20px */
+}
+
+/* Override paragraph colors to match design system */
+p {
+  color: var(--3l-white);
+}
+
+/* Force green color on specific elements */
+.end-subtitle,
+.cover-subtitle {
+  color: #88C0B1 !important; /* Direct hex to override any inherited styles */
+}
+
+.text-green {
+  color: #88C0B1 !important;
+}
+
+.contact-info {
+  color: #88C0B1 !important;
+}
+
+/* Links */
+a {
+  color: var(--3l-middle-green);
+  text-decoration: none;
+  transition: var(--transition);
+}
+
+a:hover {
+  color: var(--3l-light-green);
+}
+
+/* Lists */
+ul, ol {
+  font-size: var(--font-size-body);
+  line-height: 1.44;
+}
+
+li {
+  margin-bottom: var(--space-sm);
+}
+
+/* Code Blocks */
+code {
+  background: var(--3l-dark-blue);
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+  font-size: 0.9em;
+  color: var(--3l-white);
+}
+
+/* Grid System */
+.grid {
+  display: grid;
+  gap: var(--space-lg);
+}
+
+.grid-cols-2 {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.grid-cols-3 {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.grid-cols-12 {
+  grid-template-columns: repeat(12, 1fr);
+}
+
+/* Column spans */
+.col-span-6 {
+  grid-column: span 6;
+}
+
+.col-span-8 {
+  grid-column: span 8;
+}
+
+.col-span-4 {
+  grid-column: span 4;
+}
+
+/* Gap utilities */
+.gap-sm {
+  gap: var(--space-sm);
+}
+
+.gap-md {
+  gap: var(--space-md);
+}
+
+.gap-lg {
+  gap: var(--space-lg);
+}
+
+.gap-xl {
+  gap: var(--space-xl);
+}
+
+/* Additional gap sizes */
+.gap-2 { gap: 0.5rem; }
+.gap-3 { gap: 0.75rem; }
+.gap-4 { gap: 1rem; }
+
+/* Flex shrink */
+.flex-shrink-0 { flex-shrink: 0; }
+
+/* Spacing utilities */
+.mt-lg {
+  margin-top: var(--space-lg);
+}
+
+.mt-xl {
+  margin-top: var(--space-xl);
+}
+
+.mb-lg {
+  margin-bottom: var(--space-lg);
+}
+
+.mb-xl {
+  margin-bottom: var(--space-xl);
+}
+
+/* Utilities */
+.text-green {
+  color: var(--3l-middle-green);
+}
+
+.text-orange {
+  color: var(--3l-orange);
+}
+
+.text-light-green {
+  color: var(--3l-light-green);
+}
+
+.text-gradient {
+  background: linear-gradient(135deg, var(--3l-middle-green), var(--3l-light-green));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.bg-dark-blue {
+  background: var(--3l-dark-blue);
+}
+
+.bg-light {
+  background: var(--3l-light-blue);
+  color: var(--3l-dark-grey);
+}
+
+.bg-card {
+  background: var(--3l-dark-blue);
+  border-radius: var(--border-radius);
+  box-shadow: 0px 15px 60px 0px rgba(0, 0, 0, 0.3);
+}
+
+/* Text Size Utilities */
+.text-xs { font-size: 0.75rem; line-height: 1rem; }
+.text-sm { font-size: 0.875rem; line-height: 1.25rem; }
+.text-base { font-size: 1rem; line-height: 1.5rem; }
+.text-lg { font-size: 1.125rem; line-height: 1.75rem; }
+.text-xl { font-size: 1.25rem; line-height: 1.75rem; }
+.text-2xl { font-size: 1.5rem; line-height: 2rem; }
+.text-3xl { font-size: 1.875rem; line-height: 2.25rem; }
+.text-4xl { font-size: 2.25rem; line-height: 2.5rem; }
+.text-5xl { font-size: 3rem; line-height: 1; }
+.text-6xl { font-size: 3.75rem; line-height: 1; }
+.text-8xl { font-size: 6rem; line-height: 1; }
+
+/* Font Weight */
+.font-bold { font-weight: 700; }
+.font-semibold { font-weight: 600; }
+.font-normal { font-weight: 400; }
+.font-light { font-weight: 300; }
+
+/* Text Decoration */
+.italic { font-style: italic; }
+
+/* Opacity */
+.opacity-70 { opacity: 0.7; }
+.opacity-80 { opacity: 0.8; }
+.opacity-90 { opacity: 0.9; }
+
+/* Border Radius */
+.rounded { border-radius: 0.25rem; }
+.rounded-lg { border-radius: 0.5rem; }
+
+/* Padding */
+.p-3 { padding: 0.75rem; }
+.p-4 { padding: 1rem; }
+.p-6 { padding: 1.5rem; }
+.p-8 { padding: 2rem; }
+
+/* Spacing - Margin */
+.mb-sm { margin-bottom: var(--space-sm); }
+.mb-md { margin-bottom: var(--space-md); }
+.mb-lg { margin-bottom: var(--space-lg); }
+.mb-xl { margin-bottom: var(--space-xl); }
+.mt-sm { margin-top: var(--space-sm); }
+.mt-md { margin-top: var(--space-md); }
+.mt-lg { margin-top: var(--space-lg); }
+.mt-xl { margin-top: var(--space-xl); }
+.mx-auto { margin-left: auto; margin-right: auto; }
+
+/* Max Width */
+.max-w-2xl { max-width: 42rem; }
+.max-w-3xl { max-width: 48rem; }
+
+/* Flexbox */
+.flex { display: flex; }
+.flex-col { flex-direction: column; }
+.items-center { align-items: center; }
+.items-end {
+  align-items: flex-end !important;
+}
+.items-baseline {
+  align-items: baseline !important;
+}
+.justify-center { justify-content: center; }
+.h-full { height: 100%; }
+
+/* Fix emoji baseline alignment in flex containers */
+.flex.items-baseline > div:first-child {
+  display: inline-flex;
+  align-items: baseline;
+  line-height: 1;
+}
+
+/* Text Alignment */
+.text-center { text-align: center; }
+.text-left { text-align: left; }
+
+/* Line Height */
+.leading-relaxed { line-height: 1.625; }
+
+/* Space Between (Vertical) */
+.space-y-1 > * + * { margin-top: 0.25rem; }
+.space-y-2 > * + * { margin-top: 0.5rem; }
+.space-y-3 > * + * { margin-top: 0.75rem; }
+.space-y-4 > * + * { margin-top: 1rem; }
+
+/* My utilities */
+.my-sm { margin-top: var(--space-sm); margin-bottom: var(--space-sm); }
+
+/* Comparison Table */
+.comparison-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: var(--space-xl);
+  font-size: 0.9rem;
+}
+
+.comparison-table thead th {
+  padding: var(--space-sm) var(--space-md);
+  font-weight: var(--font-weight-light);
+  font-size: 1rem;
+  text-align: left;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.comparison-table thead th:not(:first-child) {
+  text-align: center;
+  border-left: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.comparison-table tbody td {
+  padding: var(--space-sm) var(--space-md);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.comparison-table tbody td:first-child {
+  font-weight: var(--font-weight-regular);
+}
+
+.comparison-table tbody td:nth-child(2),
+.comparison-table tbody td:nth-child(4) {
+  border-left: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.comparison-table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* Pulse glow animation for "Awesome" text */
+.awesome {
+  color: var(--3l-middle-green);
+  text-shadow: 0 0 20px var(--3l-middle-green), 0 0 40px var(--3l-middle-green);
+  animation: pulse 2s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    transform: scale(1);
+    text-shadow: 0 0 20px var(--3l-middle-green), 0 0 40px var(--3l-middle-green);
+  }
+  50% {
+    transform: scale(1.05);
+    text-shadow: 0 0 30px var(--3l-middle-green), 0 0 60px var(--3l-middle-green), 0 0 80px var(--3l-middle-green);
+  }
+}
+
+/* Stagger animation for elements */
+.stagger {
+  opacity: 0;
+  animation: slideIn 0.5s ease-out forwards;
+}
+
+.stagger:nth-child(1) { animation-delay: 0ms; }
+.stagger:nth-child(2) { animation-delay: 120ms; }
+.stagger:nth-child(3) { animation-delay: 240ms; }
+.stagger:nth-child(4) { animation-delay: 360ms; }
+.stagger:nth-child(5) { animation-delay: 480ms; }
+.stagger:nth-child(6) { animation-delay: 600ms; }
+.stagger:nth-child(7) { animation-delay: 720ms; }
+.stagger:nth-child(8) { animation-delay: 840ms; }
+.stagger:nth-child(9) { animation-delay: 960ms; }
+.stagger:nth-child(10) { animation-delay: 1080ms; }
+.stagger:nth-child(11) { animation-delay: 1200ms; }
+.stagger:nth-child(12) { animation-delay: 1320ms; }
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Flow animation for workflow sequence */
+.flow {
+  opacity: 0;
+  animation: flowIn 0.4s ease-out forwards;
+}
+
+.flow:nth-child(1) { animation-delay: 0ms; }
+.flow:nth-child(2) { animation-delay: 150ms; }
+.flow:nth-child(3) { animation-delay: 300ms; }
+.flow:nth-child(4) { animation-delay: 450ms; }
+.flow:nth-child(5) { animation-delay: 600ms; }
+.flow:nth-child(6) { animation-delay: 750ms; }
+.flow:nth-child(7) { animation-delay: 900ms; }
+.flow:nth-child(8) { animation-delay: 1050ms; }
+.flow:nth-child(9) { animation-delay: 1200ms; }
+.flow:nth-child(10) { animation-delay: 1350ms; }
+.flow:nth-child(11) { animation-delay: 1500ms; }
+
+@keyframes flowIn {
+  from {
+    opacity: 0;
+    transform: translateX(-20px) scale(0.8);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0) scale(1);
+  }
+}
+
+/* Grow animation for bar charts */
+.grow-bar {
+  animation: growBar 0.8s ease-out forwards;
+  transform-origin: bottom;
+  will-change: transform;
+}
+
+@keyframes growBar {
+  from {
+    transform: scaleY(0);
+    opacity: 0;
+  }
+  to {
+    transform: scaleY(1);
+    opacity: 1;
+  }
+}
+
+.grow-bar-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
