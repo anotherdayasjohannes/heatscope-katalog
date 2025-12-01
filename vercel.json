@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd slidev && npm install && npx @slidev/cli build --base /",
+  "outputDirectory": "slidev/dist",
+  "installCommand": "npm install",
+  "framework": null
+}
