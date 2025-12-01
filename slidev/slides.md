@@ -1,5 +1,5 @@
 ---
-theme: ../../slidev-3lectrify-theme
+theme: default
 title: Pro Infrarotheizung – Ein Ratgeber
 info: |
   ## Pro Infrarotheizung
@@ -23,7 +23,7 @@ Die kluge Wahl für moderne Immobilien
 </div>
 
 ---
-layout: two-cols-custom
+layout: two-cols
 transition: view-transition
 ---
 
@@ -57,7 +57,7 @@ transition: view-transition
 </div>
 
 ---
-layout: two-cols-custom
+layout: two-cols
 transition: view-transition
 ---
 
@@ -125,7 +125,7 @@ transition: view-transition
 </div>
 
 ---
-layout: two-cols-custom
+layout: two-cols
 transition: view-transition
 ---
 
@@ -163,7 +163,7 @@ transition: view-transition
 </div>
 
 ---
-layout: two-cols-custom
+layout: two-cols
 transition: view-transition
 ---
 
@@ -226,7 +226,7 @@ transition: view-transition
 </div>
 
 ---
-layout: two-cols-custom
+layout: two-cols
 transition: view-transition
 ---
 
@@ -262,7 +262,7 @@ transition: view-transition
 </div>
 
 ---
-layout: two-cols-custom
+layout: two-cols
 transition: view-transition
 ---
 
@@ -298,7 +298,7 @@ transition: view-transition
 </div>
 
 ---
-layout: two-cols-custom
+layout: two-cols
 transition: view-transition
 ---
 
@@ -333,7 +333,7 @@ transition: view-transition
 </div>
 
 ---
-layout: two-cols-custom
+layout: two-cols
 transition: view-transition
 ---
 
@@ -417,7 +417,7 @@ transition: view-transition
 </div>
 
 ---
-layout: two-cols-custom
+layout: two-cols
 transition: view-transition
 ---
 
@@ -451,7 +451,7 @@ transition: view-transition
 </div>
 
 ---
-layout: two-cols-custom
+layout: two-cols
 transition: view-transition
 ---
 
@@ -522,7 +522,7 @@ transition: view-transition
 </div>
 
 ---
-layout: two-cols-custom
+layout: two-cols
 transition: view-transition
 ---
 
