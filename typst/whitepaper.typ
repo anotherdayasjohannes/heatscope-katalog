@@ -9,191 +9,95 @@
   author: "3lectrify",
 )
 
-= Einleitung
+= „Heizen mit Strom ist doch viel zu teuer!"
 
-Infrarotheizung ist nicht die Heizung der Zukunft – sie ist die Heizung der Gegenwart. Während andere Technologien komplexe Installationen, hohe Wartungskosten und unkalkulierbare Folgekosten mit sich bringen, überzeugt die Infrarotheizung durch ein Prinzip, das so alt ist wie die Sonne selbst: *Strahlungswärme*.
+Das haben Sie bestimmt schon gehört. Und vor 20 Jahren stimmte das auch. Nachtspeicheröfen waren ineffizient, teuer und unkomfortabel.
 
-Dieses Whitepaper gibt Ihnen fundierte Antworten auf die wichtigsten Fragen:
+Aber heute? Die Welt hat sich verändert:
 
-- Was ist Infrarotheizung und wie funktioniert sie?
-- Reicht die Wärme aus – auch im Winter?
-- Was kostet es wirklich – Anschaffung und Betrieb?
-- Wie schneidet es ab im Vergleich zu Fernwärme und Wärmepumpe?
-- Wer nutzt es bereits – reale Referenzprojekte mit Zahlen
+- *Strom wird grüner und günstiger* – 80% erneuerbare Energien bis 2030
+- *Gas und Öl werden teurer* – der CO2-Preis steigt Jahr für Jahr
+- *Die Technik hat sich revolutioniert* – moderne Infrarotheizungen haben nichts mehr mit Nachtspeichern zu tun
 
-Wir stützen uns auf unabhängige Studien (Fraunhofer IBP, TU Dresden), reale Messwerte aus Referenzprojekten, offizielle Quellen (Umweltbundesamt, Bundesamt für Strahlenschutz) und journalistische Recherche (Der Spiegel 34/2024).
+Dieses Whitepaper gibt Ihnen fundierte Antworten auf die Fragen, die Sie als Immobilienkäufer oder -investor wirklich interessieren. Keine Verkaufssprüche, sondern Fakten aus unabhängigen Quellen: Fraunhofer IBP, TU Dresden, Umweltbundesamt und journalistische Recherche (Der Spiegel 34/2024).
 
 
-= So funktioniert Infrarotheizung
+= Wie Wärme wirklich funktioniert
 
-== Das Prinzip: Strahlung statt Konvektion
+== Das Sonnenprinzip
 
-Eine herkömmliche Heizung (Gas, Öl, Wärmepumpe) arbeitet nach dem *Konvektionsprinzip*: Sie erwärmt die Luft, die dann im Raum zirkuliert. Das Ergebnis: Warme Luft steigt nach oben, kalte Luft sinkt nach unten.
+Kennen Sie das? Im Winter scheint die Sonne, die Luft ist eiskalt – aber auf Ihrer Haut fühlen Sie angenehme Wärme.
 
-#table(
-  columns: (auto, 1fr, 1fr),
-  [*Aspekt*], [*Konvektion*], [*Infrarot*],
-  [Prinzip], [Luft zirkuliert], [Strahlung direkt],
-  [Temperatur Decke], [23°C], [22°C],
-  [Temperatur Boden], [19°C], [20°C],
-  [*Gradient*], [*4°C*], [*2°C*],
+Das ist *Strahlungswärme*. Genau so funktioniert eine Infrarotheizung.
+
+Die Strahlen erwärmen nicht die Luft, sondern die Objekte, auf die sie treffen: Wände, Böden, Möbel – und Sie selbst. Die erwärmten Oberflächen geben die Wärme dann gleichmäßig an den Raum ab.
+
+== Warum das besser ist
+
+Im Gegensatz dazu arbeiten klassische Heizungen (Gas, Öl, Wärmepumpe mit Heizkörpern) nach dem *Konvektionsprinzip*: Sie erwärmen die Luft, die dann im Raum zirkuliert. Das Ergebnis?
+
+#comparison(
+  pros: (
+    "Gleichmäßige Wärme im ganzen Raum",
+    "Warme Füße, nicht nur warmer Kopf",
+    "Kein Staub wird aufgewirbelt",
+    "Keine trockene Heizungsluft",
+    "Wärme sofort spürbar",
+  ),
+  cons: (
+    "Bei Konvektion: Warm oben, kalt unten",
+    "Bei Konvektion: 4°C Temperaturgradient",
+    "Bei Konvektion: Staub zirkuliert mit",
+    "Bei Konvektion: Trockene Luft",
+  ),
 )
 
-#source[IG Infrarot Präsentation]
+Und weil die Wärme direkt bei Ihnen ankommt, brauchen Sie *1-2°C weniger Raumtemperatur* für das gleiche Wohlbefinden. Das spart Energie.
 
-Eine *Infrarotheizung* funktioniert anders: Sie strahlt Wärme direkt ab – wie die Sonne. Die Strahlung erwärmt Objekte, Wände und Menschen direkt, nicht die Luft.
+#fact-box(title: "Wichtig: Dämmung")[
+  Infrarotheizung funktioniert am besten in gut gedämmten Gebäuden – genau das, was bei Neubauten heute ohnehin Standard ist. In schlecht gedämmten Altbauten ist eine gute Dämmung Voraussetzung.
+]
 
-== Was das bedeutet
+== So schnell wird es warm
 
-- *Gleichmäßigere Wärmeverteilung* im gesamten Raum
-- *Weniger Energieverlust* durch die Decke
-- *Angenehmes Raumklima* ohne Staubaufwirbelung
-- *Keine trockene Luft* – gut für Allergiker und Asthmatiker
-
-== Strahlungswirkungsgrad
-
-Der Strahlungswirkungsgrad gibt an, wie viel der Energie als direkte Strahlung abgegeben wird.
-
-#key-fact("max. 70%", "Strahlungswirkungsgrad", source: "HEATSCOPE ROOMS PROJECTS Katalog")
-
-== Aufheizzeit
+Sie müssen nicht warten, bis der ganze Raum aufgeheizt ist. Die Strahlungswärme ist *sofort spürbar*.
 
 #table(
   columns: (1fr, auto),
-  [*Paneel-Typ*], [*Aufheizzeit*],
-  [Stahlpaneel], [ca. 5 Minuten],
+  [*Paneel-Typ*], [*Betriebstemperatur erreicht*],
+  [Stahlpaneel], [unter 5 Minuten],
   [Naturstein], [10-25 Minuten],
 )
 
-Die Strahlungswärme ist bereits nach wenigen Minuten spürbar – im Gegensatz zur Konvektionsheizung, die erst die gesamte Raumluft durchmischen muss.
+Zum Vergleich: Eine Fußbodenheizung braucht oft eine Stunde oder länger, um einen Raum aufzuwärmen.
 
-#source[DIN-Norm (< 5 Min = gut, < 2 Min = ideal), AUTO BILD Test 2025]
+#source[DIN-Norm, AUTO BILD Test 2025]
 
-== GEG-Konformität
 
-#fact-box(title: "Ist Infrarotheizung erlaubt?")[
-  *Ja.* Das Umweltbundesamt bestätigt: Die Verwendung von Infrarotheizungen ist nach dem Gebäudeenergiegesetz (GEG) in vielen Fällen möglich.
+= „Aber ist das auch gesund?"
+
+Eine berechtigte Frage. Die kurze Antwort: *Ja, absolut.*
+
+Infrarotheizungen arbeiten mit *IR-C Strahlung* – das ist langwellige Wärmestrahlung, wie sie auch von einem Kachelofen oder von der Sonne ausgeht. Nicht zu verwechseln mit UV-Strahlung, die etwas völlig anderes ist.
+
+#quote[
+  Bei normalem Gebrauch keine Gesundheitsgefährdung.
 ]
 
+#source[Bundesamt für Strahlenschutz]
 
-= Kosten und Wirtschaftlichkeit
-
-== Investitionskosten
-
-HEATSCOPE ROOMS PROJECTS – Infrarotheizungen für Bauträger:
-
-#table(
-  columns: (1fr, auto),
-  [*Aspekt*], [*Wert*],
-  [Investitionskosten], [*ab 39 €/m²* Wohnfläche],
-  [Garantie Heizpaneel], [*30 Jahre*],
-  [Garantie Regelung], [5 Jahre],
-  [Wartungskosten], [keine],
-)
-
-Zum Vergleich: Eine Wärmepumpeninstallation kostet ein *Vielfaches* – und erfordert regelmäßige Wartung.
-
-== Betriebskosten: Reale Zahlen
-
-#grid(
-  columns: (1fr, 1fr),
-  gutter: 1em,
-  fact-box(title: "Ehingen (5 WE)")[
-    #key-fact("50 €/Jahr", "für das gesamte Haus")
-  ],
-  fact-box(title: "Aschersleben (22 WE)")[
-    #key-fact("11,50 €/m²", "Flatrate inkl. NK")
-  ],
-)
-
-#source[Der Spiegel 34/2024, IG Infrarot]
-
-== Strompreisentwicklung
-
-#table(
-  columns: (1fr, auto),
-  [*Zeitpunkt*], [*Strompreis*],
-  [Heute (Neukunden)], [ca. 22,9 Ct/kWh],
-  [Heute (Bestandskunden)], [ca. 33,5 Ct/kWh],
-  [Prognose 2030], [ca. 30-38 Ct/kWh],
-)
-
-*Der Trend:* Stabilisierung durch Erneuerbare Energien (80% bis 2030).
-
-*Mit eigener PV-Anlage* sinken die Heizkosten dramatisch – bis auf nahezu Null.
-
-== CO2-Preisentwicklung
-
-Während Strompreise stabil bleiben, steigen die Kosten für fossile Brennstoffe:
-
-#table(
-  columns: (1fr, auto),
-  [*Jahr*], [*CO2-Preis*],
-  [2024], [45 €/t],
-  [2027], [ca. 120 €/t],
-  [2035], [200+ €/t],
-)
-
-*Das bedeutet:* Fernwärme und Gas werden immer teurer. Strom aus erneuerbaren Quellen bleibt stabil.
-
-#source[EWI Köln, Ariadne-Projekt, Umweltbundesamt]
-
-== Die Rechnung: Amortisation Wärmepumpe
-
-Der Spiegel hat vorgerechnet:
-
-- Mehrkosten Wärmepumpe: *+50.000 €*
-- Einsparung pro Jahr: ca. *500 €*
-- *Amortisation: 100 Jahre*
-
-#fact-box[
-  *Die Infrarotheizung rechnet sich vom ersten Tag.*
-]
+Diese Art von Wärme wird sogar *therapeutisch* eingesetzt: bei Muskelverspannungen, Rheuma und zur allgemeinen Entspannung. In vielen Wellness-Bereichen und medizinischen Anwendungen ist Infrarotwärme seit Jahrzehnten etabliert.
 
 
-= Vergleich mit Alternativen
+= Eine Geschichte aus dem Allgäu
 
-== Infrarotheizung vs. Fernwärme
+In Ehingen steht ein Mehrfamilienhaus mit 5 Wohnungen. Der Bauherr hat sich für Infrarotheizung + Photovoltaik entschieden.
 
-#table(
-  columns: (auto, 1fr, 1fr),
-  [*Aspekt*], [*Fernwärme*], [*Infrarot*],
-  [Preis/kWh], [Nicht kalkulierbar], [Stabil, mit PV fast kostenlos],
-  [Anschlusskosten], [Sehr hoch], [Ab 39 €/m²],
-  [Abhängigkeit], [Ein Anbieter (Monopol)], [Unabhängig],
-  [CO2-Zukunft], [Massive Sanierungskosten], [Bereits CO2-neutral mit PV],
-)
+Das Ergebnis? *Der Spiegel* nennt es „das sparsamste Mehrfamilienhaus Deutschlands".
 
-*Fazit:* Fernwärme hat versteckte Kostenrisiken, die erst in den kommenden Jahren sichtbar werden.
+#key-fact("50 €", "Energiekosten pro Jahr – für das gesamte Haus", source: "Der Spiegel 34/2024")
 
-== Infrarotheizung vs. Wärmepumpe
-
-#table(
-  columns: (auto, 1fr, 1fr),
-  [*Aspekt*], [*Wärmepumpe*], [*Infrarot*],
-  [Investition], [3x teurer], [Ab 39 €/m²],
-  [Wartung], [Regelmäßig, teuer], [Keine],
-  [Lebensdauer], [ca. 15-20 Jahre], [30+ Jahre (mit Garantie)],
-  [Leitungsverluste], [Ja], [Nein (dezentral)],
-  [Amortisation], [100 Jahre], [Sofort],
-)
-
-#source[Der Spiegel 34/2024, 3lectrify Analyse]
-
-== Die versteckten Vorteile der Dezentralität
-
-Bei Infrarotheizung:
-- *Jeder Raum unabhängig*
-- Ausfall eines Paneels = nur ein Raum betroffen
-- Schneller Austausch möglich
-- Keine teuren Notfall-Reparaturen
-
-
-= Referenzprojekte
-
-== Ehingen (Allgäu) – Das sparsamste MFH Deutschlands
-
-*Der Spiegel 34/2024* berichtet über ein Mehrfamilienhaus, das mit Infrarotheizung und PV-Anlage Rekordwerte erreicht:
+Wie ist das möglich?
 
 #table(
   columns: (1fr, auto),
@@ -202,42 +106,109 @@ Bei Infrarotheizung:
   [PV-Leistung], [48 kW-Peak],
   [Gesamtverbrauch], [33.304 kWh/Jahr],
   [Netzbezug], [7.936 kWh/Jahr],
-  [Autarkiegrad], [*76%*],
-  [*Energiekosten*], [*50 €/Jahr*],
+  [Einspeisung ins Netz], [30.204 kWh/Jahr],
+  [*Autarkiegrad*], [*76%*],
 )
 
-*Das Ergebnis:* 50 Euro pro Jahr für das gesamte Haus mit 5 Wohnungen.
-
-== Aschersleben – Plattenbau wird Vorzeigeprojekt
-
-22 Wohnungen in einem ehemaligen Plattenbau wurden mit Infrarotheizung und PV-Anlage saniert:
-
-- Solare Deckung: *60%*
-- Flatrate-Miete: *11,50 €/m²* (inkl. aller Nebenkosten)
-- Energiekosten: ca. 80 €/Monat pro Wohnung
-
-*Das Besondere:* Die Mieter zahlen eine feste Pauschale – für 5 Jahre garantiert.
-
-== Bergisch Gladbach – Energieklasse A ohne PV
-
-Ein Altbau von 1969 erreicht mit reiner Infrarotheizung (ohne PV-Anlage) die Energieklasse A:
-
-- Baujahr: 1969
-- Energieklasse: *A*
-- Endenergiebedarf: 37,84 kWh/m²a
-
-*Der Beweis:* Infrarotheizung funktioniert auch ohne PV.
-
-== Cottbus – Wissenschaftlich begleitet
-
-Seit 2018 werden zwei Mehrfamilienhäuser mit je 7 Wohneinheiten von der *TU Bergakademie Freiberg* wissenschaftlich überwacht:
-
-- Wohneinheiten: 2 × 7 = 14
-- In Betrieb seit: 2018
-- Flatrate-Miete: *10,50 €/m²*
+Die Anlage produziert mehr Strom, als das Haus verbraucht. Der überschüssige Strom wird ins Netz eingespeist – und verdient Geld.
 
 
-= Was sagt die Wissenschaft?
+= Warum funktioniert das wirtschaftlich?
+
+Bei klassischen Heizungen denken wir: „Die Investition ist hoch, aber die laufenden Kosten sind niedrig." Bei Infrarot ist es genau umgekehrt – und genau das ist der Vorteil.
+
+== Niedrige Investition
+
+#table(
+  columns: (1fr, auto),
+  [*Aspekt*], [*HEATSCOPE ROOMS PROJECTS*],
+  [Investitionskosten], [*ab 39 €/m²* Wohnfläche],
+  [Garantie Heizpaneel], [*30 Jahre*],
+  [Garantie Regelung], [5 Jahre],
+  [Wartungskosten], [*keine*],
+)
+
+Warum so günstig?
+- Keine Rohrleitungen verlegen
+- Kein Heizraum nötig
+- Kein Schornstein
+- Einfache Installation durch Elektriker
+
+== Kalkulierbare Betriebskosten
+
+Den Strompreis kennen Sie. Er ist transparent und vergleichbar. Und mit einer eigenen PV-Anlage werden Sie weitgehend unabhängig davon.
+
+Noch wichtiger: *CO2-Preis = 0 €* (bei grünem Strom oder PV).
+
+
+= Der versteckte Kostentreiber
+
+Wussten Sie, dass jede Gasrechnung einen *CO2-Preis* enthält? Aktuell 45 €/Tonne.
+
+Aber das ist erst der Anfang:
+
+#table(
+  columns: (1fr, auto, auto),
+  [*Jahr*], [*CO2-Preis*], [*Was passiert*],
+  [2024], [45 €/t], [Aktueller Preis],
+  [2027], [~120 €/t], [EU ETS2 startet],
+  [2035], [200+ €/t], [Prognose EWI Köln],
+)
+
+#source[EWI Köln, Ariadne-Projekt, Umweltbundesamt]
+
+*Das bedeutet:* Gas und Fernwärme werden Jahr für Jahr teurer. Wer heute eine fossile Heizung einbaut, kauft steigende Kosten ein.
+
+Infrarotheizung mit grünem Strom oder PV? *CO2-Preis = 0 €.* Heute und in Zukunft.
+
+
+= Warum nicht einfach eine Wärmepumpe?
+
+Wärmepumpen sind eine gute Technologie – in bestimmten Situationen. Aber sie sind *nicht für jedes Gebäude* die beste Lösung.
+
+Der Spiegel hat für das Ehingen-Projekt nachgerechnet:
+
+#fact-box(title: "Die Rechnung")[
+  - Mehrkosten Wärmepumpe: *+50.000 €*
+  - Einsparung pro Jahr: ca. *500 €*
+  - *Amortisation: 100 Jahre*
+]
+
+== Was bei Wärmepumpen zu bedenken ist
+
+- *3x höhere Anfangsinvestition* als Infrarot
+- *Regelmäßige Wartung* nötig (jährlich)
+- *Lebensdauer ca. 15-20 Jahre* – dann Ersatz nötig
+- *Leitungsverluste* im Gebäude reduzieren Effizienz
+- *Zentraler Ausfall* = ganzes Haus kalt
+
+== Die Vorteile dezentraler Infrarotheizung
+
+- *Niedrige Investition* – sofort wirtschaftlich
+- *Keine Wartung* – nichts, was kaputtgehen kann
+- *30 Jahre Garantie* – länger als jede Wärmepumpe hält
+- *Jeder Raum unabhängig* – fällt ein Paneel aus, funktionieren alle anderen weiter
+
+
+= Und was ist mit Fernwärme?
+
+Fernwärme klingt praktisch – ein Anbieter macht alles. Aber genau das ist auch das Risiko:
+
+*Sie haben keine Wahl.* Der Anbieter bestimmt den Preis. Und wenn er seine Netze CO2-neutral sanieren muss (bis 2045 gesetzlich vorgeschrieben), zahlen Sie.
+
+#table(
+  columns: (auto, 1fr, 1fr),
+  [*Aspekt*], [*Fernwärme*], [*Infrarot + PV*],
+  [Preis/kWh], [Nicht kalkulierbar], [Transparent, mit PV fast kostenlos],
+  [Anschlusskosten], [Sehr hoch], [Ab 39 €/m²],
+  [Abhängigkeit], [Ein Anbieter (Monopol)], [Unabhängig],
+  [CO2-Zukunft], [Sanierungskosten werden umgelegt], [Bereits CO2-neutral],
+)
+
+Mit Infrarot + PV sind Sie *unabhängig*. Sie erzeugen Ihren Strom selbst und wissen genau, was es kostet.
+
+
+= Was die Wissenschaft sagt
 
 == Fraunhofer Institut für Bauphysik IBP
 
@@ -251,74 +222,109 @@ Seit 2018 werden zwei Mehrfamilienhäuser mit je 7 Wohneinheiten von der *TU Ber
   Anwendung von Infrarotheizungen in Bestandsgebäuden möglich und sinnvoll – *auch im Altbestand*.
 ]
 
+== Weitere unabhängige Studien
 
-= Häufige Fragen (FAQ)
-
-== Komfort & Funktion
-
-=== Wird das warm genug, auch im Winter?
-
-Ja. Hochwertige Infrarotheizungen erreichen ihre Betriebstemperatur in unter 5 Minuten. Die Strahlungswärme ist sofort auf der Haut spürbar – im Gegensatz zu Konvektionsheizungen, die erst die gesamte Raumluft erwärmen müssen.
-
-#source[DIN-Norm, AUTO BILD Test 2025]
-
-=== Wie schnell heizt eine Infrarotheizung auf?
-
-Stahlpaneele erreichen ihre Betriebstemperatur in etwa 5 Minuten, Naturstein in 10-25 Minuten. Die Strahlungswärme ist bereits nach wenigen Minuten auf der Haut spürbar.
-
-=== Ist Infrarotstrahlung gesundheitlich unbedenklich?
-
-Ja. Infrarotheizungen arbeiten mit IR-C Strahlung (langwellig) – nicht zu verwechseln mit UV-Strahlung. Das Bundesamt für Strahlenschutz bestätigt: Bei normalem Gebrauch keine Gesundheitsgefährdung. IR-Wärme wird sogar in der Medizin therapeutisch eingesetzt.
-
-#source[Bundesamt für Strahlenschutz, Fachverband für Strahlenschutz e.V.]
-
-== Kosten & Wirtschaftlichkeit
-
-=== Was kostet eine Infrarotheizung im Betrieb?
-
-Die Betriebskosten hängen vom Gebäude und der PV-Ausstattung ab. Das "sparsamste Mehrfamilienhaus Deutschlands" in Ehingen kommt auf nur 50 € Energiekosten pro Jahr – für das gesamte Haus mit 5 Wohneinheiten.
-
-=== Wie entwickeln sich die Strompreise?
-
-Während fossile Brennstoffe durch CO2-Bepreisung teurer werden, stabilisieren sich Strompreise durch den Ausbau erneuerbarer Energien. Mit eigener PV-Anlage sinken die Heizkosten auf nahezu Null.
-
-=== Rechnet sich die Investition?
-
-HEATSCOPE Infrarotheizungen kosten ab 39 €/m² Wohnfläche. Der Spiegel hat vorgerechnet: Eine Wärmepumpe mit 50.000 € Mehrkosten amortisiert sich erst nach 100 Jahren.
-
-== Vergleich & Alternativen
-
-=== Was spricht gegen Fernwärme?
-
-Fernwärme hat mehrere Nachteile: Der Preis pro kWh ist nicht kalkulierbar. Anschlusskosten sind sehr hoch. Sie sind von einem einzigen Anbieter abhängig. Die CO2-Neutralität bis 2045 wird enorme Kosten verursachen.
-
-=== Warum keine Wärmepumpe?
-
-Wärmepumpen haben ihre Berechtigung, aber: Die Anlagentechnik ist 3x teurer. Wartung und Instandhaltung sind teuer. Nach etwa 15 Jahren ist eine größere Instandsetzung nötig. Leitungsverluste reduzieren die Effizienz.
-
-=== Ist Infrarotheizung GEG-konform?
-
-Ja. Das Umweltbundesamt bestätigt: Die Verwendung von Infrarotheizungen ist nach dem GEG in vielen Fällen möglich.
-
-== Vertrauen & Nachweis
-
-=== Gibt es Referenzprojekte?
-
-Ja, zahlreiche. Das bekannteste ist das "sparsamste Mehrfamilienhaus Deutschlands" in Ehingen (Spiegel 34/2024). In Aschersleben wurden 22 Wohnungen saniert, in Cottbus werden 14 Wohneinheiten seit 2018 wissenschaftlich begleitet.
-
-=== Was sagt die Wissenschaft?
-
-Das Fraunhofer Institut für Bauphysik IBP hat nachgewiesen: Infrarotheizungen sparen über 32% Endenergie gegenüber Gas-Brennwert-Heizungen. Die TU Dresden bestätigt die Eignung für Bestandsgebäude.
-
-=== Welche Garantie gibt es?
-
-HEATSCOPE gibt *30 Jahre Garantie* auf jedes Heizpaneel – eine echte Garantie, keine Gewährleistung. Das geht weit über den Branchenstandard hinaus.
+- TU Bergakademie Freiberg (Langzeit-Monitoring in Cottbus)
+- Umweltbundesamt (GEG-Konformität)
+- Interessengemeinschaft Infrarot: www.ig-infrarot.de
 
 
-= Kontakt
+= Weitere Erfolgsgeschichten
 
-#cta-box(title: "Erleben Sie es selbst")[
-  Besuchen Sie das *3lectrify Kompetenzzentrum* und fühlen Sie den Unterschied.
+== Aschersleben – 22 Wohnungen
+
+Ein Plattenbau wurde mit Infrarotheizung und PV-Anlage saniert. Das zeigt: Es funktioniert auch im Bestand!
+
+Die Mieter zahlen eine *Flatrate von 11,50 €/m²* – inklusive aller Nebenkosten. 5 Jahre Preisgarantie. Keine bösen Überraschungen bei der Nebenkostenabrechnung.
+
+== Bergisch Gladbach – Altbau 1969
+
+Ein 55 Jahre altes Haus – heute mit *Energieklasse A*. Nur mit Infrarotheizung erreicht: 37,84 kWh/m²a. Ganz ohne PV-Anlage. Das Haus selbst ist effizient genug.
+
+== Cottbus – 14 Wohnungen seit 2018
+
+Wissenschaftlich begleitet von der TU Bergakademie Freiberg. Flatrate: *10,50 €/m²* – seit über 6 Jahren stabil. Die Langzeitdaten bestätigen: Es funktioniert dauerhaft.
+
+== Familie R., Attendorn
+
+Ein Einfamilienhaus, komplett energieautark. Monatliche Kosten: *unter 100 €* – für Heizung, Strom und E-Auto zusammen. Mit nur 6,5 kWp PV-Leistung.
+
+
+= Was bedeutet das für Ihren Immobilienwert?
+
+Eine berechtigte Frage. Sie kaufen nicht nur für heute – Sie denken auch an morgen.
+
+== Für künftige Käufer attraktiv
+
+Die gute Nachricht: *Energieeffizienz wird immer wichtiger* für Käufer. Ein Gebäude ohne fossile Abhängigkeit, mit niedrigen Nebenkosten und ohne teure Zentralheizung – das ist ein Verkaufsargument.
+
+- Keine Wartungskosten, die auf Käufer zukommen
+- Keine zentrale Technik, die ausfallen kann
+- Niedrige Nebenkosten, nachweisbar durch Verbrauchsdaten
+- Zukunftssicher: keine CO2-Kosten
+
+== Für Mieter attraktiv
+
+Falls Sie vermieten: Mieter schätzen transparente, stabile Heizkosten ohne böse Nachzahlungen.
+
+- Kalkulierbare Heizkosten
+- Keine Nachzahlungen bei der Nebenkostenabrechnung
+- Individuelle Regelung pro Raum
+- Schnelle Wärme bei Bedarf
+
+== Der Trend
+
+Immer mehr Projekte setzen auf Infrarot + PV. Was heute innovativ ist, wird morgen Standard sein. Wer jetzt baut oder kauft, ist der Entwicklung voraus.
+
+
+= Sicherheit für Ihre Investition
+
+Eine Heizung soll jahrzehntelang funktionieren. Deshalb gibt HEATSCOPE eine Garantie, die in der Branche einzigartig ist:
+
+#key-fact("30 Jahre", "Garantie auf das Heizpaneel")
+
+Das ist keine Gewährleistung – das ist eine *echte Herstellergarantie*. Made in Germany, VDE/GS/CE zertifiziert, EU-Ökodesign konform.
+
+Zum Vergleich: Eine Wärmepumpe hält typischerweise 15-20 Jahre. Danach steht eine teure Erneuerung an.
+
+Die Regelungstechnik (Thermostate) hat 5 Jahre Garantie.
+
+
+= Ihre Fragen – ehrlich beantwortet
+
+== Wird das wirklich warm genug?
+
+Ja. Die Wärme ist in unter 5 Minuten spürbar – nicht erst nach einer Stunde wie bei Fußbodenheizungen. Und Sie haben keine kalten Füße mehr, weil die Wärme gleichmäßig verteilt ist.
+
+== Ist das GEG-konform?
+
+Ja. Das Umweltbundesamt bestätigt die Zulässigkeit nach Gebäudeenergiegesetz. Besonders in gut gedämmten Gebäuden und mit PV ist es ideal.
+
+== Was passiert bei Stromausfall?
+
+Dasselbe wie bei jeder elektrischen Heizung oder Wärmepumpe – sie funktioniert nicht. Mit einem Batteriespeicher können Sie sich absichern. In der Praxis sind Stromausfälle in Deutschland aber selten und kurz.
+
+== Muss ich etwas warten?
+
+Nein. Infrarotheizungen haben keine beweglichen Teile, keine Filter, keine Pumpen. Es gibt buchstäblich nichts zu warten. Das Paneel hängt an der Wand und funktioniert – 30 Jahre lang.
+
+== Gibt es Fördermittel?
+
+Die direkte Förderung von Infrarotheizungen ist begrenzt. Aber: Die niedrigen Investitionskosten machen eine Förderung oft unnötig. Und PV-Anlagen werden großzügig gefördert – damit amortisiert sich das Gesamtsystem schnell.
+
+
+= Unser Tipp: Erleben Sie es selbst
+
+Zahlen und Fakten sind wichtig. Aber nichts ersetzt das Gefühl, wenn Sie in einen Raum mit Infrarotheizung treten.
+
+*Vereinbaren Sie einen Termin* in einem beheizten Raum. Schalten Sie die Heizung ein, warten Sie 5 Minuten – und spüren Sie selbst, wie gleichmäßig und angenehm die Wärme ist.
+
+Oder besuchen Sie unser Kompetenzzentrum in Sauerlach – dort können Sie alle Varianten direkt vergleichen.
+
+#cta-box(title: "Was Sie von uns bekommen")[
+  - *Probetermin:* Wärme selbst erleben – vor Ort oder im Showroom
+  - *Verbrauchsdaten:* Echte Zahlen aus vergleichbaren Projekten
+  - *Kostenrechnung:* Investition und Betrieb für Ihr konkretes Projekt
 
   *Kramergasse 32* \
   82054 Sauerlach
